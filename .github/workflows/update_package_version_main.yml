@@ -15,16 +15,25 @@ jobs:
     runs-on: ubuntu-20.04
     # Every time 
     steps:
-      - name: "Checkout source code"
+      - name: "Partially checkout source code"
         # https://github.com/actions/checkout
         # https://git-scm.com/docs/git-sparse-checkout
         # https://github.com/marketplace/actions/sparse-checkout-action
-        uses: "snow-actions/sparse-checkout@v1.2.0"
-        with:
-          ref: ${{ github.ref }}
-          patterns: |
-            package.json
-            package-lock.json
+        # uses: "snow-actions/sparse-checkout@v1.2.0"
+        # with:
+        #   ref: ${{ github.ref }}
+        #   patterns: |
+        #     package.json
+        #     package-lock.json
+    
+        run: |
+          REPO="https://${GITHUB_ACTOR}:${{ secrets.GITHUB_TOKEN }}@github.com/${GITHUB_REPOSITORY}.git"
+          git config --global user.email github-actions@github.com
+          git config --global user.name github-actions
+          git clone --filter=blob:none --no-checkout --depth 1  --sparse $REPO .
+          git sparse-checkout init --cone
+          git sparse-checkout add "package.json" "package-lock.json"
+          git checkout
       - name: "cat package.json"
         run: cat ./package.json
       - name: "Setup Node.js"
