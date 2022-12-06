@@ -22,14 +22,14 @@ jobs:
       - name: "cat package.json"
         run: cat ./package.json
       - name: "Setup Node.js"
-        uses: "actions/setup-node@v1"
+        uses: "actions/setup-node@v3"
         with:
           node-version: 16.x
       - name: "Automated Version Bump"
         uses: "phips28/gh-action-bump-version@master"
         with:
           tag-prefix: ''
-          commit-message: 'Bumps version to {{version}} [skip ci]'
+          commit-message: 'Bumps main branch content pacage version to {{version}}.'
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       - name: "cat package.json"
