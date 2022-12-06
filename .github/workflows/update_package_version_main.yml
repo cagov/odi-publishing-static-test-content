@@ -22,8 +22,9 @@ jobs:
         uses: "snow-actions/sparse-checkout@v1.2.0"
         with:
           ref: ${{ github.ref }}
-          filter: 'media'
-          # lfs: false
+          patterns: |
+            package.json
+            package-lock.json
       - name: "cat package.json"
         run: cat ./package.json
       - name: "Setup Node.js"
