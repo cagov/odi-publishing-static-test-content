@@ -26,9 +26,10 @@ jobs:
         with:
           node-version: 16.x
       - name: "Automated Version Bump"
-        uses: "phips28/gh-action-bump-version@master"
+        uses: "phips28/gh-action-bump-version@v9"
         with:
           tag-prefix: ''
+          commit-message: 'Bumps version to {{version}} [skip ci]'
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       - name: "cat package.json"
