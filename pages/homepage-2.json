@@ -1,11 +1,11 @@
 {
   "meta": {
-    "created_date": "2022-09-15T19:44:13",
-    "updated_date": "2022-12-06T07:00:38",
+    "created_date": "2022-12-06T07:23:13",
+    "updated_date": "2022-12-06T07:23:14",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/wp-json/wp/v2/",
-    "object_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/wp-json/wp/v2/pages/11507",
+    "object_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/wp-json/wp/v2/pages/12523",
     "process": {
       "source_code": "https://github.com/cagov/wordpress-to-github",
       "source_data": "https://editor-dev-cannabis-ca-gov.pantheonsite.io",
@@ -14,25 +14,25 @@
     "refresh_frequency": "as needed"
   },
   "data": {
-    "id": 11507,
-    "date": "2022-09-15T12:44:13",
-    "date_gmt": "2022-09-15T19:44:13",
-    "guid": "https://cannabis.ca.gov/?page_id=11507",
-    "modified": "2022-12-05T23:00:38",
-    "modified_gmt": "2022-12-06T07:00:38",
-    "slug": "draft-homepage",
+    "id": 12523,
+    "date": "2022-12-05T23:23:13",
+    "date_gmt": "2022-12-06T07:23:13",
+    "guid": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/?page_id=12523",
+    "modified": "2022-12-05T23:23:14",
+    "modified_gmt": "2022-12-06T07:23:14",
+    "slug": "homepage-2",
     "status": "publish",
     "type": "page",
-    "link": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/draft-homepage/",
-    "title": "DRAFT Homepage",
-    "excerpt": "<p>California offers cannabis-related grants to local governments to fund programs and universities to fund research. Grants for local governments Local Jurisdiction Assistance Grant Program California is committed to quickly transition cannabis businesses from provisional to annual licenses. One-time grant funding, totaling $100 million, is available to help eligible jurisdictions participate in this effort. Extra funds [&hellip;]</p>\n",
-    "author": "Wes Breazell",
+    "link": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/homepage-2/",
+    "title": "Homepage",
+    "excerpt": "<p>Get started Tweets by CACannabisDept</p>\n",
+    "author": "Chach Sikes",
     "featured_media": 0,
     "parent": 0,
     "menu_order": 0,
     "comment_status": "closed",
     "ping_status": "closed",
-    "template": "/code/wp-content/plugins/ca-design-system-gutenberg-blocks/includes/templates/template-page-landing.php",
+    "template": "/code/wp-content/plugins/ca-design-system-gutenberg-blocks/includes/templates/template-page.php",
     "meta": {
       "_stopmodifiedupdate": false,
       "_modified_date": ""
@@ -40,7 +40,7 @@
     "categories": [],
     "tags": [],
     "design_system_fields": {
-      "template": "landing"
+      "template": "template-page"
     },
     "og_meta": {
       "editor": {
@@ -53,25 +53,25 @@
       "site_name": "Department of Cannabis Control",
       "site_description": "Learn about California cannabis laws and licenses",
       "site_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io",
-      "canonical_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/draft-homepage/",
-      "page_title": "DRAFT Homepage",
+      "canonical_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/homepage-2/",
+      "page_title": "Homepage",
       "page_description": "Learn about California cannabis laws and licenses",
       "page_social_image_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
       "page_social_image_width": 1200,
       "page_social_image_height": 630,
       "page_social_image_alt": "",
-      "meta_title": "DRAFT Homepage",
+      "meta_title": "Homepage",
       "meta_description": "Learn about California cannabis laws and licenses",
-      "meta_canonical_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/draft-homepage/",
-      "open_graph_title": "DRAFT Homepage",
+      "meta_canonical_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/homepage-2/",
+      "open_graph_title": "Homepage",
       "open_graph_description": "Learn about California cannabis laws and licenses",
-      "twitter_title": "DRAFT Homepage",
+      "twitter_title": "Homepage",
       "twitter_description": "Learn about California cannabis laws and licenses"
     },
     "headless_categories": [],
     "headless_tags": [],
     "headless_publishing": [],
     "headless_preview": [],
-    "wordpress_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/draft-homepage/"
+    "wordpress_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/homepage-2/"
   }
 }
