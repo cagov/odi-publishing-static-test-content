@@ -9,7 +9,7 @@ on:
 
 concurrency: sequential_version_bumps  
 
-gjobs:
+jobs:
   bump-version:  # https://github.com/maks-stupak/gh-action-bump-version/blob/master/.github/workflows/push.yml
     name: Bump package version in main branch
     runs-on: ubuntu-latest
