@@ -22,7 +22,7 @@ jobs:
         uses: "snow-actions/sparse-checkout@v1.2.0"
         with:
           ref: ${{ github.ref }}
-          filter: '*.pdf,*.jpg,*.mp3,*.html'
+          filter: 'media'
           # lfs: false
       - name: "cat package.json"
         run: cat ./package.json
