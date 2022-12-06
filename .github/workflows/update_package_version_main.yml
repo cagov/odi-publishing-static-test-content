@@ -6,7 +6,8 @@ on:
     - main
   pull_request:
       types: [opened, synchronize]
-
+  concurrency: sequential_version_bumps
+  
 jobs:
   bump-version:  # https://github.com/maks-stupak/gh-action-bump-version/blob/master/.github/workflows/push.yml
     name: Bump package version in main branch
