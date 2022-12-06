@@ -29,8 +29,8 @@ jobs:
           tag-prefix: ''
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      - name: "cat package.json"
-        run: cat ./package.json
+      # - name: "cat package.json"
+      #   run: cat ./package.json
       - name: Repository dispatch to odi-publishing-11ty-sandbox.ca.gov [main]
         uses: peter-evans/repository-dispatch@v2
         with:
