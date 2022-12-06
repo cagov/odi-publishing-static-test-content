@@ -12,13 +12,18 @@ concurrency: sequential_version_bumps
 jobs:
   bump-version:  # https://github.com/maks-stupak/gh-action-bump-version/blob/master/.github/workflows/push.yml
     name: Bump package version in main branch
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-20.04
     # Every time 
     steps:
       - name: "Checkout source code"
-        uses: "actions/checkout@v3"
+        # https://github.com/actions/checkout
+        # https://git-scm.com/docs/git-sparse-checkout
+        # https://github.com/marketplace/actions/sparse-checkout-action
+        uses: "snow-actions/sparse-checkout@v1.2.0"
         with:
           ref: ${{ github.ref }}
+          filter: '*.pdf,*.jpg,*.mp3,*.html'
+          # lfs: false
       - name: "cat package.json"
         run: cat ./package.json
       - name: "Setup Node.js"
