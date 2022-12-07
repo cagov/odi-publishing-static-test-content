@@ -16,16 +16,6 @@ jobs:
     # Every time 
     steps:
       - name: "Partially checkout source code"
-        # https://github.com/actions/checkout
-        # https://git-scm.com/docs/git-sparse-checkout
-        # https://github.com/marketplace/actions/sparse-checkout-action
-        # uses: "snow-actions/sparse-checkout@v1.2.0"
-        # with:
-        #   ref: ${{ github.ref }}
-        #   patterns: |
-        #     package.json
-        #     package-lock.json
-    
         run: |
           REPO="https://${GITHUB_ACTOR}:${{ secrets.GITHUB_TOKEN }}@github.com/${GITHUB_REPOSITORY}.git"
           git config --global user.email github-actions@github.com
@@ -36,15 +26,12 @@ jobs:
           git checkout
       - name: "cat package.json"
         run: cat ./package.json
-      - name: "Setup Node.js"
-        uses: "actions/setup-node@v3"
-        with:
-          node-version: 16.x
+      # https://github.com/phips28/gh-action-bump-version
       - name: "Automated Version Bump"
         uses: "phips28/gh-action-bump-version@master"
         with:
           tag-prefix: ''
-          commit-message: 'Bumps main branch content pacage version to {{version}}.'
+          commit-message: 'Bumps main branch content package version to {{version}}.'
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       - name: "cat package.json"
