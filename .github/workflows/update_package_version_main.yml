@@ -16,15 +16,17 @@ jobs:
     # Every time 
     steps:
       - name: "Partially checkout source code"
+        decription: "Fast checkout of package.json in order to bump the version number."
         run: |
           REPO="https://${GITHUB_ACTOR}:${{ secrets.GITHUB_TOKEN }}@github.com/${GITHUB_REPOSITORY}.git"
           git config --global user.email github-actions@github.com
           git config --global user.name github-actions
           git clone --filter=blob:none --no-checkout --depth 1  --sparse $REPO .
           git sparse-checkout init --cone
-          git sparse-checkout add "package.json" "package-lock.json"
+          git sparse-checkout add "package.json"
           git checkout
       - name: "cat package.json"
+        description: "Bump the version number of this content package repo."
         run: cat ./package.json
       # https://github.com/phips28/gh-action-bump-version
       - name: "Automated Version Bump"
@@ -34,9 +36,10 @@ jobs:
           commit-message: 'Bumps main branch content package version to {{version}}.'
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      - name: "cat package.json"
-        run: cat ./package.json
+      # - name: "cat package.json"
+      #   run: cat ./package.json
       - name: Repository dispatch to odi-publishing-11ty-sandbox.ca.gov [main]
+        description: "Send signal to static site generation repo to trigger an update."
         uses: peter-evans/repository-dispatch@v2
         with:
           token: ${{ secrets.ODI_GITHUB_TOKEN }}
