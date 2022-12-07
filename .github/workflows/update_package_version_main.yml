@@ -16,7 +16,7 @@ jobs:
     # Every time 
     steps:
       - name: "Partially checkout source code"
-        decription: "Fast checkout of package.json in order to bump the version number."
+        description: "Fast checkout of package.json in order to bump the version number."
         run: |
           REPO="https://${GITHUB_ACTOR}:${{ secrets.GITHUB_TOKEN }}@github.com/${GITHUB_REPOSITORY}.git"
           git config --global user.email github-actions@github.com
