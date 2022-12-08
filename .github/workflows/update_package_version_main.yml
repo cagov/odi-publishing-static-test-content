@@ -16,7 +16,7 @@ jobs:
     # Every time 
     steps:
       - name: "Partially checkout source code"
-        description: "Fast checkout of package.json in order to bump the version number."
+        # Fast checkout of package.json in order to bump the version number.
         run: |
           REPO="https://${GITHUB_ACTOR}:${{ secrets.GITHUB_TOKEN }}@github.com/${GITHUB_REPOSITORY}.git"
           git config --global user.email github-actions@github.com
@@ -26,10 +26,11 @@ jobs:
           git sparse-checkout add "package.json"
           git checkout
       - name: "cat package.json"
-        description: "Bump the version number of this content package repo."
+        # Bump the version number of this content package repo.
         run: cat ./package.json
       # https://github.com/phips28/gh-action-bump-version
       - name: "Automated Version Bump"
+        # 
         uses: "phips28/gh-action-bump-version@master"
         with:
           tag-prefix: ''
