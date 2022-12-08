@@ -40,7 +40,7 @@ jobs:
       # - name: "cat package.json"
       #   run: cat ./package.json
       - name: Repository dispatch to odi-publishing-11ty-sandbox.ca.gov [main]
-        description: "Send signal to static site generation repo to trigger an update."
+        # description: "Send signal to static site generation repo to trigger an update."
         uses: peter-evans/repository-dispatch@v2
         with:
           token: ${{ secrets.ODI_GITHUB_TOKEN }}
