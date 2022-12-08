@@ -10,7 +10,7 @@ on:
 concurrency: sequential_version_bumps  
 
 jobs:
-  bump-version:  # https://github.com/maks-stupak/gh-action-bump-version/blob/master/.github/workflows/push.yml
+  bump-version:
     name: Bump package version in main branch
     runs-on: ubuntu-20.04
     # Every time 
@@ -26,19 +26,21 @@ jobs:
           git sparse-checkout add "package.json"
           git checkout
       - name: "cat package.json"
-        # Bump the version number of this content package repo.
+        # Recommended by phips28/gh-action-bump-version (required)
         run: cat ./package.json
-      # https://github.com/phips28/gh-action-bump-version
       - name: "Automated Version Bump"
-        # 
-        uses: "phips28/gh-action-bump-version@master"
+        # https://github.com/phips28/gh-action-bump-version
+        # Method suggestion from https://github.com/maks-stupak/gh-action-bump-version/blob/master/.github/workflows/push.yml
+        # Bump the version number of this content package repo.
+        uses: "phips28/gh-action-bump-version@v9"
         with:
           tag-prefix: ''
           commit-message: 'Bumps main branch content package version to {{version}}.'
-        env:
+        env: 
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      # - name: "cat package.json"
-      #   run: cat ./package.json
+      - name: "cat package.json"
+        # Recommended by phips28/gh-action-bump-version (required)
+        run: cat ./package.json
       - name: Repository dispatch to odi-publishing-11ty-sandbox.ca.gov [main]
         # description: "Send signal to static site generation repo to trigger an update."
         uses: peter-evans/repository-dispatch@v2
