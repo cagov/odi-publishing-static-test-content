@@ -1,11 +1,11 @@
 {
   "meta": {
-    "created_date": "2022-12-03T00:15:35",
-    "updated_date": "2023-04-13T23:06:46",
+    "created_date": "2023-04-13T22:58:32",
+    "updated_date": "2023-04-13T23:08:42",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/wp-json/wp/v2/",
-    "object_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/wp-json/wp/v2/posts/12472",
+    "object_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/wp-json/wp/v2/posts/12662",
     "process": {
       "source_code": "https://github.com/cagov/wordpress-to-github",
       "source_data": "https://editor-dev-cannabis-ca-gov.pantheonsite.io",
@@ -14,19 +14,19 @@
     "refresh_frequency": "as needed"
   },
   "data": {
-    "id": 12472,
-    "date": "2022-12-02T16:15:35",
-    "date_gmt": "2022-12-03T00:15:35",
-    "guid": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/?p=12472",
-    "modified": "2023-04-13T16:06:46",
-    "modified_gmt": "2023-04-13T23:06:46",
-    "slug": "december-14-2022-cultivation-subcommittee-meeting",
+    "id": 12662,
+    "date": "2023-04-13T15:58:32",
+    "date_gmt": "2023-04-13T22:58:32",
+    "guid": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/?p=12662",
+    "modified": "2023-04-13T16:08:42",
+    "modified_gmt": "2023-04-13T23:08:42",
+    "slug": "cannabis-advisory-committee-equity-subcommittee",
     "status": "publish",
     "type": "post",
-    "link": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/2022/12/december-14-2022-cultivation-subcommittee-meeting/",
-    "title": "<strong>Cannabis Advisory Committee – Equity Subcommittee </strong>",
+    "link": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/2023/04/cannabis-advisory-committee-equity-subcommittee/",
+    "title": "Cannabis Advisory Committee – Equity Subcommittee ",
     "excerpt": "<div class=\"event-details\">\n<div class=\"event-date\">April 25, 2023</div>\n<p></p>\n<div class=\"event-time\">1:00 PM PST</div>\n<p></p>\n<div class=\"event-location\">WebEx Event</div>\n</div>\n",
-    "author": "Wes Breazell",
+    "author": "Mukhtar Mukhtar",
     "featured_media": 0,
     "comment_status": "closed",
     "ping_status": "closed",
@@ -55,19 +55,19 @@
       "site_name": "Department of Cannabis Control",
       "site_description": "Learn about California cannabis laws and licenses",
       "site_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io",
-      "canonical_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/2022/12/december-14-2022-cultivation-subcommittee-meeting/",
-      "page_title": "<strong>Cannabis Advisory Committee – Equity Subcommittee </strong>",
+      "canonical_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/2023/04/cannabis-advisory-committee-equity-subcommittee/",
+      "page_title": "Cannabis Advisory Committee – Equity Subcommittee ",
       "page_description": "Learn about California cannabis laws and licenses",
       "page_social_image_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
       "page_social_image_width": 1200,
       "page_social_image_height": 630,
       "page_social_image_alt": "",
-      "meta_title": "<strong>Cannabis Advisory Committee – Equity Subcommittee </strong>",
+      "meta_title": "Cannabis Advisory Committee – Equity Subcommittee ",
       "meta_description": "Learn about California cannabis laws and licenses",
-      "meta_canonical_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/2022/12/december-14-2022-cultivation-subcommittee-meeting/",
-      "open_graph_title": "<strong>Cannabis Advisory Committee – Equity Subcommittee </strong>",
+      "meta_canonical_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/2023/04/cannabis-advisory-committee-equity-subcommittee/",
+      "open_graph_title": "Cannabis Advisory Committee – Equity Subcommittee ",
       "open_graph_description": "Learn about California cannabis laws and licenses",
-      "twitter_title": "<strong>Cannabis Advisory Committee – Equity Subcommittee </strong>",
+      "twitter_title": "Cannabis Advisory Committee – Equity Subcommittee ",
       "twitter_description": "Learn about California cannabis laws and licenses"
     },
     "headless_categories": [
@@ -110,6 +110,6 @@
       "custom_post_date": "",
       "custom_post_location": ""
     },
-    "wordpress_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/2022/12/december-14-2022-cultivation-subcommittee-meeting/"
+    "wordpress_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/2023/04/cannabis-advisory-committee-equity-subcommittee/"
   }
 }
