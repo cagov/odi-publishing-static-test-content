@@ -1,0 +1,138 @@
+{
+  "meta": {
+    "created_date": "2023-04-14T19:26:31",
+    "updated_date": "2023-04-14T19:26:37",
+    "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
+    "api_version": "v2",
+    "api_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/wp-json/wp/v2/",
+    "object_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/wp-json/wp/v2/posts/12674",
+    "process": {
+      "source_code": "https://github.com/cagov/wordpress-to-github",
+      "source_data": "https://editor-dev-cannabis-ca-gov.pantheonsite.io",
+      "deployment_target": "https://github.com/cagov/odi-publishing-static-test-content/tree/main"
+    },
+    "refresh_frequency": "as needed"
+  },
+  "data": {
+    "id": 12674,
+    "date": "2023-04-14T12:26:31",
+    "date_gmt": "2023-04-14T19:26:31",
+    "guid": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/?p=12674",
+    "modified": "2023-04-14T12:26:37",
+    "modified_gmt": "2023-04-14T19:26:37",
+    "slug": "equity-subcommittee-april-25",
+    "status": "publish",
+    "type": "post",
+    "link": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/2023/04/equity-subcommittee-april-25/",
+    "title": "Equity Subcommittee: April 25",
+    "excerpt": "",
+    "author": "Catherine Foss",
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "",
+    "format": "standard",
+    "meta": {
+      "_stopmodifiedupdate": false,
+      "_modified_date": ""
+    },
+    "categories": [
+      "Cannabis Advisory Committee",
+      "Equity Subcommittee",
+      "Events"
+    ],
+    "tags": [],
+    "design_system_fields": {
+      "template": "post"
+    },
+    "og_meta": {
+      "editor": {
+        "platform": "WordPress",
+        "plugin": "autodescription",
+        "plugin_name": "The SEO Framework",
+        "plugin_version": "4.1.5.1",
+        "editor_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io"
+      },
+      "site_name": "Department of Cannabis Control",
+      "site_description": "Learn about California cannabis laws and licenses",
+      "site_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io",
+      "canonical_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/2023/04/equity-subcommittee-april-25/",
+      "page_title": "Equity Subcommittee: April 25",
+      "page_description": "Learn about California cannabis laws and licenses",
+      "page_social_image_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
+      "page_social_image_width": 1200,
+      "page_social_image_height": 630,
+      "page_social_image_alt": "",
+      "meta_title": "Equity Subcommittee: April 25",
+      "meta_description": "Learn about California cannabis laws and licenses",
+      "meta_canonical_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/2023/04/equity-subcommittee-april-25/",
+      "open_graph_title": "Equity Subcommittee: April 25",
+      "open_graph_description": "Learn about California cannabis laws and licenses",
+      "twitter_title": "Equity Subcommittee: April 25",
+      "twitter_description": "Learn about California cannabis laws and licenses"
+    },
+    "headless_categories": [
+      {
+        "term_id": 808,
+        "name": "Cannabis Advisory Committee",
+        "slug": "cannabis-advisory-committee",
+        "term_group": 0,
+        "term_taxonomy_id": 808,
+        "taxonomy": "category",
+        "description": "",
+        "parent": 800,
+        "filter": "raw",
+        "cat_ID": 808,
+        "category_description": "",
+        "cat_name": "Cannabis Advisory Committee",
+        "category_nicename": "cannabis-advisory-committee",
+        "category_parent": 800
+      },
+      {
+        "term_id": 809,
+        "name": "Equity Subcommittee",
+        "slug": "equity-subcommittee",
+        "term_group": 0,
+        "term_taxonomy_id": 809,
+        "taxonomy": "category",
+        "description": "",
+        "parent": 808,
+        "filter": "raw",
+        "cat_ID": 809,
+        "category_description": "",
+        "cat_name": "Equity Subcommittee",
+        "category_nicename": "equity-subcommittee",
+        "category_parent": 808
+      },
+      {
+        "term_id": 800,
+        "name": "Events",
+        "slug": "events",
+        "term_group": 0,
+        "term_taxonomy_id": 800,
+        "taxonomy": "category",
+        "description": "",
+        "parent": 798,
+        "filter": "raw",
+        "cat_ID": 800,
+        "category_description": "",
+        "cat_name": "Events",
+        "category_nicename": "events",
+        "category_parent": 798
+      }
+    ],
+    "headless_tags": [],
+    "headless_publishing": [],
+    "headless_preview": [],
+    "event": null,
+    "custom_post_date": "",
+    "meta_": {
+      "0": "",
+      "custom_post_link": "",
+      "custom_post_date": "",
+      "custom_post_location": ""
+    },
+    "wordpress_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/2023/04/equity-subcommittee-april-25/"
+  }
+}
