@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2023-04-27T20:18:47",
-    "updated_date": "2023-04-27T20:18:47",
+    "updated_date": "2023-04-27T20:18:53",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2023-04-27T13:18:47",
     "date_gmt": "2023-04-27T20:18:47",
     "guid": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/?p=12784",
-    "modified": "2023-04-27T13:18:47",
-    "modified_gmt": "2023-04-27T20:18:47",
+    "modified": "2023-04-27T13:18:53",
+    "modified_gmt": "2023-04-27T20:18:53",
     "slug": "inventory-procedures",
     "status": "publish",
     "type": "post",
