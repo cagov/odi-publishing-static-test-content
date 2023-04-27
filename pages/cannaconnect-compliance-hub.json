@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2023-04-27T17:35:27",
-    "updated_date": "2023-04-27T19:09:33",
+    "updated_date": "2023-04-27T19:16:14",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/wp-json/wp/v2/",
@@ -18,13 +18,13 @@
     "date": "2023-04-27T10:35:27",
     "date_gmt": "2023-04-27T17:35:27",
     "guid": "https://cannabis.ca.gov/?page_id=9492",
-    "modified": "2023-04-27T12:09:33",
-    "modified_gmt": "2023-04-27T19:09:33",
+    "modified": "2023-04-27T12:16:14",
+    "modified_gmt": "2023-04-27T19:16:14",
     "slug": "cannaconnect-compliance-hub",
     "status": "publish",
     "type": "page",
     "link": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/licensees/cannaconnect-compliance-hub/",
-    "title": "",
+    "title": "CannaConnect Compliance Hub",
     "excerpt": "<p>Subscribe * indicates required First Name Email Address * Variables &#8211;primary-100: #e7eef9; &#8211;primary-300: #a3bee7; &#8211;primary-500: #5a8ad4; &#8211;primary-700: #165ac2; &#8211;primary-900: #003688; Example .btn-primary-outline { color: var(&#8211;primary-700); } &#8211;s-1 &#8211;s-2 &#8211;s-3 &#8211;s-4 &#8211;s-5 &#8211;s-6 &#8211;s-7 &#8211;s-8 Quick actions Getting started Being a cannabis license holder makes you a pioneer in a budding industry. You are in the [&hellip;]</p>\n",
     "author": "Department of Cannabis Control",
     "featured_media": 0,
@@ -32,7 +32,7 @@
     "menu_order": 8,
     "comment_status": "closed",
     "ping_status": "closed",
-    "template": "/code/wp-content/plugins/ca-design-system-gutenberg-blocks/includes/templates/template-page-single-column-wide.php",
+    "template": "",
     "meta": {
       "_stopmodifiedupdate": false,
       "_modified_date": ""
@@ -42,7 +42,7 @@
     ],
     "tags": [],
     "design_system_fields": {
-      "template": "template-page-single-column-wide"
+      "template": "page"
     },
     "og_meta": {
       "editor": {
@@ -56,18 +56,18 @@
       "site_description": "Learn about California cannabis laws and licenses",
       "site_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io",
       "canonical_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/licensees/cannaconnect-compliance-hub/",
-      "page_title": "",
+      "page_title": "CannaConnect Compliance Hub",
       "page_description": "Learn about California cannabis laws and licenses",
       "page_social_image_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
       "page_social_image_width": 1200,
       "page_social_image_height": 630,
       "page_social_image_alt": "",
-      "meta_title": "",
+      "meta_title": "CannaConnect Compliance Hub",
       "meta_description": "Learn about California cannabis laws and licenses",
       "meta_canonical_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/licensees/cannaconnect-compliance-hub/",
-      "open_graph_title": "",
+      "open_graph_title": "CannaConnect Compliance Hub",
       "open_graph_description": "Learn about California cannabis laws and licenses",
-      "twitter_title": "",
+      "twitter_title": "CannaConnect Compliance Hub",
       "twitter_description": "Learn about California cannabis laws and licenses"
     },
     "headless_categories": [
