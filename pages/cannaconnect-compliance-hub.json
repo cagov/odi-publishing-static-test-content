@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2023-04-27T17:35:27",
-    "updated_date": "2023-04-30T03:25:30",
+    "updated_date": "2023-04-30T03:28:43",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2023-04-27T10:35:27",
     "date_gmt": "2023-04-27T17:35:27",
     "guid": "https://cannabis.ca.gov/?page_id=9492",
-    "modified": "2023-04-29T20:25:30",
-    "modified_gmt": "2023-04-30T03:25:30",
+    "modified": "2023-04-29T20:28:43",
+    "modified_gmt": "2023-04-30T03:28:43",
     "slug": "cannaconnect-compliance-hub",
     "status": "publish",
     "type": "page",
