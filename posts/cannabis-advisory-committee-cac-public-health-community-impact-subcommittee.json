@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2023-05-12T17:00:01",
-    "updated_date": "2023-05-12T18:35:39",
+    "updated_date": "2023-05-12T18:39:21",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2023-05-12T10:00:01",
     "date_gmt": "2023-05-12T17:00:01",
     "guid": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/?p=12837",
-    "modified": "2023-05-12T11:35:39",
-    "modified_gmt": "2023-05-12T18:35:39",
+    "modified": "2023-05-12T11:39:21",
+    "modified_gmt": "2023-05-12T18:39:21",
     "slug": "cannabis-advisory-committee-cac-public-health-community-impact-subcommittee",
     "status": "publish",
     "type": "post",
@@ -42,7 +42,9 @@
       "Events",
       "Public Health and Community Impact Subcommittee"
     ],
-    "tags": [],
+    "tags": [
+      "Upcoming"
+    ],
     "design_system_fields": {
       "template": "template-single-event"
     },
@@ -122,7 +124,19 @@
         "category_parent": 826
       }
     ],
-    "headless_tags": [],
+    "headless_tags": [
+      {
+        "term_id": 827,
+        "name": "Upcoming",
+        "slug": "upcoming",
+        "term_group": 0,
+        "term_taxonomy_id": 827,
+        "taxonomy": "post_tag",
+        "description": "",
+        "parent": 0,
+        "filter": "raw"
+      }
+    ],
     "headless_publishing": [],
     "headless_preview": [],
     "event": null,
