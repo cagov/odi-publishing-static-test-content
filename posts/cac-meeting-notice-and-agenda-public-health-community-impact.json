@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2023-05-12T16:32:45",
-    "updated_date": "2023-05-12T16:34:36",
+    "updated_date": "2023-05-12T16:58:58",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2023-05-12T09:32:45",
     "date_gmt": "2023-05-12T16:32:45",
     "guid": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/?p=12828",
-    "modified": "2023-05-12T09:34:36",
-    "modified_gmt": "2023-05-12T16:34:36",
+    "modified": "2023-05-12T09:58:58",
+    "modified_gmt": "2023-05-12T16:58:58",
     "slug": "cac-meeting-notice-and-agenda-public-health-community-impact",
     "status": "publish",
     "type": "post",
@@ -38,7 +38,8 @@
       "_modified_date": ""
     },
     "categories": [
-      "Cannabis Advisory Committee"
+      "Cannabis Advisory Committee",
+      "Public Health and Community Impact Subcommittee"
     ],
     "tags": [
       "CAC Agenda"
@@ -88,6 +89,22 @@
         "cat_name": "Cannabis Advisory Committee",
         "category_nicename": "cannabis-advisory-committee",
         "category_parent": 800
+      },
+      {
+        "term_id": 810,
+        "name": "Public Health and Community Impact Subcommittee",
+        "slug": "health-community-subcommittee",
+        "term_group": 0,
+        "term_taxonomy_id": 810,
+        "taxonomy": "category",
+        "description": "",
+        "parent": 808,
+        "filter": "raw",
+        "cat_ID": 810,
+        "category_description": "",
+        "cat_name": "Public Health and Community Impact Subcommittee",
+        "category_nicename": "health-community-subcommittee",
+        "category_parent": 808
       }
     ],
     "headless_tags": [
