@@ -97,13 +97,13 @@
         "term_taxonomy_id": 809,
         "taxonomy": "category",
         "description": "",
-        "parent": 808,
+        "parent": 826,
         "filter": "raw",
         "cat_ID": 809,
         "category_description": "",
         "cat_name": "Equity Subcommittee",
         "category_nicename": "equity-subcommittee",
-        "category_parent": 808
+        "category_parent": 826
       },
       {
         "term_id": 800,
