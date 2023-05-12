@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2023-05-12T16:32:45",
-    "updated_date": "2023-05-12T16:32:51",
+    "updated_date": "2023-05-12T16:34:36",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2023-05-12T09:32:45",
     "date_gmt": "2023-05-12T16:32:45",
     "guid": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/?p=12828",
-    "modified": "2023-05-12T09:32:51",
-    "modified_gmt": "2023-05-12T16:32:51",
+    "modified": "2023-05-12T09:34:36",
+    "modified_gmt": "2023-05-12T16:34:36",
     "slug": "cac-meeting-notice-and-agenda-public-health-community-impact",
     "status": "publish",
     "type": "post",
@@ -38,9 +38,11 @@
       "_modified_date": ""
     },
     "categories": [
-      "Announcements"
+      "Cannabis Advisory Committee"
     ],
-    "tags": [],
+    "tags": [
+      "CAC Agenda"
+    ],
     "design_system_fields": {
       "template": "post"
     },
@@ -72,23 +74,35 @@
     },
     "headless_categories": [
       {
-        "term_id": 14,
-        "name": "Announcements",
-        "slug": "announcements",
+        "term_id": 808,
+        "name": "Cannabis Advisory Committee",
+        "slug": "cannabis-advisory-committee",
         "term_group": 0,
-        "term_taxonomy_id": 14,
+        "term_taxonomy_id": 808,
         "taxonomy": "category",
         "description": "",
-        "parent": 0,
+        "parent": 800,
         "filter": "raw",
-        "cat_ID": 14,
+        "cat_ID": 808,
         "category_description": "",
-        "cat_name": "Announcements",
-        "category_nicename": "announcements",
-        "category_parent": 0
+        "cat_name": "Cannabis Advisory Committee",
+        "category_nicename": "cannabis-advisory-committee",
+        "category_parent": 800
       }
     ],
-    "headless_tags": [],
+    "headless_tags": [
+      {
+        "term_id": 825,
+        "name": "CAC Agenda",
+        "slug": "cac-agenda",
+        "term_group": 0,
+        "term_taxonomy_id": 825,
+        "taxonomy": "post_tag",
+        "description": "",
+        "parent": 0,
+        "filter": "raw"
+      }
+    ],
     "headless_publishing": [],
     "headless_preview": [],
     "event": null,
