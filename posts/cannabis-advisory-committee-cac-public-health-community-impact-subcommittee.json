@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2023-05-12T17:00:01",
-    "updated_date": "2023-05-12T18:15:30",
+    "updated_date": "2023-05-12T18:31:00",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2023-05-12T10:00:01",
     "date_gmt": "2023-05-12T17:00:01",
     "guid": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/?p=12837",
-    "modified": "2023-05-12T11:15:30",
-    "modified_gmt": "2023-05-12T18:15:30",
+    "modified": "2023-05-12T11:31:00",
+    "modified_gmt": "2023-05-12T18:31:00",
     "slug": "cannabis-advisory-committee-cac-public-health-community-impact-subcommittee",
     "status": "publish",
     "type": "post",
@@ -38,6 +38,7 @@
       "_modified_date": ""
     },
     "categories": [
+      "CAC Subcommittee",
       "Events",
       "Public Health and Community Impact Subcommittee"
     ],
@@ -72,6 +73,22 @@
       "twitter_description": "Learn about California cannabis laws and licenses"
     },
     "headless_categories": [
+      {
+        "term_id": 826,
+        "name": "CAC Subcommittee",
+        "slug": "cac-subcommittee",
+        "term_group": 0,
+        "term_taxonomy_id": 826,
+        "taxonomy": "category",
+        "description": "",
+        "parent": 808,
+        "filter": "raw",
+        "cat_ID": 826,
+        "category_description": "",
+        "cat_name": "CAC Subcommittee",
+        "category_nicename": "cac-subcommittee",
+        "category_parent": 808
+      },
       {
         "term_id": 800,
         "name": "Events",
