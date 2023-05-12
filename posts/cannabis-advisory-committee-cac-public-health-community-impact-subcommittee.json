@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2023-05-12T17:00:01",
-    "updated_date": "2023-05-12T17:00:06",
+    "updated_date": "2023-05-12T17:02:46",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/wp-json/wp/v2/",
@@ -18,20 +18,20 @@
     "date": "2023-05-12T10:00:01",
     "date_gmt": "2023-05-12T17:00:01",
     "guid": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/?p=12837",
-    "modified": "2023-05-12T10:00:06",
-    "modified_gmt": "2023-05-12T17:00:06",
+    "modified": "2023-05-12T10:02:46",
+    "modified_gmt": "2023-05-12T17:02:46",
     "slug": "cannabis-advisory-committee-cac-public-health-community-impact-subcommittee",
     "status": "publish",
     "type": "post",
     "link": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/2023/05/cannabis-advisory-committee-cac-public-health-community-impact-subcommittee/",
     "title": "Cannabis Advisory Committee – CAC Public Health &#038; Community Impact Subcommittee",
-    "excerpt": "",
+    "excerpt": "<p>Agenda</p>\n",
     "author": "Catherine Foss",
     "featured_media": 0,
     "comment_status": "closed",
     "ping_status": "closed",
     "sticky": false,
-    "template": "",
+    "template": "/code/wp-content/plugins/ca-design-system-gutenberg-blocks/includes/templates/template-single-event.php",
     "format": "standard",
     "meta": {
       "_stopmodifiedupdate": false,
@@ -42,7 +42,7 @@
     ],
     "tags": [],
     "design_system_fields": {
-      "template": "post"
+      "template": "template-single-event"
     },
     "og_meta": {
       "editor": {
