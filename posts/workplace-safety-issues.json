@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2023-05-15T19:41:06",
-    "updated_date": "2023-05-15T19:41:14",
+    "updated_date": "2023-05-15T19:41:19",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2023-05-15T12:41:06",
     "date_gmt": "2023-05-15T19:41:06",
     "guid": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/?p=12893",
-    "modified": "2023-05-15T12:41:14",
-    "modified_gmt": "2023-05-15T19:41:14",
+    "modified": "2023-05-15T12:41:19",
+    "modified_gmt": "2023-05-15T19:41:19",
     "slug": "workplace-safety-issues",
     "status": "publish",
     "type": "post",
