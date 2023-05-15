@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2023-05-15T19:39:00",
-    "updated_date": "2023-05-15T19:53:55",
+    "updated_date": "2023-05-15T20:00:54",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2023-05-15T12:39:00",
     "date_gmt": "2023-05-15T19:39:00",
     "guid": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/?p=12891",
-    "modified": "2023-05-15T12:53:55",
-    "modified_gmt": "2023-05-15T19:53:55",
+    "modified": "2023-05-15T13:00:54",
+    "modified_gmt": "2023-05-15T20:00:54",
     "slug": "expired-lease-complaints",
     "status": "publish",
     "type": "post",
@@ -38,11 +38,12 @@
       "_modified_date": ""
     },
     "categories": [
-      "Announcements",
       "Complaints",
       "Resources"
     ],
-    "tags": [],
+    "tags": [
+      "Housing"
+    ],
     "design_system_fields": {
       "template": "template-page-single-column"
     },
@@ -73,22 +74,6 @@
       "twitter_description": "Learn about California cannabis laws and licenses"
     },
     "headless_categories": [
-      {
-        "term_id": 14,
-        "name": "Announcements",
-        "slug": "announcements",
-        "term_group": 0,
-        "term_taxonomy_id": 14,
-        "taxonomy": "category",
-        "description": "",
-        "parent": 0,
-        "filter": "raw",
-        "cat_ID": 14,
-        "category_description": "",
-        "cat_name": "Announcements",
-        "category_nicename": "announcements",
-        "category_parent": 0
-      },
       {
         "term_id": 829,
         "name": "Complaints",
@@ -122,7 +107,19 @@
         "category_parent": 0
       }
     ],
-    "headless_tags": [],
+    "headless_tags": [
+      {
+        "term_id": 833,
+        "name": "Housing",
+        "slug": "housing",
+        "term_group": 0,
+        "term_taxonomy_id": 833,
+        "taxonomy": "post_tag",
+        "description": "",
+        "parent": 0,
+        "filter": "raw"
+      }
+    ],
     "headless_publishing": [],
     "headless_preview": [],
     "event": null,
