@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2023-05-15T19:51:11",
-    "updated_date": "2023-05-15T20:02:28",
+    "updated_date": "2023-05-15T22:59:29",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2023-05-15T12:51:11",
     "date_gmt": "2023-05-15T19:51:11",
     "guid": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/?p=12906",
-    "modified": "2023-05-15T13:02:28",
-    "modified_gmt": "2023-05-15T20:02:28",
+    "modified": "2023-05-15T15:59:29",
+    "modified_gmt": "2023-05-15T22:59:29",
     "slug": "cannabis-excise-or-sales-tax-complaints",
     "status": "publish",
     "type": "post",
@@ -38,9 +38,9 @@
       "_modified_date": ""
     },
     "categories": [
-      "Announcements",
       "Complaints",
-      "Resources"
+      "Resources",
+      "Taxes"
     ],
     "tags": [
       "Scams"
@@ -76,22 +76,6 @@
     },
     "headless_categories": [
       {
-        "term_id": 14,
-        "name": "Announcements",
-        "slug": "announcements",
-        "term_group": 0,
-        "term_taxonomy_id": 14,
-        "taxonomy": "category",
-        "description": "",
-        "parent": 0,
-        "filter": "raw",
-        "cat_ID": 14,
-        "category_description": "",
-        "cat_name": "Announcements",
-        "category_nicename": "announcements",
-        "category_parent": 0
-      },
-      {
         "term_id": 829,
         "name": "Complaints",
         "slug": "complaints",
@@ -122,6 +106,22 @@
         "cat_name": "Resources",
         "category_nicename": "resources",
         "category_parent": 0
+      },
+      {
+        "term_id": 843,
+        "name": "Taxes",
+        "slug": "taxes",
+        "term_group": 0,
+        "term_taxonomy_id": 843,
+        "taxonomy": "category",
+        "description": "",
+        "parent": 829,
+        "filter": "raw",
+        "cat_ID": 843,
+        "category_description": "",
+        "cat_name": "Taxes",
+        "category_nicename": "taxes",
+        "category_parent": 829
       }
     ],
     "headless_tags": [
