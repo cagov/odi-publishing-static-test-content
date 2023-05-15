@@ -1,6 +1,6 @@
 {
   "name": "odi-publishing-static-test-content",
-  "version": "1.0.249",
+  "version": "1.0.250",
   "description": "Static site generator for http://odi-publishing-11ty-sandbox.ca.gov.s3-website-us-west-1.amazonaws.com",
   "main": "index.js",
   "keywords": [
