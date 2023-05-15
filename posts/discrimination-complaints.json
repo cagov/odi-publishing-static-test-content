@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2023-05-15T19:23:02",
-    "updated_date": "2023-05-15T19:59:11",
+    "updated_date": "2023-05-15T22:58:47",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2023-05-15T12:23:02",
     "date_gmt": "2023-05-15T19:23:02",
     "guid": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/?p=12878",
-    "modified": "2023-05-15T12:59:11",
-    "modified_gmt": "2023-05-15T19:59:11",
+    "modified": "2023-05-15T15:58:47",
+    "modified_gmt": "2023-05-15T22:58:47",
     "slug": "discrimination-complaints",
     "status": "publish",
     "type": "post",
@@ -39,6 +39,7 @@
     },
     "categories": [
       "Complaints",
+      "Discrimination",
       "Resources"
     ],
     "tags": [
@@ -89,6 +90,22 @@
         "cat_name": "Complaints",
         "category_nicename": "complaints",
         "category_parent": 828
+      },
+      {
+        "term_id": 838,
+        "name": "Discrimination",
+        "slug": "discrimination-complaints",
+        "term_group": 0,
+        "term_taxonomy_id": 838,
+        "taxonomy": "category",
+        "description": "",
+        "parent": 829,
+        "filter": "raw",
+        "cat_ID": 838,
+        "category_description": "",
+        "cat_name": "Discrimination",
+        "category_nicename": "discrimination-complaints",
+        "category_parent": 829
       },
       {
         "term_id": 828,
