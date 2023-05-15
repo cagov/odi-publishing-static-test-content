@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2023-05-15T19:52:30",
-    "updated_date": "2023-05-15T19:53:53",
+    "updated_date": "2023-05-15T20:02:28",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2023-05-15T12:52:30",
     "date_gmt": "2023-05-15T19:52:30",
     "guid": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/?p=12908",
-    "modified": "2023-05-15T12:53:53",
-    "modified_gmt": "2023-05-15T19:53:53",
+    "modified": "2023-05-15T13:02:28",
+    "modified_gmt": "2023-05-15T20:02:28",
     "slug": "payroll-or-employment-tax-complaints",
     "status": "publish",
     "type": "post",
@@ -42,7 +42,9 @@
       "Complaints",
       "Resources"
     ],
-    "tags": [],
+    "tags": [
+      "Scams"
+    ],
     "design_system_fields": {
       "template": "template-page-single-column"
     },
@@ -122,7 +124,19 @@
         "category_parent": 0
       }
     ],
-    "headless_tags": [],
+    "headless_tags": [
+      {
+        "term_id": 836,
+        "name": "Scams",
+        "slug": "scams",
+        "term_group": 0,
+        "term_taxonomy_id": 836,
+        "taxonomy": "post_tag",
+        "description": "",
+        "parent": 0,
+        "filter": "raw"
+      }
+    ],
     "headless_publishing": [],
     "headless_preview": [],
     "event": null,
