@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2023-05-15T19:23:02",
-    "updated_date": "2023-05-15T19:53:56",
+    "updated_date": "2023-05-15T19:59:11",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2023-05-15T12:23:02",
     "date_gmt": "2023-05-15T19:23:02",
     "guid": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/?p=12878",
-    "modified": "2023-05-15T12:53:56",
-    "modified_gmt": "2023-05-15T19:53:56",
+    "modified": "2023-05-15T12:59:11",
+    "modified_gmt": "2023-05-15T19:59:11",
     "slug": "discrimination-complaints",
     "status": "publish",
     "type": "post",
@@ -38,11 +38,12 @@
       "_modified_date": ""
     },
     "categories": [
-      "Announcements",
       "Complaints",
       "Resources"
     ],
-    "tags": [],
+    "tags": [
+      "Discrimination"
+    ],
     "design_system_fields": {
       "template": "template-page-single-column"
     },
@@ -74,22 +75,6 @@
     },
     "headless_categories": [
       {
-        "term_id": 14,
-        "name": "Announcements",
-        "slug": "announcements",
-        "term_group": 0,
-        "term_taxonomy_id": 14,
-        "taxonomy": "category",
-        "description": "",
-        "parent": 0,
-        "filter": "raw",
-        "cat_ID": 14,
-        "category_description": "",
-        "cat_name": "Announcements",
-        "category_nicename": "announcements",
-        "category_parent": 0
-      },
-      {
         "term_id": 829,
         "name": "Complaints",
         "slug": "complaints",
@@ -97,13 +82,13 @@
         "term_taxonomy_id": 829,
         "taxonomy": "category",
         "description": "",
-        "parent": 0,
+        "parent": 828,
         "filter": "raw",
         "cat_ID": 829,
         "category_description": "",
         "cat_name": "Complaints",
         "category_nicename": "complaints",
-        "category_parent": 0
+        "category_parent": 828
       },
       {
         "term_id": 828,
@@ -122,7 +107,19 @@
         "category_parent": 0
       }
     ],
-    "headless_tags": [],
+    "headless_tags": [
+      {
+        "term_id": 837,
+        "name": "Discrimination",
+        "slug": "discrimination",
+        "term_group": 0,
+        "term_taxonomy_id": 837,
+        "taxonomy": "post_tag",
+        "description": "",
+        "parent": 0,
+        "filter": "raw"
+      }
+    ],
     "headless_publishing": [],
     "headless_preview": [],
     "event": null,
