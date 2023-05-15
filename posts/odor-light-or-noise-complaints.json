@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2023-05-15T19:31:20",
-    "updated_date": "2023-05-15T19:59:54",
+    "updated_date": "2023-05-15T23:00:19",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2023-05-15T12:31:20",
     "date_gmt": "2023-05-15T19:31:20",
     "guid": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/?p=12885",
-    "modified": "2023-05-15T12:59:54",
-    "modified_gmt": "2023-05-15T19:59:54",
+    "modified": "2023-05-15T16:00:19",
+    "modified_gmt": "2023-05-15T23:00:19",
     "slug": "odor-light-or-noise-complaints",
     "status": "publish",
     "type": "post",
@@ -40,6 +40,7 @@
     "categories": [
       "Announcements",
       "Complaints",
+      "Environmental",
       "Resources"
     ],
     "tags": [
@@ -106,6 +107,22 @@
         "cat_name": "Complaints",
         "category_nicename": "complaints",
         "category_parent": 828
+      },
+      {
+        "term_id": 839,
+        "name": "Environmental",
+        "slug": "environmental-complaints",
+        "term_group": 0,
+        "term_taxonomy_id": 839,
+        "taxonomy": "category",
+        "description": "",
+        "parent": 829,
+        "filter": "raw",
+        "cat_ID": 839,
+        "category_description": "",
+        "cat_name": "Environmental",
+        "category_nicename": "environmental-complaints",
+        "category_parent": 829
       },
       {
         "term_id": 828,
