@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2023-05-15T19:46:09",
-    "updated_date": "2023-05-15T19:46:15",
+    "updated_date": "2023-05-15T19:53:54",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2023-05-15T12:46:09",
     "date_gmt": "2023-05-15T19:46:09",
     "guid": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/?p=12899",
-    "modified": "2023-05-15T12:46:15",
-    "modified_gmt": "2023-05-15T19:46:15",
+    "modified": "2023-05-15T12:53:54",
+    "modified_gmt": "2023-05-15T19:53:54",
     "slug": "returns-refunds-or-exchanges",
     "status": "publish",
     "type": "post",
@@ -31,18 +31,20 @@
     "comment_status": "closed",
     "ping_status": "closed",
     "sticky": false,
-    "template": "",
+    "template": "/code/wp-content/plugins/ca-design-system-gutenberg-blocks/includes/templates/template-page-single-column.php",
     "format": "standard",
     "meta": {
       "_stopmodifiedupdate": false,
       "_modified_date": ""
     },
     "categories": [
-      "Announcements"
+      "Announcements",
+      "Complaints",
+      "Resources"
     ],
     "tags": [],
     "design_system_fields": {
-      "template": "post"
+      "template": "template-page-single-column"
     },
     "og_meta": {
       "editor": {
@@ -85,6 +87,38 @@
         "category_description": "",
         "cat_name": "Announcements",
         "category_nicename": "announcements",
+        "category_parent": 0
+      },
+      {
+        "term_id": 829,
+        "name": "Complaints",
+        "slug": "complaints",
+        "term_group": 0,
+        "term_taxonomy_id": 829,
+        "taxonomy": "category",
+        "description": "",
+        "parent": 0,
+        "filter": "raw",
+        "cat_ID": 829,
+        "category_description": "",
+        "cat_name": "Complaints",
+        "category_nicename": "complaints",
+        "category_parent": 0
+      },
+      {
+        "term_id": 828,
+        "name": "Resources",
+        "slug": "resources",
+        "term_group": 0,
+        "term_taxonomy_id": 828,
+        "taxonomy": "category",
+        "description": "",
+        "parent": 0,
+        "filter": "raw",
+        "cat_ID": 828,
+        "category_description": "",
+        "cat_name": "Resources",
+        "category_nicename": "resources",
         "category_parent": 0
       }
     ],
