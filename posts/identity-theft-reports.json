@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2023-05-15T19:49:16",
-    "updated_date": "2023-05-16T15:52:17",
+    "updated_date": "2023-05-16T17:05:32",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2023-05-15T12:49:16",
     "date_gmt": "2023-05-15T19:49:16",
     "guid": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/?p=12904",
-    "modified": "2023-05-16T08:52:17",
-    "modified_gmt": "2023-05-16T15:52:17",
+    "modified": "2023-05-16T10:05:32",
+    "modified_gmt": "2023-05-16T17:05:32",
     "slug": "identity-theft-reports",
     "status": "publish",
     "type": "post",
@@ -38,9 +38,9 @@
       "_modified_date": ""
     },
     "categories": [
-      "Announcements",
       "Complaints",
-      "Resources"
+      "Resources",
+      "Scams"
     ],
     "tags": [
       "Scams"
@@ -76,22 +76,6 @@
     },
     "headless_categories": [
       {
-        "term_id": 14,
-        "name": "Announcements",
-        "slug": "announcements",
-        "term_group": 0,
-        "term_taxonomy_id": 14,
-        "taxonomy": "category",
-        "description": "",
-        "parent": 0,
-        "filter": "raw",
-        "cat_ID": 14,
-        "category_description": "",
-        "cat_name": "Announcements",
-        "category_nicename": "announcements",
-        "category_parent": 0
-      },
-      {
         "term_id": 829,
         "name": "Complaints",
         "slug": "complaints",
@@ -122,6 +106,22 @@
         "cat_name": "Resources",
         "category_nicename": "resources",
         "category_parent": 0
+      },
+      {
+        "term_id": 842,
+        "name": "Scams",
+        "slug": "scams",
+        "term_group": 0,
+        "term_taxonomy_id": 842,
+        "taxonomy": "category",
+        "description": "",
+        "parent": 829,
+        "filter": "raw",
+        "cat_ID": 842,
+        "category_description": "",
+        "cat_name": "Scams",
+        "category_nicename": "scams",
+        "category_parent": 829
       }
     ],
     "headless_tags": [
