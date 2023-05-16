@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2023-05-15T19:39:00",
-    "updated_date": "2023-05-16T15:55:27",
+    "updated_date": "2023-05-16T17:04:16",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2023-05-15T12:39:00",
     "date_gmt": "2023-05-15T19:39:00",
     "guid": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/?p=12891",
-    "modified": "2023-05-16T08:55:27",
-    "modified_gmt": "2023-05-16T15:55:27",
+    "modified": "2023-05-16T10:04:16",
+    "modified_gmt": "2023-05-16T17:04:16",
     "slug": "expired-lease-complaints",
     "status": "publish",
     "type": "post",
@@ -39,6 +39,7 @@
     },
     "categories": [
       "Complaints",
+      "Housing",
       "Resources"
     ],
     "tags": [
@@ -89,6 +90,22 @@
         "cat_name": "Complaints",
         "category_nicename": "complaints",
         "category_parent": 828
+      },
+      {
+        "term_id": 832,
+        "name": "Housing",
+        "slug": "housing",
+        "term_group": 0,
+        "term_taxonomy_id": 832,
+        "taxonomy": "category",
+        "description": "",
+        "parent": 0,
+        "filter": "raw",
+        "cat_ID": 832,
+        "category_description": "",
+        "cat_name": "Housing",
+        "category_nicename": "housing",
+        "category_parent": 0
       },
       {
         "term_id": 828,
