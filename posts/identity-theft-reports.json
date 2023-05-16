@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2023-05-15T19:49:16",
-    "updated_date": "2023-05-15T20:02:28",
+    "updated_date": "2023-05-16T15:52:17",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2023-05-15T12:49:16",
     "date_gmt": "2023-05-15T19:49:16",
     "guid": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/?p=12904",
-    "modified": "2023-05-15T13:02:28",
-    "modified_gmt": "2023-05-15T20:02:28",
+    "modified": "2023-05-16T08:52:17",
+    "modified_gmt": "2023-05-16T15:52:17",
     "slug": "identity-theft-reports",
     "status": "publish",
     "type": "post",
