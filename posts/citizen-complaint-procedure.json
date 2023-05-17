@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2023-05-17T17:11:25",
-    "updated_date": "2023-05-17T17:12:24",
+    "updated_date": "2023-05-17T17:12:59",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2023-05-17T10:11:25",
     "date_gmt": "2023-05-17T17:11:25",
     "guid": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/?p=12946",
-    "modified": "2023-05-17T10:12:24",
-    "modified_gmt": "2023-05-17T17:12:24",
+    "modified": "2023-05-17T10:12:59",
+    "modified_gmt": "2023-05-17T17:12:59",
     "slug": "citizen-complaint-procedure",
     "status": "publish",
     "type": "post",
@@ -38,7 +38,8 @@
       "_modified_date": ""
     },
     "categories": [
-      "Announcements"
+      "Complaints",
+      "Law Enforcement"
     ],
     "tags": [],
     "design_system_fields": {
@@ -72,20 +73,36 @@
     },
     "headless_categories": [
       {
-        "term_id": 14,
-        "name": "Announcements",
-        "slug": "announcements",
+        "term_id": 829,
+        "name": "Complaints",
+        "slug": "complaints",
         "term_group": 0,
-        "term_taxonomy_id": 14,
+        "term_taxonomy_id": 829,
         "taxonomy": "category",
         "description": "",
-        "parent": 0,
+        "parent": 828,
         "filter": "raw",
-        "cat_ID": 14,
+        "cat_ID": 829,
         "category_description": "",
-        "cat_name": "Announcements",
-        "category_nicename": "announcements",
-        "category_parent": 0
+        "cat_name": "Complaints",
+        "category_nicename": "complaints",
+        "category_parent": 828
+      },
+      {
+        "term_id": 844,
+        "name": "Law Enforcement",
+        "slug": "law-enforcement",
+        "term_group": 0,
+        "term_taxonomy_id": 844,
+        "taxonomy": "category",
+        "description": "",
+        "parent": 829,
+        "filter": "raw",
+        "cat_ID": 844,
+        "category_description": "",
+        "cat_name": "Law Enforcement",
+        "category_nicename": "law-enforcement",
+        "category_parent": 829
       }
     ],
     "headless_tags": [],
