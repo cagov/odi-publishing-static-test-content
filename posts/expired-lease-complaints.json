@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2023-05-15T19:39:00",
-    "updated_date": "2023-05-17T17:37:47",
+    "updated_date": "2023-05-17T17:38:33",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2023-05-15T12:39:00",
     "date_gmt": "2023-05-15T19:39:00",
     "guid": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/?p=12891",
-    "modified": "2023-05-17T10:37:47",
-    "modified_gmt": "2023-05-17T17:37:47",
+    "modified": "2023-05-17T10:38:33",
+    "modified_gmt": "2023-05-17T17:38:33",
     "slug": "expired-lease-complaints",
     "status": "publish",
     "type": "post",
