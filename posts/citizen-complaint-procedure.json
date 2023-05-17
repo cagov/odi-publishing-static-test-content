@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2023-05-17T17:11:25",
-    "updated_date": "2023-05-17T23:26:43",
+    "updated_date": "2023-05-17T23:32:29",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2023-05-17T10:11:25",
     "date_gmt": "2023-05-17T17:11:25",
     "guid": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/?p=12946",
-    "modified": "2023-05-17T16:26:43",
-    "modified_gmt": "2023-05-17T23:26:43",
+    "modified": "2023-05-17T16:32:29",
+    "modified_gmt": "2023-05-17T23:32:29",
     "slug": "citizen-complaint-procedure",
     "status": "publish",
     "type": "post",
@@ -31,7 +31,7 @@
     "comment_status": "closed",
     "ping_status": "closed",
     "sticky": false,
-    "template": "/code/wp-content/plugins/ca-design-system-gutenberg-blocks/includes/templates/template-page-landing.php",
+    "template": "/code/wp-content/plugins/ca-design-system-gutenberg-blocks/includes/templates/template-page.php",
     "format": "standard",
     "meta": {
       "_stopmodifiedupdate": false,
@@ -43,7 +43,7 @@
     ],
     "tags": [],
     "design_system_fields": {
-      "template": "landing"
+      "template": "template-page"
     },
     "og_meta": {
       "editor": {
