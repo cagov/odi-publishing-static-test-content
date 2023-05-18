@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2023-05-18T15:42:42",
-    "updated_date": "2023-05-18T15:47:58",
+    "updated_date": "2023-05-18T15:51:38",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2023-05-18T08:42:42",
     "date_gmt": "2023-05-18T15:42:42",
     "guid": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/?p=12963",
-    "modified": "2023-05-18T08:47:58",
-    "modified_gmt": "2023-05-18T15:47:58",
+    "modified": "2023-05-18T08:51:38",
+    "modified_gmt": "2023-05-18T15:51:38",
     "slug": "use-of-force-policy",
     "status": "publish",
     "type": "post",
