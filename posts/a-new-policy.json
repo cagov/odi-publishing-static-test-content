@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2023-05-18T19:21:24",
-    "updated_date": "2023-05-18T19:21:24",
+    "updated_date": "2023-05-18T19:21:30",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2023-05-18T12:21:24",
     "date_gmt": "2023-05-18T19:21:24",
     "guid": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/?p=12977",
-    "modified": "2023-05-18T12:21:24",
-    "modified_gmt": "2023-05-18T19:21:24",
+    "modified": "2023-05-18T12:21:30",
+    "modified_gmt": "2023-05-18T19:21:30",
     "slug": "a-new-policy",
     "status": "publish",
     "type": "post",
