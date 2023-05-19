@@ -1,0 +1,121 @@
+{
+  "meta": {
+    "created_date": "2023-05-19T23:09:15",
+    "updated_date": "2023-05-19T23:09:20",
+    "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
+    "api_version": "v2",
+    "api_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/wp-json/wp/v2/",
+    "object_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/wp-json/wp/v2/posts/12986",
+    "process": {
+      "source_code": "https://github.com/cagov/wordpress-to-github",
+      "source_data": "https://editor-dev-cannabis-ca-gov.pantheonsite.io",
+      "deployment_target": "https://github.com/cagov/odi-publishing-static-test-content/tree/main"
+    },
+    "refresh_frequency": "as needed"
+  },
+  "data": {
+    "id": 12986,
+    "date": "2023-05-19T16:09:15",
+    "date_gmt": "2023-05-19T23:09:15",
+    "guid": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/?p=12986",
+    "modified": "2023-05-19T16:09:20",
+    "modified_gmt": "2023-05-19T23:09:20",
+    "slug": "cultivator-faqs",
+    "status": "publish",
+    "type": "post",
+    "link": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/2023/05/cultivator-faqs/",
+    "title": "Cultivator FAQs",
+    "excerpt": "<p>What is a greenhouse gas emissions intensity? Greenhouse gas (GHG) emissions intensity is a pollution rate. It measures the mass of GHGs that are emitted into the atmosphere to generate one megawatt hour (MWh) of electricity from a particular generation resource or portfolio of resources. My electricity utility provider’s power content label reports the greenhouse [&hellip;]</p>\n",
+    "author": "Catherine Foss",
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "",
+    "format": "standard",
+    "meta": {
+      "_stopmodifiedupdate": false,
+      "_modified_date": ""
+    },
+    "categories": [
+      "Cultivators",
+      "FAQs"
+    ],
+    "tags": [],
+    "design_system_fields": {
+      "template": "post"
+    },
+    "og_meta": {
+      "editor": {
+        "platform": "WordPress",
+        "plugin": "autodescription",
+        "plugin_name": "The SEO Framework",
+        "plugin_version": "4.1.5.1",
+        "editor_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io"
+      },
+      "site_name": "Department of Cannabis Control",
+      "site_description": "Learn about California cannabis laws and licenses",
+      "site_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io",
+      "canonical_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/2023/05/cultivator-faqs/",
+      "page_title": "Cultivator FAQs",
+      "page_description": "Learn about California cannabis laws and licenses",
+      "page_social_image_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
+      "page_social_image_width": 1200,
+      "page_social_image_height": 630,
+      "page_social_image_alt": "",
+      "meta_title": "Cultivator FAQs",
+      "meta_description": "Learn about California cannabis laws and licenses",
+      "meta_canonical_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/2023/05/cultivator-faqs/",
+      "open_graph_title": "Cultivator FAQs",
+      "open_graph_description": "Learn about California cannabis laws and licenses",
+      "twitter_title": "Cultivator FAQs",
+      "twitter_description": "Learn about California cannabis laws and licenses"
+    },
+    "headless_categories": [
+      {
+        "term_id": 824,
+        "name": "Cultivators",
+        "slug": "cultivators",
+        "term_group": 0,
+        "term_taxonomy_id": 824,
+        "taxonomy": "category",
+        "description": "",
+        "parent": 821,
+        "filter": "raw",
+        "cat_ID": 824,
+        "category_description": "",
+        "cat_name": "Cultivators",
+        "category_nicename": "cultivators",
+        "category_parent": 821
+      },
+      {
+        "term_id": 6,
+        "name": "FAQs",
+        "slug": "faqs",
+        "term_group": 0,
+        "term_taxonomy_id": 6,
+        "taxonomy": "category",
+        "description": "",
+        "parent": 2,
+        "filter": "raw",
+        "cat_ID": 6,
+        "category_description": "",
+        "cat_name": "FAQs",
+        "category_nicename": "faqs",
+        "category_parent": 2
+      }
+    ],
+    "headless_tags": [],
+    "headless_publishing": [],
+    "headless_preview": [],
+    "event": null,
+    "custom_post_date": "",
+    "meta_": {
+      "0": "",
+      "custom_post_link": "",
+      "custom_post_date": "",
+      "custom_post_location": ""
+    },
+    "wordpress_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/2023/05/cultivator-faqs/"
+  }
+}
