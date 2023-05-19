@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2023-05-19T23:09:15",
-    "updated_date": "2023-05-19T23:09:20",
+    "updated_date": "2023-05-19T23:15:03",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2023-05-19T16:09:15",
     "date_gmt": "2023-05-19T23:09:15",
     "guid": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/?p=12986",
-    "modified": "2023-05-19T16:09:20",
-    "modified_gmt": "2023-05-19T23:09:20",
+    "modified": "2023-05-19T16:15:03",
+    "modified_gmt": "2023-05-19T23:15:03",
     "slug": "cultivator-faqs",
     "status": "publish",
     "type": "post",
