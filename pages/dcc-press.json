@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2023-05-22T18:25:38",
-    "updated_date": "2023-05-22T18:25:44",
+    "updated_date": "2023-05-22T18:40:20",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2023-05-22T11:25:38",
     "date_gmt": "2023-05-22T18:25:38",
     "guid": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/?page_id=12988",
-    "modified": "2023-05-22T11:25:44",
-    "modified_gmt": "2023-05-22T18:25:44",
+    "modified": "2023-05-22T11:40:20",
+    "modified_gmt": "2023-05-22T18:40:20",
     "slug": "dcc-press",
     "status": "publish",
     "type": "page",
