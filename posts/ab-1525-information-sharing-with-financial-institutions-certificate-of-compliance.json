@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2023-05-24T21:33:12",
-    "updated_date": "2023-05-24T21:33:12",
+    "updated_date": "2023-05-24T21:33:17",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2023-05-24T14:33:12",
     "date_gmt": "2023-05-24T21:33:12",
     "guid": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/?p=13013",
-    "modified": "2023-05-24T14:33:12",
-    "modified_gmt": "2023-05-24T21:33:12",
+    "modified": "2023-05-24T14:33:17",
+    "modified_gmt": "2023-05-24T21:33:17",
     "slug": "ab-1525-information-sharing-with-financial-institutions-certificate-of-compliance",
     "status": "publish",
     "type": "post",
