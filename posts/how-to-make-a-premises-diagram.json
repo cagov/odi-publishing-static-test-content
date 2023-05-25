@@ -1,0 +1,121 @@
+{
+  "meta": {
+    "created_date": "2023-05-25T16:52:59",
+    "updated_date": "2023-05-25T16:53:04",
+    "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
+    "api_version": "v2",
+    "api_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/wp-json/wp/v2/",
+    "object_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/wp-json/wp/v2/posts/13041",
+    "process": {
+      "source_code": "https://github.com/cagov/wordpress-to-github",
+      "source_data": "https://editor-dev-cannabis-ca-gov.pantheonsite.io",
+      "deployment_target": "https://github.com/cagov/odi-publishing-static-test-content/tree/main"
+    },
+    "refresh_frequency": "as needed"
+  },
+  "data": {
+    "id": 13041,
+    "date": "2023-05-25T09:52:59",
+    "date_gmt": "2023-05-25T16:52:59",
+    "guid": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/?p=13041",
+    "modified": "2023-05-25T09:53:04",
+    "modified_gmt": "2023-05-25T16:53:04",
+    "slug": "how-to-make-a-premises-diagram",
+    "status": "publish",
+    "type": "post",
+    "link": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/2023/05/how-to-make-a-premises-diagram/",
+    "title": "How To: Make a Premises Diagram",
+    "excerpt": "<p>This document may be used to help prepare the premises diagram required for a commercial cannabis license application. The regulatory requirements for a premises diagram can be found in section 15006 of DCC regulations.</p>\n",
+    "author": "Catherine Foss",
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "",
+    "format": "standard",
+    "meta": {
+      "_stopmodifiedupdate": false,
+      "_modified_date": ""
+    },
+    "categories": [
+      "Applicants",
+      "How to apply"
+    ],
+    "tags": [],
+    "design_system_fields": {
+      "template": "post"
+    },
+    "og_meta": {
+      "editor": {
+        "platform": "WordPress",
+        "plugin": "autodescription",
+        "plugin_name": "The SEO Framework",
+        "plugin_version": "4.1.5.1",
+        "editor_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io"
+      },
+      "site_name": "Department of Cannabis Control",
+      "site_description": "Learn about California cannabis laws and licenses",
+      "site_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io",
+      "canonical_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/2023/05/how-to-make-a-premises-diagram/",
+      "page_title": "How To: Make a Premises Diagram",
+      "page_description": "Learn about California cannabis laws and licenses",
+      "page_social_image_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
+      "page_social_image_width": 1200,
+      "page_social_image_height": 630,
+      "page_social_image_alt": "",
+      "meta_title": "How To: Make a Premises Diagram",
+      "meta_description": "Learn about California cannabis laws and licenses",
+      "meta_canonical_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/2023/05/how-to-make-a-premises-diagram/",
+      "open_graph_title": "How To: Make a Premises Diagram",
+      "open_graph_description": "Learn about California cannabis laws and licenses",
+      "twitter_title": "How To: Make a Premises Diagram",
+      "twitter_description": "Learn about California cannabis laws and licenses"
+    },
+    "headless_categories": [
+      {
+        "term_id": 822,
+        "name": "Applicants",
+        "slug": "applicants",
+        "term_group": 0,
+        "term_taxonomy_id": 822,
+        "taxonomy": "category",
+        "description": "",
+        "parent": 821,
+        "filter": "raw",
+        "cat_ID": 822,
+        "category_description": "",
+        "cat_name": "Applicants",
+        "category_nicename": "applicants",
+        "category_parent": 821
+      },
+      {
+        "term_id": 859,
+        "name": "How to apply",
+        "slug": "how-to-apply",
+        "term_group": 0,
+        "term_taxonomy_id": 859,
+        "taxonomy": "category",
+        "description": "",
+        "parent": 858,
+        "filter": "raw",
+        "cat_ID": 859,
+        "category_description": "",
+        "cat_name": "How to apply",
+        "category_nicename": "how-to-apply",
+        "category_parent": 858
+      }
+    ],
+    "headless_tags": [],
+    "headless_publishing": [],
+    "headless_preview": [],
+    "event": null,
+    "custom_post_date": "",
+    "meta_": {
+      "0": "",
+      "custom_post_link": "",
+      "custom_post_date": "",
+      "custom_post_location": ""
+    },
+    "wordpress_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/2023/05/how-to-make-a-premises-diagram/"
+  }
+}
