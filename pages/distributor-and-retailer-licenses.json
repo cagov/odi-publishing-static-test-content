@@ -1,0 +1,77 @@
+{
+  "meta": {
+    "created_date": "2023-05-25T17:14:10",
+    "updated_date": "2023-05-25T17:14:15",
+    "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
+    "api_version": "v2",
+    "api_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/wp-json/wp/v2/",
+    "object_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/wp-json/wp/v2/pages/13055",
+    "process": {
+      "source_code": "https://github.com/cagov/wordpress-to-github",
+      "source_data": "https://editor-dev-cannabis-ca-gov.pantheonsite.io",
+      "deployment_target": "https://github.com/cagov/odi-publishing-static-test-content/tree/staging"
+    },
+    "refresh_frequency": "as needed"
+  },
+  "data": {
+    "id": 13055,
+    "date": "2023-05-25T10:14:10",
+    "date_gmt": "2023-05-25T17:14:10",
+    "guid": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/?page_id=13055",
+    "modified": "2023-05-25T10:14:15",
+    "modified_gmt": "2023-05-25T17:14:15",
+    "slug": "distributor-and-retailer-licenses",
+    "status": "publish",
+    "type": "page",
+    "link": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/distributor-and-retailer-licenses/",
+    "title": "Distributor and Retailer Licenses",
+    "excerpt": "<p>Forms DCC may request these forms, if needed during application review. Using the online licensing system</p>\n",
+    "author": "Catherine Foss",
+    "featured_media": 0,
+    "parent": 0,
+    "menu_order": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "template": "",
+    "meta": {
+      "_stopmodifiedupdate": false,
+      "_modified_date": ""
+    },
+    "categories": [],
+    "tags": [],
+    "design_system_fields": {
+      "template": "page"
+    },
+    "og_meta": {
+      "editor": {
+        "platform": "WordPress",
+        "plugin": "autodescription",
+        "plugin_name": "The SEO Framework",
+        "plugin_version": "4.1.5.1",
+        "editor_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io"
+      },
+      "site_name": "Department of Cannabis Control",
+      "site_description": "Learn about California cannabis laws and licenses",
+      "site_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io",
+      "canonical_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/distributor-and-retailer-licenses/",
+      "page_title": "Distributor and Retailer Licenses",
+      "page_description": "Learn about California cannabis laws and licenses",
+      "page_social_image_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
+      "page_social_image_width": 1200,
+      "page_social_image_height": 630,
+      "page_social_image_alt": "",
+      "meta_title": "Distributor and Retailer Licenses",
+      "meta_description": "Learn about California cannabis laws and licenses",
+      "meta_canonical_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/distributor-and-retailer-licenses/",
+      "open_graph_title": "Distributor and Retailer Licenses",
+      "open_graph_description": "Learn about California cannabis laws and licenses",
+      "twitter_title": "Distributor and Retailer Licenses",
+      "twitter_description": "Learn about California cannabis laws and licenses"
+    },
+    "headless_categories": [],
+    "headless_tags": [],
+    "headless_publishing": [],
+    "headless_preview": [],
+    "wordpress_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/distributor-and-retailer-licenses/"
+  }
+}
