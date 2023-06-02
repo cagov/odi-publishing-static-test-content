@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2023-06-02T19:30:04",
-    "updated_date": "2023-06-02T19:30:47",
+    "updated_date": "2023-06-02T19:32:38",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2023-06-02T12:30:04",
     "date_gmt": "2023-06-02T19:30:04",
     "guid": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/?p=13085",
-    "modified": "2023-06-02T12:30:47",
-    "modified_gmt": "2023-06-02T19:30:47",
+    "modified": "2023-06-02T12:32:38",
+    "modified_gmt": "2023-06-02T19:32:38",
     "slug": "checklist",
     "status": "publish",
     "type": "post",
