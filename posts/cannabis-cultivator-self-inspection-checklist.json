@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2023-06-02T21:48:04",
-    "updated_date": "2023-06-02T22:56:29",
+    "updated_date": "2023-06-02T22:57:46",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2023-06-02T14:48:04",
     "date_gmt": "2023-06-02T21:48:04",
     "guid": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/?p=13081",
-    "modified": "2023-06-02T15:56:29",
-    "modified_gmt": "2023-06-02T22:56:29",
+    "modified": "2023-06-02T15:57:46",
+    "modified_gmt": "2023-06-02T22:57:46",
     "slug": "cannabis-cultivator-self-inspection-checklist",
     "status": "publish",
     "type": "post",
@@ -38,7 +38,7 @@
       "_modified_date": ""
     },
     "categories": [
-      "Announcements"
+      "Cultivators"
     ],
     "tags": [],
     "design_system_fields": {
@@ -72,20 +72,20 @@
     },
     "headless_categories": [
       {
-        "term_id": 14,
-        "name": "Announcements",
-        "slug": "announcements",
+        "term_id": 824,
+        "name": "Cultivators",
+        "slug": "cultivators",
         "term_group": 0,
-        "term_taxonomy_id": 14,
+        "term_taxonomy_id": 824,
         "taxonomy": "category",
         "description": "",
-        "parent": 0,
+        "parent": 821,
         "filter": "raw",
-        "cat_ID": 14,
+        "cat_ID": 824,
         "category_description": "",
-        "cat_name": "Announcements",
-        "category_nicename": "announcements",
-        "category_parent": 0
+        "cat_name": "Cultivators",
+        "category_nicename": "cultivators",
+        "category_parent": 821
       }
     ],
     "headless_tags": [],
