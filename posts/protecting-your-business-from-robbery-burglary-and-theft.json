@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2023-06-22T17:20:04",
-    "updated_date": "2023-06-23T00:06:45",
+    "updated_date": "2023-07-07T19:02:41",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/wp-json/wp/v2/",
@@ -18,14 +18,14 @@
     "date": "2023-06-22T10:20:04",
     "date_gmt": "2023-06-22T17:20:04",
     "guid": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/?p=13134",
-    "modified": "2023-06-22T17:06:45",
-    "modified_gmt": "2023-06-23T00:06:45",
+    "modified": "2023-07-07T12:02:41",
+    "modified_gmt": "2023-07-07T19:02:41",
     "slug": "protecting-your-business-from-robbery-burglary-and-theft",
     "status": "publish",
     "type": "post",
     "link": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/2023/06/protecting-your-business-from-robbery-burglary-and-theft/",
     "title": "Protecting your business from robbery, burglary and theft",
-    "excerpt": "<p>Follow these steps to safeguard yourself, your business, and your employees from criminal activity. Definitions Robbery Burglary Theft Tips for staying safe Robbery Burglary Theft Most theft is committed by employees and can be addressed by policies and procedures. Resources Download the DCC brochure Protecting Your Business from Robbery, Burglary and Theft</p>\n",
+    "excerpt": "<p>Follow these steps to safeguard yourself, your business, and your employees from robbery, burglary and theft. Definitions Robbery Burglary Theft Most theft is committed by employees.&nbsp; Crime prevention brochure Download the crime prevention brochure to print and share with your employees to help keep your business safe. Reminder: Theft must be reported to the DCC [&hellip;]</p>\n",
     "author": "Catherine Foss",
     "featured_media": 0,
     "comment_status": "closed",
@@ -38,7 +38,8 @@
       "_modified_date": ""
     },
     "categories": [
-      "Announcements"
+      "CannaConnect",
+      "Workplace Safety"
     ],
     "tags": [],
     "design_system_fields": {
@@ -72,20 +73,36 @@
     },
     "headless_categories": [
       {
-        "term_id": 14,
-        "name": "Announcements",
-        "slug": "announcements",
+        "term_id": 812,
+        "name": "CannaConnect",
+        "slug": "cannaconnect",
         "term_group": 0,
-        "term_taxonomy_id": 14,
+        "term_taxonomy_id": 812,
         "taxonomy": "category",
         "description": "",
         "parent": 0,
         "filter": "raw",
-        "cat_ID": 14,
+        "cat_ID": 812,
         "category_description": "",
-        "cat_name": "Announcements",
-        "category_nicename": "announcements",
+        "cat_name": "CannaConnect",
+        "category_nicename": "cannaconnect",
         "category_parent": 0
+      },
+      {
+        "term_id": 817,
+        "name": "Workplace Safety",
+        "slug": "workplace-safety",
+        "term_group": 0,
+        "term_taxonomy_id": 817,
+        "taxonomy": "category",
+        "description": "",
+        "parent": 812,
+        "filter": "raw",
+        "cat_ID": 817,
+        "category_description": "",
+        "cat_name": "Workplace Safety",
+        "category_nicename": "workplace-safety",
+        "category_parent": 812
       }
     ],
     "headless_tags": [],
