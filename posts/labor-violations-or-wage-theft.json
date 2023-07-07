@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2023-04-14T20:35:11",
-    "updated_date": "2023-04-14T20:35:17",
+    "updated_date": "2023-07-07T19:52:43",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2023-04-14T13:35:11",
     "date_gmt": "2023-04-14T20:35:11",
     "guid": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/?p=12701",
-    "modified": "2023-04-14T13:35:17",
-    "modified_gmt": "2023-04-14T20:35:17",
+    "modified": "2023-07-07T12:52:43",
+    "modified_gmt": "2023-07-07T19:52:43",
     "slug": "labor-violations-or-wage-theft",
     "status": "publish",
     "type": "post",
@@ -38,7 +38,7 @@
       "_modified_date": ""
     },
     "categories": [
-      "Workplace Safety"
+      "Announcements"
     ],
     "tags": [],
     "design_system_fields": {
@@ -72,20 +72,20 @@
     },
     "headless_categories": [
       {
-        "term_id": 817,
-        "name": "Workplace Safety",
-        "slug": "workplace-safety",
+        "term_id": 14,
+        "name": "Announcements",
+        "slug": "announcements",
         "term_group": 0,
-        "term_taxonomy_id": 817,
+        "term_taxonomy_id": 14,
         "taxonomy": "category",
         "description": "",
-        "parent": 812,
+        "parent": 0,
         "filter": "raw",
-        "cat_ID": 817,
+        "cat_ID": 14,
         "category_description": "",
-        "cat_name": "Workplace Safety",
-        "category_nicename": "workplace-safety",
-        "category_parent": 812
+        "cat_name": "Announcements",
+        "category_nicename": "announcements",
+        "category_parent": 0
       }
     ],
     "headless_tags": [],
