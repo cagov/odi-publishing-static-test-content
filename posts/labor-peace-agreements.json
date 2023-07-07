@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2023-07-07T17:37:40",
-    "updated_date": "2023-07-07T19:48:13",
+    "updated_date": "2023-07-07T20:53:54",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2023-07-07T10:37:40",
     "date_gmt": "2023-07-07T17:37:40",
     "guid": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/?p=13172",
-    "modified": "2023-07-07T12:48:13",
-    "modified_gmt": "2023-07-07T19:48:13",
+    "modified": "2023-07-07T13:53:54",
+    "modified_gmt": "2023-07-07T20:53:54",
     "slug": "labor-peace-agreements",
     "status": "publish",
     "type": "post",
@@ -41,7 +41,9 @@
       "CannaConnect",
       "Workplace Safety"
     ],
-    "tags": [],
+    "tags": [
+      "labor-peace"
+    ],
     "design_system_fields": {
       "template": "template-page"
     },
@@ -105,7 +107,19 @@
         "category_parent": 812
       }
     ],
-    "headless_tags": [],
+    "headless_tags": [
+      {
+        "term_id": 866,
+        "name": "labor-peace",
+        "slug": "labor-peace",
+        "term_group": 0,
+        "term_taxonomy_id": 866,
+        "taxonomy": "post_tag",
+        "description": "",
+        "parent": 0,
+        "filter": "raw"
+      }
+    ],
     "headless_publishing": [],
     "headless_preview": [],
     "event": null,
