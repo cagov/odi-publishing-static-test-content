@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2023-07-07T17:37:40",
-    "updated_date": "2023-07-07T19:48:08",
+    "updated_date": "2023-07-07T19:48:13",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2023-07-07T10:37:40",
     "date_gmt": "2023-07-07T17:37:40",
     "guid": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/?p=13172",
-    "modified": "2023-07-07T12:48:08",
-    "modified_gmt": "2023-07-07T19:48:08",
+    "modified": "2023-07-07T12:48:13",
+    "modified_gmt": "2023-07-07T19:48:13",
     "slug": "labor-peace-agreements",
     "status": "publish",
     "type": "post",
