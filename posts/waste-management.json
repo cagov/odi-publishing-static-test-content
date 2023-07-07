@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2023-04-27T20:18:27",
-    "updated_date": "2023-07-07T19:29:00",
+    "updated_date": "2023-07-07T19:29:05",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2023-04-27T13:18:27",
     "date_gmt": "2023-04-27T20:18:27",
     "guid": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/?p=12788",
-    "modified": "2023-07-07T12:29:00",
-    "modified_gmt": "2023-07-07T19:29:00",
+    "modified": "2023-07-07T12:29:05",
+    "modified_gmt": "2023-07-07T19:29:05",
     "slug": "waste-management",
     "status": "publish",
     "type": "post",
