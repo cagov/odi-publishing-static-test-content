@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2023-06-22T17:20:04",
-    "updated_date": "2023-07-07T19:34:29",
+    "updated_date": "2023-07-07T19:51:11",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2023-06-22T10:20:04",
     "date_gmt": "2023-06-22T17:20:04",
     "guid": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/?p=13134",
-    "modified": "2023-07-07T12:34:29",
-    "modified_gmt": "2023-07-07T19:34:29",
+    "modified": "2023-07-07T12:51:11",
+    "modified_gmt": "2023-07-07T19:51:11",
     "slug": "protecting-your-business-from-robbery-burglary-and-theft",
     "status": "publish",
     "type": "post",
