@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2023-06-22T17:20:04",
-    "updated_date": "2023-07-07T19:51:11",
+    "updated_date": "2023-07-07T19:54:22",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2023-06-22T10:20:04",
     "date_gmt": "2023-06-22T17:20:04",
     "guid": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/?p=13134",
-    "modified": "2023-07-07T12:51:11",
-    "modified_gmt": "2023-07-07T19:51:11",
+    "modified": "2023-07-07T12:54:22",
+    "modified_gmt": "2023-07-07T19:54:22",
     "slug": "protecting-your-business-from-robbery-burglary-and-theft",
     "status": "publish",
     "type": "post",
@@ -38,8 +38,7 @@
       "_modified_date": ""
     },
     "categories": [
-      "CannaConnect",
-      "Workplace Safety"
+      "CannaConnect"
     ],
     "tags": [],
     "design_system_fields": {
@@ -87,22 +86,6 @@
         "cat_name": "CannaConnect",
         "category_nicename": "cannaconnect",
         "category_parent": 0
-      },
-      {
-        "term_id": 817,
-        "name": "Workplace Safety",
-        "slug": "workplace-safety",
-        "term_group": 0,
-        "term_taxonomy_id": 817,
-        "taxonomy": "category",
-        "description": "",
-        "parent": 812,
-        "filter": "raw",
-        "cat_ID": 817,
-        "category_description": "",
-        "cat_name": "Workplace Safety",
-        "category_nicename": "workplace-safety",
-        "category_parent": 812
       }
     ],
     "headless_tags": [],
