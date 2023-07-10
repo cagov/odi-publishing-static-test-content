@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2023-04-27T17:35:27",
-    "updated_date": "2023-07-07T20:51:04",
+    "updated_date": "2023-07-10T17:39:20",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2023-04-27T10:35:27",
     "date_gmt": "2023-04-27T17:35:27",
     "guid": "https://cannabis.ca.gov/?page_id=9492",
-    "modified": "2023-07-07T13:51:04",
-    "modified_gmt": "2023-07-07T20:51:04",
+    "modified": "2023-07-10T10:39:20",
+    "modified_gmt": "2023-07-10T17:39:20",
     "slug": "cannaconnect-compliance-hub",
     "status": "publish",
     "type": "page",
@@ -38,7 +38,7 @@
       "_modified_date": ""
     },
     "categories": [
-      "Announcements"
+      "CannaConnect"
     ],
     "tags": [],
     "design_system_fields": {
@@ -72,19 +72,19 @@
     },
     "headless_categories": [
       {
-        "term_id": 14,
-        "name": "Announcements",
-        "slug": "announcements",
+        "term_id": 812,
+        "name": "CannaConnect",
+        "slug": "cannaconnect",
         "term_group": 0,
-        "term_taxonomy_id": 14,
+        "term_taxonomy_id": 812,
         "taxonomy": "category",
         "description": "",
         "parent": 0,
         "filter": "raw",
-        "cat_ID": 14,
+        "cat_ID": 812,
         "category_description": "",
-        "cat_name": "Announcements",
-        "category_nicename": "announcements",
+        "cat_name": "CannaConnect",
+        "category_nicename": "cannaconnect",
         "category_parent": 0
       }
     ],
