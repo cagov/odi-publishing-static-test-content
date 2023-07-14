@@ -1,0 +1,96 @@
+{
+  "meta": {
+    "created_date": "2023-07-14T21:20:58",
+    "updated_date": "2023-07-14T21:21:04",
+    "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
+    "api_version": "v2",
+    "api_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/wp-json/wp/v2/",
+    "object_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/wp-json/wp/v2/pages/13219",
+    "process": {
+      "source_code": "https://github.com/cagov/wordpress-to-github",
+      "source_data": "https://editor-dev-cannabis-ca-gov.pantheonsite.io",
+      "deployment_target": "https://github.com/cagov/odi-publishing-static-test-content/tree/staging"
+    },
+    "refresh_frequency": "as needed"
+  },
+  "data": {
+    "id": 13219,
+    "date": "2023-07-14T14:20:58",
+    "date_gmt": "2023-07-14T21:20:58",
+    "guid": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/?page_id=13219",
+    "modified": "2023-07-14T14:21:04",
+    "modified_gmt": "2023-07-14T21:21:04",
+    "slug": "provisional-licenses",
+    "status": "publish",
+    "type": "page",
+    "link": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/licensees/cannaconnect-compliance-hub/provisional-licenses/",
+    "title": "Provisional licenses",
+    "excerpt": "<p>Provisional licenses help cannabis operators, particularly small, equity, and legacy cannabis businesses, transition into the legal market. They provide cannabis businesses with a pathway to enter and remain in the legal market while they complete local permitting and California Environmental Quality Act (CEQA) requirements. </p>\n",
+    "author": "Catherine Foss",
+    "featured_media": 0,
+    "parent": 9492,
+    "menu_order": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "template": "",
+    "meta": {
+      "_stopmodifiedupdate": false,
+      "_modified_date": ""
+    },
+    "categories": [
+      "CannaConnect"
+    ],
+    "tags": [],
+    "design_system_fields": {
+      "template": "page"
+    },
+    "og_meta": {
+      "editor": {
+        "platform": "WordPress",
+        "plugin": "autodescription",
+        "plugin_name": "The SEO Framework",
+        "plugin_version": "4.1.5.1",
+        "editor_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io"
+      },
+      "site_name": "Department of Cannabis Control",
+      "site_description": "Learn about California cannabis laws and licenses",
+      "site_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io",
+      "canonical_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/licensees/cannaconnect-compliance-hub/provisional-licenses/",
+      "page_title": "Provisional licenses",
+      "page_description": "Learn about California cannabis laws and licenses",
+      "page_social_image_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
+      "page_social_image_width": 1200,
+      "page_social_image_height": 630,
+      "page_social_image_alt": "",
+      "meta_title": "Provisional licenses",
+      "meta_description": "Learn about California cannabis laws and licenses",
+      "meta_canonical_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/licensees/cannaconnect-compliance-hub/provisional-licenses/",
+      "open_graph_title": "Provisional licenses",
+      "open_graph_description": "Learn about California cannabis laws and licenses",
+      "twitter_title": "Provisional licenses",
+      "twitter_description": "Learn about California cannabis laws and licenses"
+    },
+    "headless_categories": [
+      {
+        "term_id": 812,
+        "name": "CannaConnect",
+        "slug": "cannaconnect",
+        "term_group": 0,
+        "term_taxonomy_id": 812,
+        "taxonomy": "category",
+        "description": "",
+        "parent": 0,
+        "filter": "raw",
+        "cat_ID": 812,
+        "category_description": "",
+        "cat_name": "CannaConnect",
+        "category_nicename": "cannaconnect",
+        "category_parent": 0
+      }
+    ],
+    "headless_tags": [],
+    "headless_publishing": [],
+    "headless_preview": [],
+    "wordpress_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/licensees/cannaconnect-compliance-hub/provisional-licenses/"
+  }
+}
