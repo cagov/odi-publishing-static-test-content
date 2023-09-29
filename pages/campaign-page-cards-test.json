@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2023-09-29T19:43:42",
-    "updated_date": "2023-09-29T19:46:49",
+    "updated_date": "2023-09-29T19:48:37",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
     "api_version": "v2",
     "api_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2023-09-29T12:43:42",
     "date_gmt": "2023-09-29T19:43:42",
     "guid": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/?page_id=13242",
-    "modified": "2023-09-29T12:46:49",
-    "modified_gmt": "2023-09-29T19:46:49",
+    "modified": "2023-09-29T12:48:37",
+    "modified_gmt": "2023-09-29T19:48:37",
     "slug": "campaign-page-cards-test",
     "status": "publish",
     "type": "page",
