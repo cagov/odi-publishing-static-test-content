@@ -1,11 +1,11 @@
 {
   "meta": {
-    "created_date": "2023-04-14T20:34:19",
-    "updated_date": "2023-04-14T20:34:24",
+    "created_date": "2023-10-25T17:52:55",
+    "updated_date": "2023-10-25T17:53:02",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/wp-json/wp/v2/",
-    "object_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/wp-json/wp/v2/posts/12699",
+    "object_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/wp-json/wp/v2/posts/13259",
     "process": {
       "source_code": "https://github.com/cagov/wordpress-to-github",
       "source_data": "https://editor-dev-cannabis-ca-gov.pantheonsite.io",
@@ -14,18 +14,18 @@
     "refresh_frequency": "as needed"
   },
   "data": {
-    "id": 12699,
-    "date": "2023-04-14T13:34:19",
-    "date_gmt": "2023-04-14T20:34:19",
-    "guid": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/?p=12699",
-    "modified": "2023-04-14T13:34:24",
-    "modified_gmt": "2023-04-14T20:34:24",
-    "slug": "how-to-make-a-payment",
+    "id": 13259,
+    "date": "2023-10-25T10:52:55",
+    "date_gmt": "2023-10-25T17:52:55",
+    "guid": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/?p=13259",
+    "modified": "2023-10-25T10:53:02",
+    "modified_gmt": "2023-10-25T17:53:02",
+    "slug": "new-post-with-category-name",
     "status": "publish",
     "type": "post",
-    "link": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/cannaconnect/payments/how-to-make-a-payment/",
-    "title": "How to Make a Payment",
-    "excerpt": "<p>There are many options for making a payment, including an in-office visit or our convenient online system.</p>\n",
+    "link": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/cannaconnect/new-post-with-category-name/",
+    "title": "New post with category name",
+    "excerpt": "<p>testing</p>\n",
     "author": "Catherine Foss",
     "featured_media": 0,
     "comment_status": "closed",
@@ -38,7 +38,7 @@
       "_modified_date": ""
     },
     "categories": [
-      "Payments"
+      "CannaConnect"
     ],
     "tags": [],
     "design_system_fields": {
@@ -55,37 +55,37 @@
       "site_name": "Department of Cannabis Control",
       "site_description": "Learn about California cannabis laws and licenses",
       "site_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io",
-      "canonical_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/cannaconnect/payments/how-to-make-a-payment/",
-      "page_title": "How to Make a Payment",
+      "canonical_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/cannaconnect/new-post-with-category-name/",
+      "page_title": "New post with category name",
       "page_description": "Learn about California cannabis laws and licenses",
       "page_social_image_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
       "page_social_image_width": 1200,
       "page_social_image_height": 630,
       "page_social_image_alt": "",
-      "meta_title": "How to Make a Payment",
+      "meta_title": "New post with category name",
       "meta_description": "Learn about California cannabis laws and licenses",
-      "meta_canonical_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/cannaconnect/payments/how-to-make-a-payment/",
-      "open_graph_title": "How to Make a Payment",
+      "meta_canonical_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/cannaconnect/new-post-with-category-name/",
+      "open_graph_title": "New post with category name",
       "open_graph_description": "Learn about California cannabis laws and licenses",
-      "twitter_title": "How to Make a Payment",
+      "twitter_title": "New post with category name",
       "twitter_description": "Learn about California cannabis laws and licenses"
     },
     "headless_categories": [
       {
-        "term_id": 819,
-        "name": "Payments",
-        "slug": "payments",
+        "term_id": 812,
+        "name": "CannaConnect",
+        "slug": "cannaconnect",
         "term_group": 0,
-        "term_taxonomy_id": 819,
+        "term_taxonomy_id": 812,
         "taxonomy": "category",
         "description": "",
-        "parent": 812,
+        "parent": 0,
         "filter": "raw",
-        "cat_ID": 819,
+        "cat_ID": 812,
         "category_description": "",
-        "cat_name": "Payments",
-        "category_nicename": "payments",
-        "category_parent": 812
+        "cat_name": "CannaConnect",
+        "category_nicename": "cannaconnect",
+        "category_parent": 0
       }
     ],
     "headless_tags": [],
@@ -99,6 +99,6 @@
       "custom_post_date": "",
       "custom_post_location": ""
     },
-    "wordpress_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/cannaconnect/payments/how-to-make-a-payment/"
+    "wordpress_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/cannaconnect/new-post-with-category-name/"
   }
 }

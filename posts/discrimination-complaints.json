@@ -23,7 +23,7 @@
     "slug": "discrimination-complaints",
     "status": "publish",
     "type": "post",
-    "link": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/2023/05/discrimination-complaints/",
+    "link": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/resources/discrimination-complaints/",
     "title": "Discrimination Complaints",
     "excerpt": "<p>Discrimination is the act of making distinctions between people based on the groups, classes, or other categories to which they belong or are perceived to belong. People may be discriminated on basis of race, gender, age, religion, disability, or sexual orientation, as well as other categories. Complaints of discrimination may be referred to the CA [&hellip;]</p>\n",
     "author": "Catherine Foss",
@@ -59,7 +59,7 @@
       "site_name": "Department of Cannabis Control",
       "site_description": "Learn about California cannabis laws and licenses",
       "site_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io",
-      "canonical_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/2023/05/discrimination-complaints/",
+      "canonical_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/resources/discrimination-complaints/",
       "page_title": "Discrimination Complaints",
       "page_description": "Learn about California cannabis laws and licenses",
       "page_social_image_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
@@ -68,7 +68,7 @@
       "page_social_image_alt": "",
       "meta_title": "Discrimination Complaints",
       "meta_description": "Learn about California cannabis laws and licenses",
-      "meta_canonical_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/2023/05/discrimination-complaints/",
+      "meta_canonical_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/resources/discrimination-complaints/",
       "open_graph_title": "Discrimination Complaints",
       "open_graph_description": "Learn about California cannabis laws and licenses",
       "twitter_title": "Discrimination Complaints",
@@ -147,6 +147,6 @@
       "custom_post_date": "",
       "custom_post_location": ""
     },
-    "wordpress_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/2023/05/discrimination-complaints/"
+    "wordpress_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/resources/discrimination-complaints/"
   }
 }

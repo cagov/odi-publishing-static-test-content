@@ -23,7 +23,7 @@
     "slug": "other-subcommittee-june",
     "status": "publish",
     "type": "post",
-    "link": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/2023/04/other-subcommittee-june/",
+    "link": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/content-types/events/cannabis-advisory-committee/cac-subcommittee/health-community-subcommittee/other-subcommittee-june/",
     "title": "Other Subcommittee: June",
     "excerpt": "<p>This is info about a different subcommittee coming up.</p>\n",
     "author": "Catherine Foss",
@@ -57,7 +57,7 @@
       "site_name": "Department of Cannabis Control",
       "site_description": "Learn about California cannabis laws and licenses",
       "site_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io",
-      "canonical_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/2023/04/other-subcommittee-june/",
+      "canonical_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/content-types/events/cannabis-advisory-committee/cac-subcommittee/health-community-subcommittee/other-subcommittee-june/",
       "page_title": "Other Subcommittee: June",
       "page_description": "Learn about California cannabis laws and licenses",
       "page_social_image_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
@@ -66,7 +66,7 @@
       "page_social_image_alt": "",
       "meta_title": "Other Subcommittee: June",
       "meta_description": "Learn about California cannabis laws and licenses",
-      "meta_canonical_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/2023/04/other-subcommittee-june/",
+      "meta_canonical_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/content-types/events/cannabis-advisory-committee/cac-subcommittee/health-community-subcommittee/other-subcommittee-june/",
       "open_graph_title": "Other Subcommittee: June",
       "open_graph_description": "Learn about California cannabis laws and licenses",
       "twitter_title": "Other Subcommittee: June",
@@ -133,6 +133,6 @@
       "custom_post_date": "",
       "custom_post_location": ""
     },
-    "wordpress_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/2023/04/other-subcommittee-june/"
+    "wordpress_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/content-types/events/cannabis-advisory-committee/cac-subcommittee/health-community-subcommittee/other-subcommittee-june/"
   }
 }

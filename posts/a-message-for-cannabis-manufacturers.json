@@ -23,7 +23,7 @@
     "slug": "a-message-for-cannabis-manufacturers",
     "status": "publish",
     "type": "post",
-    "link": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/2018/04/a-message-for-cannabis-manufacturers/",
+    "link": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/announcements/a-message-for-cannabis-manufacturers/",
     "title": "A Message for Cannabis Manufacturers",
     "excerpt": "<p>Temporary licenses for cannabis manufacturing that were issued with an effective date of January 1, 2018 will expire on April 30, 2018.</p>\n",
     "author": "Department of Cannabis Control",
@@ -63,7 +63,7 @@
       "site_name": "Department of Cannabis Control",
       "site_description": "Learn about California cannabis laws and licenses",
       "site_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io",
-      "canonical_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/2018/04/a-message-for-cannabis-manufacturers/",
+      "canonical_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/announcements/a-message-for-cannabis-manufacturers/",
       "page_title": "A Message for Cannabis Manufacturers",
       "page_description": "Temporary licenses for cannabis manufacturing that were issued with an effective date of January 1, 2018 will expire on April 30, 2018.",
       "page_social_image_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
@@ -72,7 +72,7 @@
       "page_social_image_alt": "",
       "meta_title": "A Message for Cannabis Manufacturers",
       "meta_description": "Temporary licenses for cannabis manufacturing that were issued with an effective date of January 1, 2018 will expire on April 30, 2018.",
-      "meta_canonical_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/2018/04/a-message-for-cannabis-manufacturers/",
+      "meta_canonical_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/announcements/a-message-for-cannabis-manufacturers/",
       "open_graph_title": "A Message for Cannabis Manufacturers",
       "open_graph_description": "Temporary licenses for cannabis manufacturing that were issued with an effective date of January 1, 2018 will expire on April 30, 2018.",
       "twitter_title": "A Message for Cannabis Manufacturers",
@@ -185,6 +185,6 @@
       "custom_post_date": "",
       "custom_post_location": ""
     },
-    "wordpress_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/2018/04/a-message-for-cannabis-manufacturers/"
+    "wordpress_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/announcements/a-message-for-cannabis-manufacturers/"
   }
 }

@@ -23,7 +23,7 @@
     "slug": "creating-a-cultivation-plan",
     "status": "publish",
     "type": "post",
-    "link": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/2023/05/creating-a-cultivation-plan/",
+    "link": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/announcements/creating-a-cultivation-plan/",
     "title": "Creating a Cultivation Plan",
     "excerpt": "<p>Guidance on how to create the cultivation plan required to be submitted with each cannabis cultivation licensing application.</p>\n",
     "author": "Catherine Foss",
@@ -55,7 +55,7 @@
       "site_name": "Department of Cannabis Control",
       "site_description": "Learn about California cannabis laws and licenses",
       "site_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io",
-      "canonical_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/2023/05/creating-a-cultivation-plan/",
+      "canonical_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/announcements/creating-a-cultivation-plan/",
       "page_title": "Creating a Cultivation Plan",
       "page_description": "Learn about California cannabis laws and licenses",
       "page_social_image_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
@@ -64,7 +64,7 @@
       "page_social_image_alt": "",
       "meta_title": "Creating a Cultivation Plan",
       "meta_description": "Learn about California cannabis laws and licenses",
-      "meta_canonical_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/2023/05/creating-a-cultivation-plan/",
+      "meta_canonical_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/announcements/creating-a-cultivation-plan/",
       "open_graph_title": "Creating a Cultivation Plan",
       "open_graph_description": "Learn about California cannabis laws and licenses",
       "twitter_title": "Creating a Cultivation Plan",
@@ -99,6 +99,6 @@
       "custom_post_date": "",
       "custom_post_location": ""
     },
-    "wordpress_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/2023/05/creating-a-cultivation-plan/"
+    "wordpress_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/announcements/creating-a-cultivation-plan/"
   }
 }

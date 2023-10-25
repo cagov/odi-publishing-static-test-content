@@ -23,7 +23,7 @@
     "slug": "use-of-force-policy",
     "status": "publish",
     "type": "post",
-    "link": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/2023/05/use-of-force-policy/",
+    "link": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/policies-and-reports/dcc-policies/use-of-force-policy/",
     "title": "DCC Use of Force Policy",
     "excerpt": "<p>This policy provides guidelines on the reasonable use of force.</p>\n",
     "author": "Catherine Foss",
@@ -55,7 +55,7 @@
       "site_name": "Department of Cannabis Control",
       "site_description": "Learn about California cannabis laws and licenses",
       "site_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io",
-      "canonical_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/2023/05/use-of-force-policy/",
+      "canonical_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/policies-and-reports/dcc-policies/use-of-force-policy/",
       "page_title": "DCC Use of Force Policy",
       "page_description": "Learn about California cannabis laws and licenses",
       "page_social_image_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
@@ -64,7 +64,7 @@
       "page_social_image_alt": "",
       "meta_title": "DCC Use of Force Policy",
       "meta_description": "Learn about California cannabis laws and licenses",
-      "meta_canonical_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/2023/05/use-of-force-policy/",
+      "meta_canonical_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/policies-and-reports/dcc-policies/use-of-force-policy/",
       "open_graph_title": "DCC Use of Force Policy",
       "open_graph_description": "Learn about California cannabis laws and licenses",
       "twitter_title": "DCC Use of Force Policy",
@@ -99,6 +99,6 @@
       "custom_post_date": "",
       "custom_post_location": ""
     },
-    "wordpress_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/2023/05/use-of-force-policy/"
+    "wordpress_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/policies-and-reports/dcc-policies/use-of-force-policy/"
   }
 }

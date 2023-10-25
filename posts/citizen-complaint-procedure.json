@@ -23,7 +23,7 @@
     "slug": "citizen-complaint-procedure",
     "status": "publish",
     "type": "post",
-    "link": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/2023/05/citizen-complaint-procedure/",
+    "link": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/resources/complaints/citizen-complaint-procedure/",
     "title": "Citizen Complaints",
     "excerpt": "<p>Citizens have the right to make a complaint against a police officer for improper conduct. </p>\n",
     "author": "Catherine Foss",
@@ -56,7 +56,7 @@
       "site_name": "Department of Cannabis Control",
       "site_description": "Learn about California cannabis laws and licenses",
       "site_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io",
-      "canonical_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/2023/05/citizen-complaint-procedure/",
+      "canonical_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/resources/complaints/citizen-complaint-procedure/",
       "page_title": "Citizen Complaints",
       "page_description": "Citizens have the right to make a complaint against a police officer for improper conduct. ",
       "page_social_image_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
@@ -65,7 +65,7 @@
       "page_social_image_alt": "",
       "meta_title": "Citizen Complaints",
       "meta_description": "Citizens who need to file a complaint against a police officer for improper conduct can submit this form by mail or email.",
-      "meta_canonical_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/2023/05/citizen-complaint-procedure/",
+      "meta_canonical_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/resources/complaints/citizen-complaint-procedure/",
       "open_graph_title": "Citizen Complaints",
       "open_graph_description": "Citizens have the right to make a complaint against a police officer for improper conduct. ",
       "twitter_title": "Citizen Complaints",
@@ -116,6 +116,6 @@
       "custom_post_date": "",
       "custom_post_location": ""
     },
-    "wordpress_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/2023/05/citizen-complaint-procedure/"
+    "wordpress_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/resources/complaints/citizen-complaint-procedure/"
   }
 }
