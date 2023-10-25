@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2023-06-02T21:48:04",
-    "updated_date": "2023-06-14T17:33:32",
+    "updated_date": "2023-10-25T18:20:18",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2023-06-02T14:48:04",
     "date_gmt": "2023-06-02T21:48:04",
     "guid": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/?p=13081",
-    "modified": "2023-06-14T10:33:32",
-    "modified_gmt": "2023-06-14T17:33:32",
+    "modified": "2023-10-25T11:20:18",
+    "modified_gmt": "2023-10-25T18:20:18",
     "slug": "cannabis-cultivator-self-inspection-checklist",
     "status": "publish",
     "type": "post",
@@ -38,6 +38,7 @@
       "_modified_date": ""
     },
     "categories": [
+      "Cultivation",
       "Cultivators"
     ],
     "tags": [],
@@ -71,6 +72,22 @@
       "twitter_description": "Learn about California cannabis laws and licenses"
     },
     "headless_categories": [
+      {
+        "term_id": 870,
+        "name": "Cultivation",
+        "slug": "cultivation",
+        "term_group": 0,
+        "term_taxonomy_id": 870,
+        "taxonomy": "category",
+        "description": "",
+        "parent": 869,
+        "filter": "raw",
+        "cat_ID": 870,
+        "category_description": "",
+        "cat_name": "Cultivation",
+        "category_nicename": "cultivation",
+        "category_parent": 869
+      },
       {
         "term_id": 824,
         "name": "Cultivators",
