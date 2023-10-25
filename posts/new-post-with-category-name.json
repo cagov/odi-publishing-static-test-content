@@ -23,7 +23,7 @@
     "slug": "new-post-with-category-name",
     "status": "publish",
     "type": "post",
-    "link": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/cannaconnect/new-post-with-category-name/",
+    "link": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/licensees/cannaconnect/new-post-with-category-name/",
     "title": "New post with category name",
     "excerpt": "<p>testing</p>\n",
     "author": "Catherine Foss",
@@ -55,7 +55,7 @@
       "site_name": "Department of Cannabis Control",
       "site_description": "Learn about California cannabis laws and licenses",
       "site_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io",
-      "canonical_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/cannaconnect/new-post-with-category-name/",
+      "canonical_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/licensees/cannaconnect/new-post-with-category-name/",
       "page_title": "New post with category name",
       "page_description": "Learn about California cannabis laws and licenses",
       "page_social_image_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
@@ -64,7 +64,7 @@
       "page_social_image_alt": "",
       "meta_title": "New post with category name",
       "meta_description": "Learn about California cannabis laws and licenses",
-      "meta_canonical_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/cannaconnect/new-post-with-category-name/",
+      "meta_canonical_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/licensees/cannaconnect/new-post-with-category-name/",
       "open_graph_title": "New post with category name",
       "open_graph_description": "Learn about California cannabis laws and licenses",
       "twitter_title": "New post with category name",
@@ -79,13 +79,13 @@
         "term_taxonomy_id": 812,
         "taxonomy": "category",
         "description": "",
-        "parent": 0,
+        "parent": 869,
         "filter": "raw",
         "cat_ID": 812,
         "category_description": "",
         "cat_name": "CannaConnect",
         "category_nicename": "cannaconnect",
-        "category_parent": 0
+        "category_parent": 869
       }
     ],
     "headless_tags": [],
@@ -99,6 +99,6 @@
       "custom_post_date": "",
       "custom_post_location": ""
     },
-    "wordpress_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/cannaconnect/new-post-with-category-name/"
+    "wordpress_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/licensees/cannaconnect/new-post-with-category-name/"
   }
 }

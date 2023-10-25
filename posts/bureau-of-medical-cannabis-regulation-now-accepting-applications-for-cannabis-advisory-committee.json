@@ -23,7 +23,7 @@
     "slug": "bureau-of-medical-cannabis-regulation-now-accepting-applications-for-cannabis-advisory-committee",
     "status": "publish",
     "type": "post",
-    "link": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/announcements/bureau-of-medical-cannabis-regulation-now-accepting-applications-for-cannabis-advisory-committee/",
+    "link": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/about-us/announcements/bureau-of-medical-cannabis-regulation-now-accepting-applications-for-cannabis-advisory-committee/",
     "title": "Bureau of Medical Cannabis Regulation Now Accepting Applications for Cannabis Advisory Committee",
     "excerpt": "<p>The Bureau of Medical Cannabis Regulation (BMCR) today announced that it is now accepting applications for the Cannabis Advisory Committee to advise the bureau on matters relating to both medical and adult recreational use of cannabis.</p>\n",
     "author": "Department of Cannabis Control",
@@ -58,7 +58,7 @@
       "site_name": "Department of Cannabis Control",
       "site_description": "Learn about California cannabis laws and licenses",
       "site_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io",
-      "canonical_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/announcements/bureau-of-medical-cannabis-regulation-now-accepting-applications-for-cannabis-advisory-committee/",
+      "canonical_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/about-us/announcements/bureau-of-medical-cannabis-regulation-now-accepting-applications-for-cannabis-advisory-committee/",
       "page_title": "Bureau of Medical Cannabis Regulation Now Accepting Applications for Cannabis Advisory Committee",
       "page_description": "The Bureau of Medical Cannabis Regulation (BMCR) today announced that it is now accepting applications for the Cannabis Advisory Committee to advise the bureau on matters relating to both medical and adult recreational use of cannabis.",
       "page_social_image_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
@@ -67,7 +67,7 @@
       "page_social_image_alt": "",
       "meta_title": "Bureau of Medical Cannabis Regulation Now Accepting Applications for Cannabis Advisory Committee",
       "meta_description": "The Bureau of Medical Cannabis Regulation (BMCR) today announced that it is now accepting applications for the Cannabis Advisory Committee to advise the bureau on matters relating to both medical and adult recreational use of cannabis.",
-      "meta_canonical_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/announcements/bureau-of-medical-cannabis-regulation-now-accepting-applications-for-cannabis-advisory-committee/",
+      "meta_canonical_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/about-us/announcements/bureau-of-medical-cannabis-regulation-now-accepting-applications-for-cannabis-advisory-committee/",
       "open_graph_title": "Bureau of Medical Cannabis Regulation Now Accepting Applications for Cannabis Advisory Committee",
       "open_graph_description": "The Bureau of Medical Cannabis Regulation (BMCR) today announced that it is now accepting applications for the Cannabis Advisory Committee to advise the bureau on matters relating to both medical and adult recreational use of cannabis.",
       "twitter_title": "Bureau of Medical Cannabis Regulation Now Accepting Applications for Cannabis Advisory Committee",
@@ -82,13 +82,13 @@
         "term_taxonomy_id": 14,
         "taxonomy": "category",
         "description": "",
-        "parent": 0,
+        "parent": 878,
         "filter": "raw",
         "cat_ID": 14,
         "category_description": "",
         "cat_name": "Announcements",
         "category_nicename": "announcements",
-        "category_parent": 0
+        "category_parent": 878
       }
     ],
     "headless_tags": [
@@ -125,6 +125,6 @@
       "custom_post_date": "",
       "custom_post_location": ""
     },
-    "wordpress_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/announcements/bureau-of-medical-cannabis-regulation-now-accepting-applications-for-cannabis-advisory-committee/"
+    "wordpress_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/about-us/announcements/bureau-of-medical-cannabis-regulation-now-accepting-applications-for-cannabis-advisory-committee/"
   }
 }

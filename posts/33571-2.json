@@ -23,7 +23,7 @@
     "slug": "33571-2",
     "status": "publish",
     "type": "post",
-    "link": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/announcements/33571-2/",
+    "link": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/about-us/announcements/33571-2/",
     "title": "Bureau of Cannabis Control Launches New &#8220;Your Questions Answered&#8221; Webpage",
     "excerpt": "<p>You asked, and we answered! After many popular requests, the Bureau of Cannabis Control (Bureau) is excited to announce the launch of our new searchable database of questions and answers.</p>\n",
     "author": "Department of Cannabis Control",
@@ -72,7 +72,7 @@
       "site_name": "Department of Cannabis Control",
       "site_description": "Learn about California cannabis laws and licenses",
       "site_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io",
-      "canonical_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/announcements/33571-2/",
+      "canonical_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/about-us/announcements/33571-2/",
       "page_title": "Bureau of Cannabis Control Launches New &#8220;Your Questions Answered&#8221; Webpage",
       "page_description": "You asked, and we answered! After many popular requests, the Bureau of Cannabis Control (Bureau) is excited to announce the launch of our new searchable database of questions and answers.",
       "page_social_image_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
@@ -81,7 +81,7 @@
       "page_social_image_alt": "",
       "meta_title": "Bureau of Cannabis Control Launches New &#8220;Your Questions Answered&#8221; Webpage",
       "meta_description": "You asked, and we answered! After many popular requests, the Bureau of Cannabis Control (Bureau) is excited to announce the launch of our new searchable database of questions and answers.",
-      "meta_canonical_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/announcements/33571-2/",
+      "meta_canonical_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/about-us/announcements/33571-2/",
       "open_graph_title": "Bureau of Cannabis Control Launches New &#8220;Your Questions Answered&#8221; Webpage",
       "open_graph_description": "You asked, and we answered! After many popular requests, the Bureau of Cannabis Control (Bureau) is excited to announce the launch of our new searchable database of questions and answers.",
       "twitter_title": "Bureau of Cannabis Control Launches New &#8220;Your Questions Answered&#8221; Webpage",
@@ -96,13 +96,13 @@
         "term_taxonomy_id": 14,
         "taxonomy": "category",
         "description": "",
-        "parent": 0,
+        "parent": 878,
         "filter": "raw",
         "cat_ID": 14,
         "category_description": "",
         "cat_name": "Announcements",
         "category_nicename": "announcements",
-        "category_parent": 0
+        "category_parent": 878
       }
     ],
     "headless_tags": [
@@ -293,6 +293,6 @@
       "custom_post_date": "",
       "custom_post_location": ""
     },
-    "wordpress_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/announcements/33571-2/"
+    "wordpress_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/about-us/announcements/33571-2/"
   }
 }

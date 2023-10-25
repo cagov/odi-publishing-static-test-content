@@ -23,7 +23,7 @@
     "slug": "illegal-timber-harvest-complaints",
     "status": "publish",
     "type": "post",
-    "link": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/announcements/illegal-timber-harvest-complaints/",
+    "link": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/about-us/announcements/illegal-timber-harvest-complaints/",
     "title": "Illegal Timber Harvest Complaints",
     "excerpt": "<p>Illegal Timber Harvest complaints are handled by the California Department of Forestry and Fire Protection. The California Department of Forestry and Fire Protection (CAL FIRE) enforces the laws that regulate logging on privately-owned lands in California.  You will need to contact a regional office, which is listed on the CAL FIRE website.</p>\n",
     "author": "Catherine Foss",
@@ -60,7 +60,7 @@
       "site_name": "Department of Cannabis Control",
       "site_description": "Learn about California cannabis laws and licenses",
       "site_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io",
-      "canonical_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/announcements/illegal-timber-harvest-complaints/",
+      "canonical_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/about-us/announcements/illegal-timber-harvest-complaints/",
       "page_title": "Illegal Timber Harvest Complaints",
       "page_description": "Learn about California cannabis laws and licenses",
       "page_social_image_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
@@ -69,7 +69,7 @@
       "page_social_image_alt": "",
       "meta_title": "Illegal Timber Harvest Complaints",
       "meta_description": "Learn about California cannabis laws and licenses",
-      "meta_canonical_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/announcements/illegal-timber-harvest-complaints/",
+      "meta_canonical_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/about-us/announcements/illegal-timber-harvest-complaints/",
       "open_graph_title": "Illegal Timber Harvest Complaints",
       "open_graph_description": "Learn about California cannabis laws and licenses",
       "twitter_title": "Illegal Timber Harvest Complaints",
@@ -84,13 +84,13 @@
         "term_taxonomy_id": 14,
         "taxonomy": "category",
         "description": "",
-        "parent": 0,
+        "parent": 878,
         "filter": "raw",
         "cat_ID": 14,
         "category_description": "",
         "cat_name": "Announcements",
         "category_nicename": "announcements",
-        "category_parent": 0
+        "category_parent": 878
       },
       {
         "term_id": 829,
@@ -164,6 +164,6 @@
       "custom_post_date": "",
       "custom_post_location": ""
     },
-    "wordpress_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/announcements/illegal-timber-harvest-complaints/"
+    "wordpress_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/about-us/announcements/illegal-timber-harvest-complaints/"
   }
 }

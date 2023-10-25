@@ -23,7 +23,7 @@
     "slug": "marijuana-on-religious-grounds-a-cannabis-church-opens-in-denver",
     "status": "publish",
     "type": "post",
-    "link": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/announcements/marijuana-on-religious-grounds-a-cannabis-church-opens-in-denver/",
+    "link": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/about-us/announcements/marijuana-on-religious-grounds-a-cannabis-church-opens-in-denver/",
     "title": "Marijuana on Religious Grounds? A Cannabis Church Opens in Denver",
     "excerpt": "<p>For the International Church of Cannabis in Denver, there were three reasons to celebrate on Thursday.</p>\n",
     "author": "Department of Cannabis Control",
@@ -60,7 +60,7 @@
       "site_name": "Department of Cannabis Control",
       "site_description": "Learn about California cannabis laws and licenses",
       "site_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io",
-      "canonical_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/announcements/marijuana-on-religious-grounds-a-cannabis-church-opens-in-denver/",
+      "canonical_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/about-us/announcements/marijuana-on-religious-grounds-a-cannabis-church-opens-in-denver/",
       "page_title": "Marijuana on Religious Grounds? A Cannabis Church Opens in Denver",
       "page_description": "For the International Church of Cannabis in Denver, there were three reasons to celebrate on Thursday.",
       "page_social_image_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
@@ -69,7 +69,7 @@
       "page_social_image_alt": "",
       "meta_title": "Marijuana on Religious Grounds? A Cannabis Church Opens in Denver",
       "meta_description": "For the International Church of Cannabis in Denver, there were three reasons to celebrate on Thursday.",
-      "meta_canonical_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/announcements/marijuana-on-religious-grounds-a-cannabis-church-opens-in-denver/",
+      "meta_canonical_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/about-us/announcements/marijuana-on-religious-grounds-a-cannabis-church-opens-in-denver/",
       "open_graph_title": "Marijuana on Religious Grounds? A Cannabis Church Opens in Denver",
       "open_graph_description": "For the International Church of Cannabis in Denver, there were three reasons to celebrate on Thursday.",
       "twitter_title": "Marijuana on Religious Grounds? A Cannabis Church Opens in Denver",
@@ -84,13 +84,13 @@
         "term_taxonomy_id": 14,
         "taxonomy": "category",
         "description": "",
-        "parent": 0,
+        "parent": 878,
         "filter": "raw",
         "cat_ID": 14,
         "category_description": "",
         "cat_name": "Announcements",
         "category_nicename": "announcements",
-        "category_parent": 0
+        "category_parent": 878
       }
     ],
     "headless_tags": [
@@ -149,6 +149,6 @@
       "custom_post_date": "",
       "custom_post_location": ""
     },
-    "wordpress_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/announcements/marijuana-on-religious-grounds-a-cannabis-church-opens-in-denver/"
+    "wordpress_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/about-us/announcements/marijuana-on-religious-grounds-a-cannabis-church-opens-in-denver/"
   }
 }

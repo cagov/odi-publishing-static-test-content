@@ -23,7 +23,7 @@
     "slug": "cannabis-control-appeals-panel-website",
     "status": "publish",
     "type": "post",
-    "link": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/announcements/cannabis-control-appeals-panel-website/",
+    "link": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/about-us/announcements/cannabis-control-appeals-panel-website/",
     "title": "Cannabis Control Appeals Panel Website",
     "excerpt": "<p>The Cannabis Control Appeals Panel is responsible for appeals of any decision by state cannabis licensing authorities relating to the order of any penalty assessment, issuing, denying, transferring, conditioning, suspending or revoking any license provided under MAUCRSA.</p>\n",
     "author": "Department of Cannabis Control",
@@ -64,7 +64,7 @@
       "site_name": "Department of Cannabis Control",
       "site_description": "Learn about California cannabis laws and licenses",
       "site_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io",
-      "canonical_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/announcements/cannabis-control-appeals-panel-website/",
+      "canonical_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/about-us/announcements/cannabis-control-appeals-panel-website/",
       "page_title": "Cannabis Control Appeals Panel Website",
       "page_description": "The Cannabis Control Appeals Panel is responsible for appeals of any decision by state cannabis licensing authorities relating to the order of any penalty assessment, issuing, denying, transferring, conditioning, suspending or revoking any license provided under MAUCRSA.",
       "page_social_image_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
@@ -73,7 +73,7 @@
       "page_social_image_alt": "",
       "meta_title": "Cannabis Control Appeals Panel Website",
       "meta_description": "The Cannabis Control Appeals Panel is responsible for appeals of any decision by state cannabis licensing authorities relating to the order of any penalty assessment, issuing, denying, transferring, conditioning, suspending or revoking any license provided under MAUCRSA.",
-      "meta_canonical_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/announcements/cannabis-control-appeals-panel-website/",
+      "meta_canonical_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/about-us/announcements/cannabis-control-appeals-panel-website/",
       "open_graph_title": "Cannabis Control Appeals Panel Website",
       "open_graph_description": "The Cannabis Control Appeals Panel is responsible for appeals of any decision by state cannabis licensing authorities relating to the order of any penalty assessment, issuing, denying, transferring, conditioning, suspending or revoking any license provided under MAUCRSA.",
       "twitter_title": "Cannabis Control Appeals Panel Website",
@@ -88,13 +88,13 @@
         "term_taxonomy_id": 14,
         "taxonomy": "category",
         "description": "",
-        "parent": 0,
+        "parent": 878,
         "filter": "raw",
         "cat_ID": 14,
         "category_description": "",
         "cat_name": "Announcements",
         "category_nicename": "announcements",
-        "category_parent": 0
+        "category_parent": 878
       }
     ],
     "headless_tags": [
@@ -197,6 +197,6 @@
       "custom_post_date": "",
       "custom_post_location": ""
     },
-    "wordpress_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/announcements/cannabis-control-appeals-panel-website/"
+    "wordpress_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/about-us/announcements/cannabis-control-appeals-panel-website/"
   }
 }

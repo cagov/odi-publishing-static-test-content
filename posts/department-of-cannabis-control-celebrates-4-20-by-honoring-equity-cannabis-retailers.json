@@ -23,7 +23,7 @@
     "slug": "department-of-cannabis-control-celebrates-4-20-by-honoring-equity-cannabis-retailers",
     "status": "publish",
     "type": "post",
-    "link": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/announcements/department-of-cannabis-control-celebrates-4-20-by-honoring-equity-cannabis-retailers/",
+    "link": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/about-us/announcements/department-of-cannabis-control-celebrates-4-20-by-honoring-equity-cannabis-retailers/",
     "title": "Department of Cannabis Control Celebrates 4/20 By Honoring Equity Cannabis Retailers",
     "excerpt": "<p>DCC releases list of equity cannabis storefront retailers in key counties across California; provides helpful tips to consumers California &ndash; Today, on 4/20 &mdash; a day often celebrated by cannabis consumers &mdash; the Department of Cannabis Control (DCC) is providing tips for consumers to support equity in the cannabis industry by releasing a list of [&hellip;]</p>\n",
     "author": "Mukhtar Mukhtar",
@@ -55,7 +55,7 @@
       "site_name": "Department of Cannabis Control",
       "site_description": "Learn about California cannabis laws and licenses",
       "site_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io",
-      "canonical_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/announcements/department-of-cannabis-control-celebrates-4-20-by-honoring-equity-cannabis-retailers/",
+      "canonical_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/about-us/announcements/department-of-cannabis-control-celebrates-4-20-by-honoring-equity-cannabis-retailers/",
       "page_title": "Department of Cannabis Control Celebrates 4/20 By Honoring Equity Cannabis Retailers",
       "page_description": "Learn about California cannabis laws and licenses",
       "page_social_image_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
@@ -64,7 +64,7 @@
       "page_social_image_alt": "",
       "meta_title": "Department of Cannabis Control Celebrates 4/20 By Honoring Equity Cannabis Retailers",
       "meta_description": "Learn about California cannabis laws and licenses",
-      "meta_canonical_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/announcements/department-of-cannabis-control-celebrates-4-20-by-honoring-equity-cannabis-retailers/",
+      "meta_canonical_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/about-us/announcements/department-of-cannabis-control-celebrates-4-20-by-honoring-equity-cannabis-retailers/",
       "open_graph_title": "Department of Cannabis Control Celebrates 4/20 By Honoring Equity Cannabis Retailers",
       "open_graph_description": "Learn about California cannabis laws and licenses",
       "twitter_title": "Department of Cannabis Control Celebrates 4/20 By Honoring Equity Cannabis Retailers",
@@ -79,13 +79,13 @@
         "term_taxonomy_id": 14,
         "taxonomy": "category",
         "description": "",
-        "parent": 0,
+        "parent": 878,
         "filter": "raw",
         "cat_ID": 14,
         "category_description": "",
         "cat_name": "Announcements",
         "category_nicename": "announcements",
-        "category_parent": 0
+        "category_parent": 878
       }
     ],
     "headless_tags": [],
@@ -99,6 +99,6 @@
       "custom_post_date": "",
       "custom_post_location": ""
     },
-    "wordpress_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/announcements/department-of-cannabis-control-celebrates-4-20-by-honoring-equity-cannabis-retailers/"
+    "wordpress_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/about-us/announcements/department-of-cannabis-control-celebrates-4-20-by-honoring-equity-cannabis-retailers/"
   }
 }

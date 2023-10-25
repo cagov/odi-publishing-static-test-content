@@ -23,7 +23,7 @@
     "slug": "important-announcement-regarding-local-equity-grant-program-notice-of-funding-availability",
     "status": "publish",
     "type": "post",
-    "link": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/announcements/important-announcement-regarding-local-equity-grant-program-notice-of-funding-availability/",
+    "link": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/about-us/announcements/important-announcement-regarding-local-equity-grant-program-notice-of-funding-availability/",
     "title": "Important Announcement Regarding Local Equity Grant Program &#8211; Notice of Funding Availability",
     "excerpt": "<p>On March 1, 2019, the Bureau of Cannabis Control (Bureau), released a Local Equity Grant Program Notice of Funding Availability (NOFA) and opened the application period for grants pursuant to the California Cannabis Equity Act of 2018.</p>\n",
     "author": "Department of Cannabis Control",
@@ -68,7 +68,7 @@
       "site_name": "Department of Cannabis Control",
       "site_description": "Learn about California cannabis laws and licenses",
       "site_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io",
-      "canonical_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/announcements/important-announcement-regarding-local-equity-grant-program-notice-of-funding-availability/",
+      "canonical_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/about-us/announcements/important-announcement-regarding-local-equity-grant-program-notice-of-funding-availability/",
       "page_title": "Important Announcement Regarding Local Equity Grant Program &#8211; Notice of Funding Availability",
       "page_description": "On March 1, 2019, the Bureau of Cannabis Control (Bureau), released a Local Equity Grant Program Notice of Funding Availability (NOFA) and opened the application period for grants pursuant to the California Cannabis Equity Act of 2018.",
       "page_social_image_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
@@ -77,7 +77,7 @@
       "page_social_image_alt": "",
       "meta_title": "Important Announcement Regarding Local Equity Grant Program &#8211; Notice of Funding Availability",
       "meta_description": "On March 1, 2019, the Bureau of Cannabis Control (Bureau), released a Local Equity Grant Program Notice of Funding Availability (NOFA) and opened the application period for grants pursuant to the California Cannabis Equity Act of 2018.",
-      "meta_canonical_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/announcements/important-announcement-regarding-local-equity-grant-program-notice-of-funding-availability/",
+      "meta_canonical_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/about-us/announcements/important-announcement-regarding-local-equity-grant-program-notice-of-funding-availability/",
       "open_graph_title": "Important Announcement Regarding Local Equity Grant Program &#8211; Notice of Funding Availability",
       "open_graph_description": "On March 1, 2019, the Bureau of Cannabis Control (Bureau), released a Local Equity Grant Program Notice of Funding Availability (NOFA) and opened the application period for grants pursuant to the California Cannabis Equity Act of 2018.",
       "twitter_title": "Important Announcement Regarding Local Equity Grant Program &#8211; Notice of Funding Availability",
@@ -92,13 +92,13 @@
         "term_taxonomy_id": 14,
         "taxonomy": "category",
         "description": "",
-        "parent": 0,
+        "parent": 878,
         "filter": "raw",
         "cat_ID": 14,
         "category_description": "",
         "cat_name": "Announcements",
         "category_nicename": "announcements",
-        "category_parent": 0
+        "category_parent": 878
       }
     ],
     "headless_tags": [
@@ -245,6 +245,6 @@
       "custom_post_date": "",
       "custom_post_location": ""
     },
-    "wordpress_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/announcements/important-announcement-regarding-local-equity-grant-program-notice-of-funding-availability/"
+    "wordpress_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/about-us/announcements/important-announcement-regarding-local-equity-grant-program-notice-of-funding-availability/"
   }
 }

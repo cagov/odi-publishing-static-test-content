@@ -23,7 +23,7 @@
     "slug": "cannabis-retailers-cannabis-excise-tax-paid-to-your-distributor-must-be-collected-on-your-discounted-retail-sales",
     "status": "publish",
     "type": "post",
-    "link": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/announcements/cannabis-retailers-cannabis-excise-tax-paid-to-your-distributor-must-be-collected-on-your-discounted-retail-sales/",
+    "link": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/about-us/announcements/cannabis-retailers-cannabis-excise-tax-paid-to-your-distributor-must-be-collected-on-your-discounted-retail-sales/",
     "title": "Cannabis Retailers: Cannabis Excise Tax Paid to Your Distributor Must be Collected on Your Discounted Retail Sales",
     "excerpt": "<p>As a retailer, when you sell cannabis or cannabis products, the law requires the purchaser to pay the excise tax at the time of the sale.</p>\n",
     "author": "Department of Cannabis Control",
@@ -64,7 +64,7 @@
       "site_name": "Department of Cannabis Control",
       "site_description": "Learn about California cannabis laws and licenses",
       "site_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io",
-      "canonical_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/announcements/cannabis-retailers-cannabis-excise-tax-paid-to-your-distributor-must-be-collected-on-your-discounted-retail-sales/",
+      "canonical_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/about-us/announcements/cannabis-retailers-cannabis-excise-tax-paid-to-your-distributor-must-be-collected-on-your-discounted-retail-sales/",
       "page_title": "Cannabis Retailers: Cannabis Excise Tax Paid to Your Distributor Must be Collected on Your Discounted Retail Sales",
       "page_description": "As a retailer, when you sell cannabis or cannabis products, the law requires the purchaser to pay the excise tax at the time of the sale.",
       "page_social_image_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
@@ -73,7 +73,7 @@
       "page_social_image_alt": "",
       "meta_title": "Cannabis Retailers: Cannabis Excise Tax Paid to Your Distributor Must be Collected on Your Discounted Retail Sales",
       "meta_description": "As a retailer, when you sell cannabis or cannabis products, the law requires the purchaser to pay the excise tax at the time of the sale.",
-      "meta_canonical_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/announcements/cannabis-retailers-cannabis-excise-tax-paid-to-your-distributor-must-be-collected-on-your-discounted-retail-sales/",
+      "meta_canonical_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/about-us/announcements/cannabis-retailers-cannabis-excise-tax-paid-to-your-distributor-must-be-collected-on-your-discounted-retail-sales/",
       "open_graph_title": "Cannabis Retailers: Cannabis Excise Tax Paid to Your Distributor Must be Collected on Your Discounted Retail Sales",
       "open_graph_description": "As a retailer, when you sell cannabis or cannabis products, the law requires the purchaser to pay the excise tax at the time of the sale.",
       "twitter_title": "Cannabis Retailers: Cannabis Excise Tax Paid to Your Distributor Must be Collected on Your Discounted Retail Sales",
@@ -88,13 +88,13 @@
         "term_taxonomy_id": 14,
         "taxonomy": "category",
         "description": "",
-        "parent": 0,
+        "parent": 878,
         "filter": "raw",
         "cat_ID": 14,
         "category_description": "",
         "cat_name": "Announcements",
         "category_nicename": "announcements",
-        "category_parent": 0
+        "category_parent": 878
       }
     ],
     "headless_tags": [
@@ -197,6 +197,6 @@
       "custom_post_date": "",
       "custom_post_location": ""
     },
-    "wordpress_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/announcements/cannabis-retailers-cannabis-excise-tax-paid-to-your-distributor-must-be-collected-on-your-discounted-retail-sales/"
+    "wordpress_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/about-us/announcements/cannabis-retailers-cannabis-excise-tax-paid-to-your-distributor-must-be-collected-on-your-discounted-retail-sales/"
   }
 }

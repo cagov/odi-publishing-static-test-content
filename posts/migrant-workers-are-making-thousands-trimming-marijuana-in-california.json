@@ -23,7 +23,7 @@
     "slug": "migrant-workers-are-making-thousands-trimming-marijuana-in-california",
     "status": "publish",
     "type": "post",
-    "link": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/announcements/migrant-workers-are-making-thousands-trimming-marijuana-in-california/",
+    "link": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/about-us/announcements/migrant-workers-are-making-thousands-trimming-marijuana-in-california/",
     "title": "Migrant workers are making thousands trimming marijuana in California",
     "excerpt": "<p>They sit for hours at a time, hunched over tables with scissors in one hand and marijuana in the other.</p>\n",
     "author": "Department of Cannabis Control",
@@ -55,7 +55,7 @@
       "site_name": "Department of Cannabis Control",
       "site_description": "Learn about California cannabis laws and licenses",
       "site_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io",
-      "canonical_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/announcements/migrant-workers-are-making-thousands-trimming-marijuana-in-california/",
+      "canonical_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/about-us/announcements/migrant-workers-are-making-thousands-trimming-marijuana-in-california/",
       "page_title": "Migrant workers are making thousands trimming marijuana in California",
       "page_description": "They sit for hours at a time, hunched over tables with scissors in one hand and marijuana in the other.",
       "page_social_image_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
@@ -64,7 +64,7 @@
       "page_social_image_alt": "",
       "meta_title": "Migrant workers are making thousands trimming marijuana in California",
       "meta_description": "They sit for hours at a time, hunched over tables with scissors in one hand and marijuana in the other.",
-      "meta_canonical_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/announcements/migrant-workers-are-making-thousands-trimming-marijuana-in-california/",
+      "meta_canonical_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/about-us/announcements/migrant-workers-are-making-thousands-trimming-marijuana-in-california/",
       "open_graph_title": "Migrant workers are making thousands trimming marijuana in California",
       "open_graph_description": "They sit for hours at a time, hunched over tables with scissors in one hand and marijuana in the other.",
       "twitter_title": "Migrant workers are making thousands trimming marijuana in California",
@@ -79,13 +79,13 @@
         "term_taxonomy_id": 14,
         "taxonomy": "category",
         "description": "",
-        "parent": 0,
+        "parent": 878,
         "filter": "raw",
         "cat_ID": 14,
         "category_description": "",
         "cat_name": "Announcements",
         "category_nicename": "announcements",
-        "category_parent": 0
+        "category_parent": 878
       }
     ],
     "headless_tags": [],
@@ -99,6 +99,6 @@
       "custom_post_date": "",
       "custom_post_location": ""
     },
-    "wordpress_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/announcements/migrant-workers-are-making-thousands-trimming-marijuana-in-california/"
+    "wordpress_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/about-us/announcements/migrant-workers-are-making-thousands-trimming-marijuana-in-california/"
   }
 }

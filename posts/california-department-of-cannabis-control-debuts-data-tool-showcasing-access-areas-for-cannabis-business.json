@@ -23,7 +23,7 @@
     "slug": "california-department-of-cannabis-control-debuts-data-tool-showcasing-access-areas-for-cannabis-business",
     "status": "publish",
     "type": "post",
-    "link": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/announcements/california-department-of-cannabis-control-debuts-data-tool-showcasing-access-areas-for-cannabis-business/",
+    "link": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/about-us/announcements/california-department-of-cannabis-control-debuts-data-tool-showcasing-access-areas-for-cannabis-business/",
     "title": "California Department of Cannabis Control debuts data tool showcasing access areas for cannabis business",
     "excerpt": "<p>Five years after passage of Proposition 64, more than half of all jurisdictions in the state don’t allow licensing of any type of cannabis business&nbsp; CALIFORNIA –The Department of Cannabis Control (DCC) today rolled out a data visualization tool that will help consumers see where they can purchase safe and legal cannabis products from licensed [&hellip;]</p>\n",
     "author": "Wes Breazell",
@@ -55,7 +55,7 @@
       "site_name": "Department of Cannabis Control",
       "site_description": "Learn about California cannabis laws and licenses",
       "site_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io",
-      "canonical_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/announcements/california-department-of-cannabis-control-debuts-data-tool-showcasing-access-areas-for-cannabis-business/",
+      "canonical_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/about-us/announcements/california-department-of-cannabis-control-debuts-data-tool-showcasing-access-areas-for-cannabis-business/",
       "page_title": "California Department of Cannabis Control debuts data tool showcasing access areas for cannabis business",
       "page_description": "Learn about California cannabis laws and licenses",
       "page_social_image_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
@@ -64,7 +64,7 @@
       "page_social_image_alt": "",
       "meta_title": "California Department of Cannabis Control debuts data tool showcasing access areas for cannabis business",
       "meta_description": "Learn about California cannabis laws and licenses",
-      "meta_canonical_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/announcements/california-department-of-cannabis-control-debuts-data-tool-showcasing-access-areas-for-cannabis-business/",
+      "meta_canonical_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/about-us/announcements/california-department-of-cannabis-control-debuts-data-tool-showcasing-access-areas-for-cannabis-business/",
       "open_graph_title": "California Department of Cannabis Control debuts data tool showcasing access areas for cannabis business",
       "open_graph_description": "Learn about California cannabis laws and licenses",
       "twitter_title": "California Department of Cannabis Control debuts data tool showcasing access areas for cannabis business",
@@ -79,13 +79,13 @@
         "term_taxonomy_id": 14,
         "taxonomy": "category",
         "description": "",
-        "parent": 0,
+        "parent": 878,
         "filter": "raw",
         "cat_ID": 14,
         "category_description": "",
         "cat_name": "Announcements",
         "category_nicename": "announcements",
-        "category_parent": 0
+        "category_parent": 878
       }
     ],
     "headless_tags": [],
@@ -99,6 +99,6 @@
       "custom_post_date": "",
       "custom_post_location": ""
     },
-    "wordpress_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/announcements/california-department-of-cannabis-control-debuts-data-tool-showcasing-access-areas-for-cannabis-business/"
+    "wordpress_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/about-us/announcements/california-department-of-cannabis-control-debuts-data-tool-showcasing-access-areas-for-cannabis-business/"
   }
 }

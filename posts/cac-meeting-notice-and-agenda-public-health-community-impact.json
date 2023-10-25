@@ -23,7 +23,7 @@
     "slug": "cac-meeting-notice-and-agenda-public-health-community-impact",
     "status": "publish",
     "type": "post",
-    "link": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/content-types/events/cannabis-advisory-committee/cac-meeting-notice-and-agenda-public-health-community-impact/",
+    "link": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/about-us/cannabis-advisory-committee/cac-meeting-notice-and-agenda-public-health-community-impact/",
     "title": "CAC Meeting Notice and Agenda: Public Health &#038; Community Impact",
     "excerpt": "<p>Notice to the Public The Cannabis Advisory Committee’s (CAC) Public Health and Community Impact Subcommittee is holding a scheduled meeting. Date: [ ] Time: [ ] How to join CAC subcommittee meetings are live-streamed and open to the public. No registration is required. Computer (Webex) Link: https://cannabis-meetings.webex.com/cannabis-meetings/j.php?MTID=m56863a605520aaa02aa69e5476de4a53 Webinar # 2598 712 043 Password: DCC012023 Webinar [&hellip;]</p>\n",
     "author": "Catherine Foss",
@@ -58,7 +58,7 @@
       "site_name": "Department of Cannabis Control",
       "site_description": "Learn about California cannabis laws and licenses",
       "site_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io",
-      "canonical_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/content-types/events/cannabis-advisory-committee/cac-meeting-notice-and-agenda-public-health-community-impact/",
+      "canonical_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/about-us/cannabis-advisory-committee/cac-meeting-notice-and-agenda-public-health-community-impact/",
       "page_title": "CAC Meeting Notice and Agenda: Public Health & Community Impact",
       "page_description": "Learn about California cannabis laws and licenses",
       "page_social_image_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
@@ -67,7 +67,7 @@
       "page_social_image_alt": "",
       "meta_title": "CAC Meeting Notice and Agenda: Public Health & Community Impact",
       "meta_description": "Learn about California cannabis laws and licenses",
-      "meta_canonical_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/content-types/events/cannabis-advisory-committee/cac-meeting-notice-and-agenda-public-health-community-impact/",
+      "meta_canonical_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/about-us/cannabis-advisory-committee/cac-meeting-notice-and-agenda-public-health-community-impact/",
       "open_graph_title": "CAC Meeting Notice and Agenda: Public Health & Community Impact",
       "open_graph_description": "Learn about California cannabis laws and licenses",
       "twitter_title": "CAC Meeting Notice and Agenda: Public Health & Community Impact",
@@ -82,13 +82,13 @@
         "term_taxonomy_id": 808,
         "taxonomy": "category",
         "description": "",
-        "parent": 800,
+        "parent": 878,
         "filter": "raw",
         "cat_ID": 808,
         "category_description": "",
         "cat_name": "Cannabis Advisory Committee",
         "category_nicename": "cannabis-advisory-committee",
-        "category_parent": 800
+        "category_parent": 878
       },
       {
         "term_id": 810,
@@ -130,6 +130,6 @@
       "custom_post_date": "",
       "custom_post_location": ""
     },
-    "wordpress_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/content-types/events/cannabis-advisory-committee/cac-meeting-notice-and-agenda-public-health-community-impact/"
+    "wordpress_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/about-us/cannabis-advisory-committee/cac-meeting-notice-and-agenda-public-health-community-impact/"
   }
 }

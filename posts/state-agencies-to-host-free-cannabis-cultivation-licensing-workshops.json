@@ -23,7 +23,7 @@
     "slug": "state-agencies-to-host-free-cannabis-cultivation-licensing-workshops",
     "status": "publish",
     "type": "post",
-    "link": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/announcements/state-agencies-to-host-free-cannabis-cultivation-licensing-workshops/",
+    "link": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/about-us/announcements/state-agencies-to-host-free-cannabis-cultivation-licensing-workshops/",
     "title": "State Agencies To Host Four Free Cannabis Cultivation Licensing Workshops",
     "excerpt": "<p>The California Department of Fish and Wildlife (CDFW), the California Department of Food and Agriculture (CDFA) and the State Water Resources Control Board (SWRCB) are hosting a series of cannabis licensing workshops this January and February.</p>\n",
     "author": "Department of Cannabis Control",
@@ -69,7 +69,7 @@
       "site_name": "Department of Cannabis Control",
       "site_description": "Learn about California cannabis laws and licenses",
       "site_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io",
-      "canonical_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/announcements/state-agencies-to-host-free-cannabis-cultivation-licensing-workshops/",
+      "canonical_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/about-us/announcements/state-agencies-to-host-free-cannabis-cultivation-licensing-workshops/",
       "page_title": "State Agencies To Host Four Free Cannabis Cultivation Licensing Workshops",
       "page_description": "The California Department of Fish and Wildlife (CDFW), the California Department of Food and Agriculture (CDFA) and the State Water Resources Control Board (SWRCB) are hosting a series of cannabis licensing workshops this January and February.",
       "page_social_image_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
@@ -78,7 +78,7 @@
       "page_social_image_alt": "",
       "meta_title": "State Agencies To Host Four Free Cannabis Cultivation Licensing Workshops",
       "meta_description": "The California Department of Fish and Wildlife (CDFW), the California Department of Food and Agriculture (CDFA) and the State Water Resources Control Board (SWRCB) are hosting a series of cannabis licensing workshops this January and February.",
-      "meta_canonical_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/announcements/state-agencies-to-host-free-cannabis-cultivation-licensing-workshops/",
+      "meta_canonical_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/about-us/announcements/state-agencies-to-host-free-cannabis-cultivation-licensing-workshops/",
       "open_graph_title": "State Agencies To Host Four Free Cannabis Cultivation Licensing Workshops",
       "open_graph_description": "The California Department of Fish and Wildlife (CDFW), the California Department of Food and Agriculture (CDFA) and the State Water Resources Control Board (SWRCB) are hosting a series of cannabis licensing workshops this January and February.",
       "twitter_title": "State Agencies To Host Four Free Cannabis Cultivation Licensing Workshops",
@@ -93,13 +93,13 @@
         "term_taxonomy_id": 14,
         "taxonomy": "category",
         "description": "",
-        "parent": 0,
+        "parent": 878,
         "filter": "raw",
         "cat_ID": 14,
         "category_description": "",
         "cat_name": "Announcements",
         "category_nicename": "announcements",
-        "category_parent": 0
+        "category_parent": 878
       }
     ],
     "headless_tags": [
@@ -257,6 +257,6 @@
       "custom_post_date": "",
       "custom_post_location": ""
     },
-    "wordpress_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/announcements/state-agencies-to-host-free-cannabis-cultivation-licensing-workshops/"
+    "wordpress_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/about-us/announcements/state-agencies-to-host-free-cannabis-cultivation-licensing-workshops/"
   }
 }
