@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2023-07-07T17:37:40",
-    "updated_date": "2023-07-07T20:53:54",
+    "updated_date": "2023-10-25T18:19:48",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2023-07-07T10:37:40",
     "date_gmt": "2023-07-07T17:37:40",
     "guid": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/?p=13172",
-    "modified": "2023-07-07T13:53:54",
-    "modified_gmt": "2023-07-07T20:53:54",
+    "modified": "2023-10-25T11:19:48",
+    "modified_gmt": "2023-10-25T18:19:48",
     "slug": "labor-peace-agreements",
     "status": "publish",
     "type": "post",
@@ -39,6 +39,7 @@
     },
     "categories": [
       "CannaConnect",
+      "DCC Regulations",
       "Workplace Safety"
     ],
     "tags": [
@@ -89,6 +90,22 @@
         "cat_name": "CannaConnect",
         "category_nicename": "cannaconnect",
         "category_parent": 869
+      },
+      {
+        "term_id": 877,
+        "name": "DCC Regulations",
+        "slug": "dcc-regulations",
+        "term_group": 0,
+        "term_taxonomy_id": 877,
+        "taxonomy": "category",
+        "description": "",
+        "parent": 876,
+        "filter": "raw",
+        "cat_ID": 877,
+        "category_description": "",
+        "cat_name": "DCC Regulations",
+        "category_nicename": "dcc-regulations",
+        "category_parent": 876
       },
       {
         "term_id": 817,
