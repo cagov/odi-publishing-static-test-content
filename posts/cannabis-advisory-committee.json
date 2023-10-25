@@ -23,7 +23,7 @@
     "slug": "cannabis-advisory-committee",
     "status": "publish",
     "type": "post",
-    "link": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/2022/08/cannabis-advisory-committee/",
+    "link": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/content-types/events/cannabis-advisory-committee/",
     "title": "Cannabis Advisory Committee",
     "excerpt": "<div class=\"event-details\">\n<div class=\"event-date\">September 8, 2022</div>\n<p></p>\n<div class=\"event-time\">10:00 AM PST</div>\n<p></p>\n<div class=\"event-location\">Virtual (WebEx Events)</div>\n</div>\n",
     "author": "Wes Breazell",
@@ -55,7 +55,7 @@
       "site_name": "Department of Cannabis Control",
       "site_description": "Learn about California cannabis laws and licenses",
       "site_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io",
-      "canonical_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/2022/08/cannabis-advisory-committee/",
+      "canonical_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/content-types/events/cannabis-advisory-committee/",
       "page_title": "Cannabis Advisory Committee",
       "page_description": "Learn about California cannabis laws and licenses",
       "page_social_image_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
@@ -64,7 +64,7 @@
       "page_social_image_alt": "",
       "meta_title": "Cannabis Advisory Committee",
       "meta_description": "Learn about California cannabis laws and licenses",
-      "meta_canonical_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/2022/08/cannabis-advisory-committee/",
+      "meta_canonical_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/content-types/events/cannabis-advisory-committee/",
       "open_graph_title": "Cannabis Advisory Committee",
       "open_graph_description": "Learn about California cannabis laws and licenses",
       "twitter_title": "Cannabis Advisory Committee",
@@ -110,6 +110,6 @@
       "custom_post_date": "",
       "custom_post_location": ""
     },
-    "wordpress_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/2022/08/cannabis-advisory-committee/"
+    "wordpress_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/content-types/events/cannabis-advisory-committee/"
   }
 }

@@ -23,7 +23,7 @@
     "slug": "december-15-2022-cac-meeting",
     "status": "publish",
     "type": "post",
-    "link": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/2022/12/december-15-2022-cac-meeting/",
+    "link": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/content-types/events/december-15-2022-cac-meeting/",
     "title": "December 15, 2022 (CAC meeting)",
     "excerpt": "<div class=\"event-details\">\n<div class=\"event-date\">December 15, 2022</div>\n<p></p>\n<div class=\"event-time\">10:00 AM PST</div>\n<p></p>\n<div class=\"event-location\">WebEx Event</div>\n</div>\n",
     "author": "Wes Breazell",
@@ -55,7 +55,7 @@
       "site_name": "Department of Cannabis Control",
       "site_description": "Learn about California cannabis laws and licenses",
       "site_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io",
-      "canonical_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/2022/12/december-15-2022-cac-meeting/",
+      "canonical_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/content-types/events/december-15-2022-cac-meeting/",
       "page_title": "December 15, 2022 (CAC meeting)",
       "page_description": "Learn about California cannabis laws and licenses",
       "page_social_image_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
@@ -64,7 +64,7 @@
       "page_social_image_alt": "",
       "meta_title": "December 15, 2022 (CAC meeting)",
       "meta_description": "Learn about California cannabis laws and licenses",
-      "meta_canonical_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/2022/12/december-15-2022-cac-meeting/",
+      "meta_canonical_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/content-types/events/december-15-2022-cac-meeting/",
       "open_graph_title": "December 15, 2022 (CAC meeting)",
       "open_graph_description": "Learn about California cannabis laws and licenses",
       "twitter_title": "December 15, 2022 (CAC meeting)",
@@ -109,6 +109,6 @@
       "custom_post_date": "",
       "custom_post_location": ""
     },
-    "wordpress_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/2022/12/december-15-2022-cac-meeting/"
+    "wordpress_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/content-types/events/december-15-2022-cac-meeting/"
   }
 }

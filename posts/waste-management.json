@@ -23,7 +23,7 @@
     "slug": "waste-management",
     "status": "publish",
     "type": "post",
-    "link": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/2023/04/waste-management/",
+    "link": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/license-types/applicants/waste-management/",
     "title": "Waste Management",
     "excerpt": "",
     "author": "Catherine Foss",
@@ -56,7 +56,7 @@
       "site_name": "Department of Cannabis Control",
       "site_description": "Learn about California cannabis laws and licenses",
       "site_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io",
-      "canonical_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/2023/04/waste-management/",
+      "canonical_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/license-types/applicants/waste-management/",
       "page_title": "Waste Management",
       "page_description": "Learn about California cannabis laws and licenses",
       "page_social_image_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
@@ -65,7 +65,7 @@
       "page_social_image_alt": "",
       "meta_title": "Waste Management",
       "meta_description": "Learn about California cannabis laws and licenses",
-      "meta_canonical_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/2023/04/waste-management/",
+      "meta_canonical_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/license-types/applicants/waste-management/",
       "open_graph_title": "Waste Management",
       "open_graph_description": "Learn about California cannabis laws and licenses",
       "twitter_title": "Waste Management",
@@ -116,6 +116,6 @@
       "custom_post_date": "",
       "custom_post_location": ""
     },
-    "wordpress_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/2023/04/waste-management/"
+    "wordpress_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/license-types/applicants/waste-management/"
   }
 }

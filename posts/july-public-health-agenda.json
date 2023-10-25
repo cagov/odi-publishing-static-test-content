@@ -23,7 +23,7 @@
     "slug": "july-public-health-agenda",
     "status": "publish",
     "type": "post",
-    "link": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/2023/05/july-public-health-agenda/",
+    "link": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/content-types/events/cannabis-advisory-committee/cac-subcommittee/health-community-subcommittee/july-public-health-agenda/",
     "title": "July Public Health Agenda",
     "excerpt": "<p>This is my agenda. The people need to review and approve it soon.</p>\n",
     "author": "Catherine Foss",
@@ -57,7 +57,7 @@
       "site_name": "Department of Cannabis Control",
       "site_description": "Learn about California cannabis laws and licenses",
       "site_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io",
-      "canonical_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/2023/05/july-public-health-agenda/",
+      "canonical_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/content-types/events/cannabis-advisory-committee/cac-subcommittee/health-community-subcommittee/july-public-health-agenda/",
       "page_title": "July Public Health Agenda",
       "page_description": "Learn about California cannabis laws and licenses",
       "page_social_image_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
@@ -66,7 +66,7 @@
       "page_social_image_alt": "",
       "meta_title": "July Public Health Agenda",
       "meta_description": "Learn about California cannabis laws and licenses",
-      "meta_canonical_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/2023/05/july-public-health-agenda/",
+      "meta_canonical_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/content-types/events/cannabis-advisory-committee/cac-subcommittee/health-community-subcommittee/july-public-health-agenda/",
       "open_graph_title": "July Public Health Agenda",
       "open_graph_description": "Learn about California cannabis laws and licenses",
       "twitter_title": "July Public Health Agenda",
@@ -113,6 +113,6 @@
       "custom_post_date": "",
       "custom_post_location": ""
     },
-    "wordpress_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/2023/05/july-public-health-agenda/"
+    "wordpress_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/content-types/events/cannabis-advisory-committee/cac-subcommittee/health-community-subcommittee/july-public-health-agenda/"
   }
 }

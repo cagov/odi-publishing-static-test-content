@@ -23,7 +23,7 @@
     "slug": "registration-and-account-management",
     "status": "publish",
     "type": "post",
-    "link": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/2023/05/registration-and-account-management/",
+    "link": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/application-resources/online-licensing-system/registration-and-account-management/",
     "title": "Registration and Account Management",
     "excerpt": "<p>Learn how to use the online licensing system and create your account.</p>\n",
     "author": "Catherine Foss",
@@ -55,7 +55,7 @@
       "site_name": "Department of Cannabis Control",
       "site_description": "Learn about California cannabis laws and licenses",
       "site_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io",
-      "canonical_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/2023/05/registration-and-account-management/",
+      "canonical_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/application-resources/online-licensing-system/registration-and-account-management/",
       "page_title": "Registration and Account Management",
       "page_description": "Learn about California cannabis laws and licenses",
       "page_social_image_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
@@ -64,7 +64,7 @@
       "page_social_image_alt": "",
       "meta_title": "Registration and Account Management",
       "meta_description": "Learn about California cannabis laws and licenses",
-      "meta_canonical_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/2023/05/registration-and-account-management/",
+      "meta_canonical_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/application-resources/online-licensing-system/registration-and-account-management/",
       "open_graph_title": "Registration and Account Management",
       "open_graph_description": "Learn about California cannabis laws and licenses",
       "twitter_title": "Registration and Account Management",
@@ -99,6 +99,6 @@
       "custom_post_date": "",
       "custom_post_location": ""
     },
-    "wordpress_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/2023/05/registration-and-account-management/"
+    "wordpress_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/application-resources/online-licensing-system/registration-and-account-management/"
   }
 }

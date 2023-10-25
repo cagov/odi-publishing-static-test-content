@@ -23,7 +23,7 @@
     "slug": "checklist",
     "status": "publish",
     "type": "post",
-    "link": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/2023/06/checklist/",
+    "link": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/announcements/checklist/",
     "title": "checklist",
     "excerpt": "<p>&check; Lion &check; Tiger &check; Zebra Lion Tiger Zebra</p>\n",
     "author": "Catherine Foss",
@@ -55,7 +55,7 @@
       "site_name": "Department of Cannabis Control",
       "site_description": "Learn about California cannabis laws and licenses",
       "site_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io",
-      "canonical_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/2023/06/checklist/",
+      "canonical_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/announcements/checklist/",
       "page_title": "checklist",
       "page_description": "Learn about California cannabis laws and licenses",
       "page_social_image_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
@@ -64,7 +64,7 @@
       "page_social_image_alt": "",
       "meta_title": "checklist",
       "meta_description": "Learn about California cannabis laws and licenses",
-      "meta_canonical_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/2023/06/checklist/",
+      "meta_canonical_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/announcements/checklist/",
       "open_graph_title": "checklist",
       "open_graph_description": "Learn about California cannabis laws and licenses",
       "twitter_title": "checklist",
@@ -99,6 +99,6 @@
       "custom_post_date": "",
       "custom_post_location": ""
     },
-    "wordpress_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/2023/06/checklist/"
+    "wordpress_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/announcements/checklist/"
   }
 }

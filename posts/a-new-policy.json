@@ -23,7 +23,7 @@
     "slug": "a-new-policy",
     "status": "publish",
     "type": "post",
-    "link": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/2023/05/a-new-policy/",
+    "link": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/policies-and-reports/dcc-policies/a-new-policy/",
     "title": "A new policy",
     "excerpt": "<p>testing</p>\n",
     "author": "Mukhtar Mukhtar",
@@ -55,7 +55,7 @@
       "site_name": "Department of Cannabis Control",
       "site_description": "Learn about California cannabis laws and licenses",
       "site_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io",
-      "canonical_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/2023/05/a-new-policy/",
+      "canonical_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/policies-and-reports/dcc-policies/a-new-policy/",
       "page_title": "A new policy",
       "page_description": "Learn about California cannabis laws and licenses",
       "page_social_image_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
@@ -64,7 +64,7 @@
       "page_social_image_alt": "",
       "meta_title": "A new policy",
       "meta_description": "Learn about California cannabis laws and licenses",
-      "meta_canonical_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/2023/05/a-new-policy/",
+      "meta_canonical_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/policies-and-reports/dcc-policies/a-new-policy/",
       "open_graph_title": "A new policy",
       "open_graph_description": "Learn about California cannabis laws and licenses",
       "twitter_title": "A new policy",
@@ -99,6 +99,6 @@
       "custom_post_date": "",
       "custom_post_location": ""
     },
-    "wordpress_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/2023/05/a-new-policy/"
+    "wordpress_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/policies-and-reports/dcc-policies/a-new-policy/"
   }
 }

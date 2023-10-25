@@ -23,7 +23,7 @@
     "slug": "pesticide-violations",
     "status": "publish",
     "type": "post",
-    "link": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/2023/05/pesticide-violations/",
+    "link": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/announcements/pesticide-violations/",
     "title": "Pesticide Violations",
     "excerpt": "<p>Pesticide Violation allegations are handled by the local county Agricultural Commissioner’s Office.&nbsp; To find your local ag commissioner please visit the CDFA Website. For more information on pesticide related claims please visit the California Department of Pesticide Regulation.</p>\n",
     "author": "Catherine Foss",
@@ -60,7 +60,7 @@
       "site_name": "Department of Cannabis Control",
       "site_description": "Learn about California cannabis laws and licenses",
       "site_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io",
-      "canonical_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/2023/05/pesticide-violations/",
+      "canonical_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/announcements/pesticide-violations/",
       "page_title": "Pesticide Violations",
       "page_description": "Learn about California cannabis laws and licenses",
       "page_social_image_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
@@ -69,7 +69,7 @@
       "page_social_image_alt": "",
       "meta_title": "Pesticide Violations",
       "meta_description": "Learn about California cannabis laws and licenses",
-      "meta_canonical_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/2023/05/pesticide-violations/",
+      "meta_canonical_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/announcements/pesticide-violations/",
       "open_graph_title": "Pesticide Violations",
       "open_graph_description": "Learn about California cannabis laws and licenses",
       "twitter_title": "Pesticide Violations",
@@ -164,6 +164,6 @@
       "custom_post_date": "",
       "custom_post_location": ""
     },
-    "wordpress_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/2023/05/pesticide-violations/"
+    "wordpress_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/announcements/pesticide-violations/"
   }
 }
