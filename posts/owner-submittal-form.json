@@ -23,7 +23,7 @@
     "slug": "owner-submittal-form",
     "status": "publish",
     "type": "post",
-    "link": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/license-types/manufacturing/owner-submittal-form/",
+    "link": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/licensees/manufacturing/owner-submittal-form/",
     "title": "Owner Submittal Form",
     "excerpt": "<p>Form used for reporting owners/associated businesses.</p>\n",
     "author": "Catherine Foss",
@@ -58,7 +58,7 @@
       "site_name": "Department of Cannabis Control",
       "site_description": "Learn about California cannabis laws and licenses",
       "site_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io",
-      "canonical_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/license-types/manufacturing/owner-submittal-form/",
+      "canonical_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/licensees/manufacturing/owner-submittal-form/",
       "page_title": "Owner Submittal Form",
       "page_description": "Learn about California cannabis laws and licenses",
       "page_social_image_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
@@ -67,7 +67,7 @@
       "page_social_image_alt": "",
       "meta_title": "Owner Submittal Form",
       "meta_description": "Learn about California cannabis laws and licenses",
-      "meta_canonical_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/license-types/manufacturing/owner-submittal-form/",
+      "meta_canonical_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/licensees/manufacturing/owner-submittal-form/",
       "open_graph_title": "Owner Submittal Form",
       "open_graph_description": "Learn about California cannabis laws and licenses",
       "twitter_title": "Owner Submittal Form",
@@ -98,13 +98,13 @@
         "term_taxonomy_id": 850,
         "taxonomy": "category",
         "description": "",
-        "parent": 821,
+        "parent": 869,
         "filter": "raw",
         "cat_ID": 850,
         "category_description": "",
         "cat_name": "Manufacturing",
         "category_nicename": "manufacturing",
-        "category_parent": 821
+        "category_parent": 869
       }
     ],
     "headless_tags": [
@@ -130,6 +130,6 @@
       "custom_post_date": "",
       "custom_post_location": ""
     },
-    "wordpress_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/license-types/manufacturing/owner-submittal-form/"
+    "wordpress_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/licensees/manufacturing/owner-submittal-form/"
   }
 }

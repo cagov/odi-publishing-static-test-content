@@ -23,7 +23,7 @@
     "slug": "new-reference-guides-for-cannabis-cultivation-license-applicants",
     "status": "publish",
     "type": "post",
-    "link": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/announcements/new-reference-guides-for-cannabis-cultivation-license-applicants/",
+    "link": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/about-us/announcements/new-reference-guides-for-cannabis-cultivation-license-applicants/",
     "title": "New Reference Guides for Cannabis Cultivation License Applicants",
     "excerpt": "<p>Hello CalCannabis Cultivation Licensing Stakeholders:<br />\nTo assist those of you who are applying for an annual commercial cannabis cultivation license, we have created a couple of new reference guides to help explain what’s required for the cultivation plan and some of the other required application attachments.</p>\n",
     "author": "Department of Cannabis Control",
@@ -66,7 +66,7 @@
       "site_name": "Department of Cannabis Control",
       "site_description": "Learn about California cannabis laws and licenses",
       "site_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io",
-      "canonical_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/announcements/new-reference-guides-for-cannabis-cultivation-license-applicants/",
+      "canonical_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/about-us/announcements/new-reference-guides-for-cannabis-cultivation-license-applicants/",
       "page_title": "New Reference Guides for Cannabis Cultivation License Applicants",
       "page_description": "Hello CalCannabis Cultivation Licensing Stakeholders:\nTo assist those of you who are applying for an annual commercial cannabis cultivation license, we have created a couple of new reference guides to help explain what’s required for the cultivation plan and some of the other required application attachments.",
       "page_social_image_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
@@ -75,7 +75,7 @@
       "page_social_image_alt": "",
       "meta_title": "New Reference Guides for Cannabis Cultivation License Applicants",
       "meta_description": "Hello CalCannabis Cultivation Licensing Stakeholders:\nTo assist those of you who are applying for an annual commercial cannabis cultivation license, we have created a couple of new reference guides to help explain what’s required for the cultivation plan and some of the other required application attachments.",
-      "meta_canonical_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/announcements/new-reference-guides-for-cannabis-cultivation-license-applicants/",
+      "meta_canonical_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/about-us/announcements/new-reference-guides-for-cannabis-cultivation-license-applicants/",
       "open_graph_title": "New Reference Guides for Cannabis Cultivation License Applicants",
       "open_graph_description": "Hello CalCannabis Cultivation Licensing Stakeholders:\nTo assist those of you who are applying for an annual commercial cannabis cultivation license, we have created a couple of new reference guides to help explain what’s required for the cultivation plan and some of the other required application attachments.",
       "twitter_title": "New Reference Guides for Cannabis Cultivation License Applicants",
@@ -90,13 +90,13 @@
         "term_taxonomy_id": 14,
         "taxonomy": "category",
         "description": "",
-        "parent": 0,
+        "parent": 878,
         "filter": "raw",
         "cat_ID": 14,
         "category_description": "",
         "cat_name": "Announcements",
         "category_nicename": "announcements",
-        "category_parent": 0
+        "category_parent": 878
       }
     ],
     "headless_tags": [
@@ -221,6 +221,6 @@
       "custom_post_date": "",
       "custom_post_location": ""
     },
-    "wordpress_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/announcements/new-reference-guides-for-cannabis-cultivation-license-applicants/"
+    "wordpress_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/about-us/announcements/new-reference-guides-for-cannabis-cultivation-license-applicants/"
   }
 }

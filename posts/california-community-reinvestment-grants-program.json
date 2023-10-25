@@ -23,7 +23,7 @@
     "slug": "california-community-reinvestment-grants-program",
     "status": "publish",
     "type": "post",
-    "link": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/announcements/california-community-reinvestment-grants-program/",
+    "link": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/about-us/announcements/california-community-reinvestment-grants-program/",
     "title": "California Community Reinvestment Grants Program",
     "excerpt": "<p>The California Community Reinvestment Grants program was included in The Adult Use of Marijuana Act (Proposition 64), which was approved by California voters on November 8, 2016.</p>\n",
     "author": "Department of Cannabis Control",
@@ -66,7 +66,7 @@
       "site_name": "Department of Cannabis Control",
       "site_description": "Learn about California cannabis laws and licenses",
       "site_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io",
-      "canonical_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/announcements/california-community-reinvestment-grants-program/",
+      "canonical_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/about-us/announcements/california-community-reinvestment-grants-program/",
       "page_title": "California Community Reinvestment Grants Program",
       "page_description": "The California Community Reinvestment Grants program was included in The Adult Use of Marijuana Act (Proposition 64), which was approved by California voters on November 8, 2016.",
       "page_social_image_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
@@ -75,7 +75,7 @@
       "page_social_image_alt": "",
       "meta_title": "California Community Reinvestment Grants Program",
       "meta_description": "The California Community Reinvestment Grants program was included in The Adult Use of Marijuana Act (Proposition 64), which was approved by California voters on November 8, 2016.",
-      "meta_canonical_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/announcements/california-community-reinvestment-grants-program/",
+      "meta_canonical_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/about-us/announcements/california-community-reinvestment-grants-program/",
       "open_graph_title": "California Community Reinvestment Grants Program",
       "open_graph_description": "The California Community Reinvestment Grants program was included in The Adult Use of Marijuana Act (Proposition 64), which was approved by California voters on November 8, 2016.",
       "twitter_title": "California Community Reinvestment Grants Program",
@@ -90,13 +90,13 @@
         "term_taxonomy_id": 14,
         "taxonomy": "category",
         "description": "",
-        "parent": 0,
+        "parent": 878,
         "filter": "raw",
         "cat_ID": 14,
         "category_description": "",
         "cat_name": "Announcements",
         "category_nicename": "announcements",
-        "category_parent": 0
+        "category_parent": 878
       }
     ],
     "headless_tags": [
@@ -221,6 +221,6 @@
       "custom_post_date": "",
       "custom_post_location": ""
     },
-    "wordpress_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/announcements/california-community-reinvestment-grants-program/"
+    "wordpress_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/about-us/announcements/california-community-reinvestment-grants-program/"
   }
 }

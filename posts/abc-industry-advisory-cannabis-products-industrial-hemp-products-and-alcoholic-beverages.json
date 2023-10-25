@@ -23,7 +23,7 @@
     "slug": "abc-industry-advisory-cannabis-products-industrial-hemp-products-and-alcoholic-beverages",
     "status": "publish",
     "type": "post",
-    "link": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/announcements/abc-industry-advisory-cannabis-products-industrial-hemp-products-and-alcoholic-beverages/",
+    "link": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/about-us/announcements/abc-industry-advisory-cannabis-products-industrial-hemp-products-and-alcoholic-beverages/",
     "title": "ABC industry advisory: cannabis products, industrial hemp products, and alcoholic beverages",
     "excerpt": "<p>The California Department of Alcoholic Beverage Control (ABC) issued the following industry advisory to provide guidance about which activities are allowed on or in premises licensed by ABC. Contact ABC if you have any questions about this advisory:&nbsp;headquarters@abc.ca.gov, (916) 419-2500 With the legalization of commercial recreational use of cannabis products commencing in 2018, along with [&hellip;]</p>\n",
     "author": "Department of Cannabis Control",
@@ -59,7 +59,7 @@
       "site_name": "Department of Cannabis Control",
       "site_description": "Learn about California cannabis laws and licenses",
       "site_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io",
-      "canonical_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/announcements/abc-industry-advisory-cannabis-products-industrial-hemp-products-and-alcoholic-beverages/",
+      "canonical_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/about-us/announcements/abc-industry-advisory-cannabis-products-industrial-hemp-products-and-alcoholic-beverages/",
       "page_title": "ABC industry advisory: cannabis products, industrial hemp products, and alcoholic beverages",
       "page_description": "Learn about California cannabis laws and licenses",
       "page_social_image_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
@@ -68,7 +68,7 @@
       "page_social_image_alt": "",
       "meta_title": "ABC industry advisory: cannabis products, industrial hemp products, and alcoholic beverages",
       "meta_description": "Learn about California cannabis laws and licenses",
-      "meta_canonical_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/announcements/abc-industry-advisory-cannabis-products-industrial-hemp-products-and-alcoholic-beverages/",
+      "meta_canonical_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/about-us/announcements/abc-industry-advisory-cannabis-products-industrial-hemp-products-and-alcoholic-beverages/",
       "open_graph_title": "ABC industry advisory: cannabis products, industrial hemp products, and alcoholic beverages",
       "open_graph_description": "Learn about California cannabis laws and licenses",
       "twitter_title": "ABC industry advisory: cannabis products, industrial hemp products, and alcoholic beverages",
@@ -83,13 +83,13 @@
         "term_taxonomy_id": 14,
         "taxonomy": "category",
         "description": "",
-        "parent": 0,
+        "parent": 878,
         "filter": "raw",
         "cat_ID": 14,
         "category_description": "",
         "cat_name": "Announcements",
         "category_nicename": "announcements",
-        "category_parent": 0
+        "category_parent": 878
       }
     ],
     "headless_tags": [
@@ -137,6 +137,6 @@
       "custom_post_date": "2021-11-01",
       "custom_post_location": ""
     },
-    "wordpress_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/announcements/abc-industry-advisory-cannabis-products-industrial-hemp-products-and-alcoholic-beverages/"
+    "wordpress_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/about-us/announcements/abc-industry-advisory-cannabis-products-industrial-hemp-products-and-alcoholic-beverages/"
   }
 }

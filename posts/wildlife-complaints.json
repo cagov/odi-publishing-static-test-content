@@ -23,7 +23,7 @@
     "slug": "wildlife-complaints",
     "status": "publish",
     "type": "post",
-    "link": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/announcements/wildlife-complaints/",
+    "link": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/about-us/announcements/wildlife-complaints/",
     "title": "Wildlife Complaints",
     "excerpt": "<p>Negative impact of on wildlife allegations are handled by the California Department of Fish and Wildlife. Members of the public remain our best source of information related to illegal cannabis cultivation. If you witness a polluting or poaching incident, a fish and game code violation, or have information about a violation, call CalTIP at 1-888-334-CALTIP (888-334-2258) or https://wildlife.ca.gov/Enforcement/CalTIP </p>\n",
     "author": "Catherine Foss",
@@ -60,7 +60,7 @@
       "site_name": "Department of Cannabis Control",
       "site_description": "Learn about California cannabis laws and licenses",
       "site_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io",
-      "canonical_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/announcements/wildlife-complaints/",
+      "canonical_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/about-us/announcements/wildlife-complaints/",
       "page_title": "Wildlife Complaints",
       "page_description": "Learn about California cannabis laws and licenses",
       "page_social_image_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
@@ -69,7 +69,7 @@
       "page_social_image_alt": "",
       "meta_title": "Wildlife Complaints",
       "meta_description": "Learn about California cannabis laws and licenses",
-      "meta_canonical_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/announcements/wildlife-complaints/",
+      "meta_canonical_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/about-us/announcements/wildlife-complaints/",
       "open_graph_title": "Wildlife Complaints",
       "open_graph_description": "Learn about California cannabis laws and licenses",
       "twitter_title": "Wildlife Complaints",
@@ -84,13 +84,13 @@
         "term_taxonomy_id": 14,
         "taxonomy": "category",
         "description": "",
-        "parent": 0,
+        "parent": 878,
         "filter": "raw",
         "cat_ID": 14,
         "category_description": "",
         "cat_name": "Announcements",
         "category_nicename": "announcements",
-        "category_parent": 0
+        "category_parent": 878
       },
       {
         "term_id": 829,
@@ -164,6 +164,6 @@
       "custom_post_date": "",
       "custom_post_location": ""
     },
-    "wordpress_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/announcements/wildlife-complaints/"
+    "wordpress_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/about-us/announcements/wildlife-complaints/"
   }
 }

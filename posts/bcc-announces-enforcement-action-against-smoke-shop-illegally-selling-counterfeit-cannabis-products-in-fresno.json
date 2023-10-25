@@ -23,7 +23,7 @@
     "slug": "bcc-announces-enforcement-action-against-smoke-shop-illegally-selling-counterfeit-cannabis-products-in-fresno",
     "status": "publish",
     "type": "post",
-    "link": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/announcements/bcc-announces-enforcement-action-against-smoke-shop-illegally-selling-counterfeit-cannabis-products-in-fresno/",
+    "link": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/about-us/announcements/bcc-announces-enforcement-action-against-smoke-shop-illegally-selling-counterfeit-cannabis-products-in-fresno/",
     "title": "BCC Announces Enforcement Action Against Smoke Shop Illegally Selling Counterfeit Cannabis Products in Fresno",
     "excerpt": "<p>The Bureau of Cannabis Control and DCA’s Cannabis Enforcement Unit received a tip yesterday from the California Department of Tax and Fee Administration concerning a smoke shop illegally selling counterfeit cannabis products in Fresno.</p>\n",
     "author": "Department of Cannabis Control",
@@ -73,7 +73,7 @@
       "site_name": "Department of Cannabis Control",
       "site_description": "Learn about California cannabis laws and licenses",
       "site_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io",
-      "canonical_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/announcements/bcc-announces-enforcement-action-against-smoke-shop-illegally-selling-counterfeit-cannabis-products-in-fresno/",
+      "canonical_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/about-us/announcements/bcc-announces-enforcement-action-against-smoke-shop-illegally-selling-counterfeit-cannabis-products-in-fresno/",
       "page_title": "BCC Announces Enforcement Action Against Smoke Shop Illegally Selling Counterfeit Cannabis Products in Fresno",
       "page_description": "The Bureau of Cannabis Control and DCA’s Cannabis Enforcement Unit received a tip yesterday from the California Department of Tax and Fee Administration concerning a smoke shop illegally selling counterfeit cannabis products in Fresno.",
       "page_social_image_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
@@ -82,7 +82,7 @@
       "page_social_image_alt": "",
       "meta_title": "BCC Announces Enforcement Action Against Smoke Shop Illegally Selling Counterfeit Cannabis Products in Fresno",
       "meta_description": "The Bureau of Cannabis Control and DCA’s Cannabis Enforcement Unit received a tip yesterday from the California Department of Tax and Fee Administration concerning a smoke shop illegally selling counterfeit cannabis products in Fresno.",
-      "meta_canonical_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/announcements/bcc-announces-enforcement-action-against-smoke-shop-illegally-selling-counterfeit-cannabis-products-in-fresno/",
+      "meta_canonical_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/about-us/announcements/bcc-announces-enforcement-action-against-smoke-shop-illegally-selling-counterfeit-cannabis-products-in-fresno/",
       "open_graph_title": "BCC Announces Enforcement Action Against Smoke Shop Illegally Selling Counterfeit Cannabis Products in Fresno",
       "open_graph_description": "The Bureau of Cannabis Control and DCA’s Cannabis Enforcement Unit received a tip yesterday from the California Department of Tax and Fee Administration concerning a smoke shop illegally selling counterfeit cannabis products in Fresno.",
       "twitter_title": "BCC Announces Enforcement Action Against Smoke Shop Illegally Selling Counterfeit Cannabis Products in Fresno",
@@ -97,13 +97,13 @@
         "term_taxonomy_id": 14,
         "taxonomy": "category",
         "description": "",
-        "parent": 0,
+        "parent": 878,
         "filter": "raw",
         "cat_ID": 14,
         "category_description": "",
         "cat_name": "Announcements",
         "category_nicename": "announcements",
-        "category_parent": 0
+        "category_parent": 878
       }
     ],
     "headless_tags": [
@@ -305,6 +305,6 @@
       "custom_post_date": "",
       "custom_post_location": ""
     },
-    "wordpress_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/announcements/bcc-announces-enforcement-action-against-smoke-shop-illegally-selling-counterfeit-cannabis-products-in-fresno/"
+    "wordpress_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/about-us/announcements/bcc-announces-enforcement-action-against-smoke-shop-illegally-selling-counterfeit-cannabis-products-in-fresno/"
   }
 }

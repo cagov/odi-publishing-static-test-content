@@ -23,7 +23,7 @@
     "slug": "provisional-license-requirements",
     "status": "publish",
     "type": "post",
-    "link": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/cannaconnect/provisional-licenses/provisional-license-requirements/",
+    "link": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/licensees/cannaconnect/provisional-licenses/provisional-license-requirements/",
     "title": "Provisional License Requirements",
     "excerpt": "<p>Assembly Bill 141 and Senate Bill 160 (2021) modified requirements for provisional licenses. Licensees must now meet additional criteria to renew a provisional license to ensure progress is being made toward annual licensure. Provisional licenses will sunset in stages over time. A summary of criteria and timelines related to provisional licenses is outlined below.</p>\n",
     "author": "Catherine Foss",
@@ -55,7 +55,7 @@
       "site_name": "Department of Cannabis Control",
       "site_description": "Learn about California cannabis laws and licenses",
       "site_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io",
-      "canonical_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/cannaconnect/provisional-licenses/provisional-license-requirements/",
+      "canonical_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/licensees/cannaconnect/provisional-licenses/provisional-license-requirements/",
       "page_title": "Provisional License Requirements",
       "page_description": "Learn about California cannabis laws and licenses",
       "page_social_image_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
@@ -64,7 +64,7 @@
       "page_social_image_alt": "",
       "meta_title": "Provisional License Requirements",
       "meta_description": "Learn about California cannabis laws and licenses",
-      "meta_canonical_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/cannaconnect/provisional-licenses/provisional-license-requirements/",
+      "meta_canonical_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/licensees/cannaconnect/provisional-licenses/provisional-license-requirements/",
       "open_graph_title": "Provisional License Requirements",
       "open_graph_description": "Learn about California cannabis laws and licenses",
       "twitter_title": "Provisional License Requirements",
@@ -99,6 +99,6 @@
       "custom_post_date": "",
       "custom_post_location": ""
     },
-    "wordpress_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/cannaconnect/provisional-licenses/provisional-license-requirements/"
+    "wordpress_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/licensees/cannaconnect/provisional-licenses/provisional-license-requirements/"
   }
 }

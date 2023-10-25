@@ -23,7 +23,7 @@
     "slug": "california-department-of-cannabis-control-announces-appointments-to-cannabis-advisory-committee",
     "status": "publish",
     "type": "post",
-    "link": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/announcements/california-department-of-cannabis-control-announces-appointments-to-cannabis-advisory-committee/",
+    "link": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/about-us/announcements/california-department-of-cannabis-control-announces-appointments-to-cannabis-advisory-committee/",
     "title": "California Department of Cannabis Control announces appointments to Cannabis Advisory Committee",
     "excerpt": "<p>CALIFORNIA – The California Department of Cannabis Control (DCC) is pleased to announce the following appointments to the California Cannabis Advisory Committee:&nbsp;&nbsp; Ali Jamalian – CEO, Kiffen LLC Amber Baur – Executive Director, United Food and Commercial Workers Western States Council Antonio Frazier – President, Sonoma Lab Works  Beverly Yu – Government Affairs Director, United [&hellip;]</p>\n",
     "author": "Wes Breazell",
@@ -55,7 +55,7 @@
       "site_name": "Department of Cannabis Control",
       "site_description": "Learn about California cannabis laws and licenses",
       "site_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io",
-      "canonical_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/announcements/california-department-of-cannabis-control-announces-appointments-to-cannabis-advisory-committee/",
+      "canonical_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/about-us/announcements/california-department-of-cannabis-control-announces-appointments-to-cannabis-advisory-committee/",
       "page_title": "California Department of Cannabis Control announces appointments to Cannabis Advisory Committee",
       "page_description": "Learn about California cannabis laws and licenses",
       "page_social_image_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
@@ -64,7 +64,7 @@
       "page_social_image_alt": "",
       "meta_title": "California Department of Cannabis Control announces appointments to Cannabis Advisory Committee",
       "meta_description": "Learn about California cannabis laws and licenses",
-      "meta_canonical_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/announcements/california-department-of-cannabis-control-announces-appointments-to-cannabis-advisory-committee/",
+      "meta_canonical_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/about-us/announcements/california-department-of-cannabis-control-announces-appointments-to-cannabis-advisory-committee/",
       "open_graph_title": "California Department of Cannabis Control announces appointments to Cannabis Advisory Committee",
       "open_graph_description": "Learn about California cannabis laws and licenses",
       "twitter_title": "California Department of Cannabis Control announces appointments to Cannabis Advisory Committee",
@@ -79,13 +79,13 @@
         "term_taxonomy_id": 14,
         "taxonomy": "category",
         "description": "",
-        "parent": 0,
+        "parent": 878,
         "filter": "raw",
         "cat_ID": 14,
         "category_description": "",
         "cat_name": "Announcements",
         "category_nicename": "announcements",
-        "category_parent": 0
+        "category_parent": 878
       }
     ],
     "headless_tags": [],
@@ -99,6 +99,6 @@
       "custom_post_date": "",
       "custom_post_location": ""
     },
-    "wordpress_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/announcements/california-department-of-cannabis-control-announces-appointments-to-cannabis-advisory-committee/"
+    "wordpress_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/about-us/announcements/california-department-of-cannabis-control-announces-appointments-to-cannabis-advisory-committee/"
   }
 }

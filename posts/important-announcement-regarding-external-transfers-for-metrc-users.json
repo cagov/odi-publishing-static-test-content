@@ -23,7 +23,7 @@
     "slug": "important-announcement-regarding-external-transfers-for-metrc-users",
     "status": "publish",
     "type": "post",
-    "link": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/announcements/important-announcement-regarding-external-transfers-for-metrc-users/",
+    "link": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/about-us/announcements/important-announcement-regarding-external-transfers-for-metrc-users/",
     "title": "Important Announcement Regarding External Transfers for Metrc Users",
     "excerpt": "<p>To All Interested Parties,<br />\nMetrc has recently published an industry bulletin to all Metrc user accounts regarding the retirement of external transfers.</p>\n",
     "author": "Department of Cannabis Control",
@@ -65,7 +65,7 @@
       "site_name": "Department of Cannabis Control",
       "site_description": "Learn about California cannabis laws and licenses",
       "site_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io",
-      "canonical_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/announcements/important-announcement-regarding-external-transfers-for-metrc-users/",
+      "canonical_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/about-us/announcements/important-announcement-regarding-external-transfers-for-metrc-users/",
       "page_title": "Important Announcement Regarding External Transfers for Metrc Users",
       "page_description": "To All Interested Parties,\nMetrc has recently published an industry bulletin to all Metrc user accounts regarding the retirement of external transfers.",
       "page_social_image_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
@@ -74,7 +74,7 @@
       "page_social_image_alt": "",
       "meta_title": "Important Announcement Regarding External Transfers for Metrc Users",
       "meta_description": "To All Interested Parties,\nMetrc has recently published an industry bulletin to all Metrc user accounts regarding the retirement of external transfers.",
-      "meta_canonical_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/announcements/important-announcement-regarding-external-transfers-for-metrc-users/",
+      "meta_canonical_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/about-us/announcements/important-announcement-regarding-external-transfers-for-metrc-users/",
       "open_graph_title": "Important Announcement Regarding External Transfers for Metrc Users",
       "open_graph_description": "To All Interested Parties,\nMetrc has recently published an industry bulletin to all Metrc user accounts regarding the retirement of external transfers.",
       "twitter_title": "Important Announcement Regarding External Transfers for Metrc Users",
@@ -89,13 +89,13 @@
         "term_taxonomy_id": 14,
         "taxonomy": "category",
         "description": "",
-        "parent": 0,
+        "parent": 878,
         "filter": "raw",
         "cat_ID": 14,
         "category_description": "",
         "cat_name": "Announcements",
         "category_nicename": "announcements",
-        "category_parent": 0
+        "category_parent": 878
       }
     ],
     "headless_tags": [
@@ -209,6 +209,6 @@
       "custom_post_date": "",
       "custom_post_location": ""
     },
-    "wordpress_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/announcements/important-announcement-regarding-external-transfers-for-metrc-users/"
+    "wordpress_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/about-us/announcements/important-announcement-regarding-external-transfers-for-metrc-users/"
   }
 }

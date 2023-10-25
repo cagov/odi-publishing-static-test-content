@@ -23,7 +23,7 @@
     "slug": "californias-pot-chief-vows-state-will-meet-compliance-deadline",
     "status": "publish",
     "type": "post",
-    "link": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/announcements/californias-pot-chief-vows-state-will-meet-compliance-deadline/",
+    "link": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/about-us/announcements/californias-pot-chief-vows-state-will-meet-compliance-deadline/",
     "title": "California&#8217;s Pot Chief Vows State Will Meet Compliance Deadline",
     "excerpt": "<p>California’s chief marijuana regulator on Thursday told a gathering of growers, government officials and would-be entrepreneurs that the state will have a regulatory structure in place to oversee a developing multibillion-dollar cannabis market by Jan.</p>\n",
     "author": "Department of Cannabis Control",
@@ -58,7 +58,7 @@
       "site_name": "Department of Cannabis Control",
       "site_description": "Learn about California cannabis laws and licenses",
       "site_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io",
-      "canonical_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/announcements/californias-pot-chief-vows-state-will-meet-compliance-deadline/",
+      "canonical_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/about-us/announcements/californias-pot-chief-vows-state-will-meet-compliance-deadline/",
       "page_title": "California&#8217;s Pot Chief Vows State Will Meet Compliance Deadline",
       "page_description": "California’s chief marijuana regulator on Thursday told a gathering of growers, government officials and would-be entrepreneurs that the state will have a regulatory structure in place to oversee a developing multibillion-dollar cannabis market by Jan.",
       "page_social_image_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
@@ -67,7 +67,7 @@
       "page_social_image_alt": "",
       "meta_title": "California&#8217;s Pot Chief Vows State Will Meet Compliance Deadline",
       "meta_description": "California’s chief marijuana regulator on Thursday told a gathering of growers, government officials and would-be entrepreneurs that the state will have a regulatory structure in place to oversee a developing multibillion-dollar cannabis market by Jan.",
-      "meta_canonical_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/announcements/californias-pot-chief-vows-state-will-meet-compliance-deadline/",
+      "meta_canonical_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/about-us/announcements/californias-pot-chief-vows-state-will-meet-compliance-deadline/",
       "open_graph_title": "California&#8217;s Pot Chief Vows State Will Meet Compliance Deadline",
       "open_graph_description": "California’s chief marijuana regulator on Thursday told a gathering of growers, government officials and would-be entrepreneurs that the state will have a regulatory structure in place to oversee a developing multibillion-dollar cannabis market by Jan.",
       "twitter_title": "California&#8217;s Pot Chief Vows State Will Meet Compliance Deadline",
@@ -82,13 +82,13 @@
         "term_taxonomy_id": 14,
         "taxonomy": "category",
         "description": "",
-        "parent": 0,
+        "parent": 878,
         "filter": "raw",
         "cat_ID": 14,
         "category_description": "",
         "cat_name": "Announcements",
         "category_nicename": "announcements",
-        "category_parent": 0
+        "category_parent": 878
       }
     ],
     "headless_tags": [
@@ -125,6 +125,6 @@
       "custom_post_date": "",
       "custom_post_location": ""
     },
-    "wordpress_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/announcements/californias-pot-chief-vows-state-will-meet-compliance-deadline/"
+    "wordpress_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/about-us/announcements/californias-pot-chief-vows-state-will-meet-compliance-deadline/"
   }
 }

@@ -23,7 +23,7 @@
     "slug": "this-landmark-cannabis-bill-is-great-news-for-marijuana-stocks",
     "status": "publish",
     "type": "post",
-    "link": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/announcements/this-landmark-cannabis-bill-is-great-news-for-marijuana-stocks/",
+    "link": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/about-us/announcements/this-landmark-cannabis-bill-is-great-news-for-marijuana-stocks/",
     "title": "This Landmark Cannabis Bill Is Great News for Marijuana Stocks",
     "excerpt": "<p>Investors would probably struggle to find an industry that&#8217;s growing at a faster and more consistent pace than legal marijuana.</p>\n",
     "author": "Department of Cannabis Control",
@@ -60,7 +60,7 @@
       "site_name": "Department of Cannabis Control",
       "site_description": "Learn about California cannabis laws and licenses",
       "site_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io",
-      "canonical_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/announcements/this-landmark-cannabis-bill-is-great-news-for-marijuana-stocks/",
+      "canonical_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/about-us/announcements/this-landmark-cannabis-bill-is-great-news-for-marijuana-stocks/",
       "page_title": "This Landmark Cannabis Bill Is Great News for Marijuana Stocks",
       "page_description": "Investors would probably struggle to find an industry that&#8217;s growing at a faster and more consistent pace than legal marijuana.",
       "page_social_image_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
@@ -69,7 +69,7 @@
       "page_social_image_alt": "",
       "meta_title": "This Landmark Cannabis Bill Is Great News for Marijuana Stocks",
       "meta_description": "Investors would probably struggle to find an industry that&#8217;s growing at a faster and more consistent pace than legal marijuana.",
-      "meta_canonical_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/announcements/this-landmark-cannabis-bill-is-great-news-for-marijuana-stocks/",
+      "meta_canonical_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/about-us/announcements/this-landmark-cannabis-bill-is-great-news-for-marijuana-stocks/",
       "open_graph_title": "This Landmark Cannabis Bill Is Great News for Marijuana Stocks",
       "open_graph_description": "Investors would probably struggle to find an industry that&#8217;s growing at a faster and more consistent pace than legal marijuana.",
       "twitter_title": "This Landmark Cannabis Bill Is Great News for Marijuana Stocks",
@@ -84,13 +84,13 @@
         "term_taxonomy_id": 14,
         "taxonomy": "category",
         "description": "",
-        "parent": 0,
+        "parent": 878,
         "filter": "raw",
         "cat_ID": 14,
         "category_description": "",
         "cat_name": "Announcements",
         "category_nicename": "announcements",
-        "category_parent": 0
+        "category_parent": 878
       }
     ],
     "headless_tags": [
@@ -149,6 +149,6 @@
       "custom_post_date": "",
       "custom_post_location": ""
     },
-    "wordpress_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/announcements/this-landmark-cannabis-bill-is-great-news-for-marijuana-stocks/"
+    "wordpress_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/about-us/announcements/this-landmark-cannabis-bill-is-great-news-for-marijuana-stocks/"
   }
 }

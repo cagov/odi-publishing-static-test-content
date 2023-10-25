@@ -23,7 +23,7 @@
     "slug": "california-department-of-public-health-sunset-of-temporary-licenses",
     "status": "publish",
     "type": "post",
-    "link": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/announcements/california-department-of-public-health-sunset-of-temporary-licenses/",
+    "link": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/about-us/announcements/california-department-of-public-health-sunset-of-temporary-licenses/",
     "title": "California Department of Public Health: Sunset of Temporary Licenses",
     "excerpt": "<p>The Medicinal and Adult-Use Cannabis Regulations and Safety Act (MAUCRSA) contains a sunset clause for temporary license applications (BPC section 26050.1).</p>\n",
     "author": "Department of Cannabis Control",
@@ -65,7 +65,7 @@
       "site_name": "Department of Cannabis Control",
       "site_description": "Learn about California cannabis laws and licenses",
       "site_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io",
-      "canonical_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/announcements/california-department-of-public-health-sunset-of-temporary-licenses/",
+      "canonical_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/about-us/announcements/california-department-of-public-health-sunset-of-temporary-licenses/",
       "page_title": "California Department of Public Health: Sunset of Temporary Licenses",
       "page_description": "The Medicinal and Adult-Use Cannabis Regulations and Safety Act (MAUCRSA) contains a sunset clause for temporary license applications (BPC section 26050.1).",
       "page_social_image_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
@@ -74,7 +74,7 @@
       "page_social_image_alt": "",
       "meta_title": "California Department of Public Health: Sunset of Temporary Licenses",
       "meta_description": "The Medicinal and Adult-Use Cannabis Regulations and Safety Act (MAUCRSA) contains a sunset clause for temporary license applications (BPC section 26050.1).",
-      "meta_canonical_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/announcements/california-department-of-public-health-sunset-of-temporary-licenses/",
+      "meta_canonical_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/about-us/announcements/california-department-of-public-health-sunset-of-temporary-licenses/",
       "open_graph_title": "California Department of Public Health: Sunset of Temporary Licenses",
       "open_graph_description": "The Medicinal and Adult-Use Cannabis Regulations and Safety Act (MAUCRSA) contains a sunset clause for temporary license applications (BPC section 26050.1).",
       "twitter_title": "California Department of Public Health: Sunset of Temporary Licenses",
@@ -89,13 +89,13 @@
         "term_taxonomy_id": 14,
         "taxonomy": "category",
         "description": "",
-        "parent": 0,
+        "parent": 878,
         "filter": "raw",
         "cat_ID": 14,
         "category_description": "",
         "cat_name": "Announcements",
         "category_nicename": "announcements",
-        "category_parent": 0
+        "category_parent": 878
       }
     ],
     "headless_tags": [
@@ -209,6 +209,6 @@
       "custom_post_date": "",
       "custom_post_location": ""
     },
-    "wordpress_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/announcements/california-department-of-public-health-sunset-of-temporary-licenses/"
+    "wordpress_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/about-us/announcements/california-department-of-public-health-sunset-of-temporary-licenses/"
   }
 }

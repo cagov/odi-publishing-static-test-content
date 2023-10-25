@@ -23,7 +23,7 @@
     "slug": "vaping-related-lung-illness-a-summary-of-the-public-health-risks-and-recommendations-for-the-public",
     "status": "publish",
     "type": "post",
-    "link": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/announcements/vaping-related-lung-illness-a-summary-of-the-public-health-risks-and-recommendations-for-the-public/",
+    "link": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/about-us/announcements/vaping-related-lung-illness-a-summary-of-the-public-health-risks-and-recommendations-for-the-public/",
     "title": "Vaping Related Lung Illness: A Summary of the Public Health Risks and Recommendations for the Public",
     "excerpt": "<p>This health advisory seeks to inform the public about the imminent public health risks posed by vaping any product, including the use of electronic cigarettes (e‐cigarettes), as vaping has recently been linked to severe breathing problems, lung damage, and even death.</p>\n",
     "author": "Department of Cannabis Control",
@@ -69,7 +69,7 @@
       "site_name": "Department of Cannabis Control",
       "site_description": "Learn about California cannabis laws and licenses",
       "site_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io",
-      "canonical_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/announcements/vaping-related-lung-illness-a-summary-of-the-public-health-risks-and-recommendations-for-the-public/",
+      "canonical_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/about-us/announcements/vaping-related-lung-illness-a-summary-of-the-public-health-risks-and-recommendations-for-the-public/",
       "page_title": "Vaping Related Lung Illness: A Summary of the Public Health Risks and Recommendations for the Public",
       "page_description": "This health advisory seeks to inform the public about the imminent public health risks posed by vaping any product, including the use of electronic cigarettes (e‐cigarettes), as vaping has recently been linked to severe breathing problems, lung damage, and even death.",
       "page_social_image_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
@@ -78,7 +78,7 @@
       "page_social_image_alt": "",
       "meta_title": "Vaping Related Lung Illness: A Summary of the Public Health Risks and Recommendations for the Public",
       "meta_description": "This health advisory seeks to inform the public about the imminent public health risks posed by vaping any product, including the use of electronic cigarettes (e‐cigarettes), as vaping has recently been linked to severe breathing problems, lung damage, and even death.",
-      "meta_canonical_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/announcements/vaping-related-lung-illness-a-summary-of-the-public-health-risks-and-recommendations-for-the-public/",
+      "meta_canonical_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/about-us/announcements/vaping-related-lung-illness-a-summary-of-the-public-health-risks-and-recommendations-for-the-public/",
       "open_graph_title": "Vaping Related Lung Illness: A Summary of the Public Health Risks and Recommendations for the Public",
       "open_graph_description": "This health advisory seeks to inform the public about the imminent public health risks posed by vaping any product, including the use of electronic cigarettes (e‐cigarettes), as vaping has recently been linked to severe breathing problems, lung damage, and even death.",
       "twitter_title": "Vaping Related Lung Illness: A Summary of the Public Health Risks and Recommendations for the Public",
@@ -93,13 +93,13 @@
         "term_taxonomy_id": 14,
         "taxonomy": "category",
         "description": "",
-        "parent": 0,
+        "parent": 878,
         "filter": "raw",
         "cat_ID": 14,
         "category_description": "",
         "cat_name": "Announcements",
         "category_nicename": "announcements",
-        "category_parent": 0
+        "category_parent": 878
       }
     ],
     "headless_tags": [
@@ -257,6 +257,6 @@
       "custom_post_date": "",
       "custom_post_location": ""
     },
-    "wordpress_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/announcements/vaping-related-lung-illness-a-summary-of-the-public-health-risks-and-recommendations-for-the-public/"
+    "wordpress_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/about-us/announcements/vaping-related-lung-illness-a-summary-of-the-public-health-risks-and-recommendations-for-the-public/"
   }
 }

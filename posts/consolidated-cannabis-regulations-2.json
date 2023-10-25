@@ -23,7 +23,7 @@
     "slug": "consolidated-cannabis-regulations-2",
     "status": "publish",
     "type": "post",
-    "link": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/announcements/consolidated-cannabis-regulations-2/",
+    "link": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/about-us/announcements/consolidated-cannabis-regulations-2/",
     "title": "Consolidated cannabis regulations",
     "excerpt": "<p>Type:&nbsp;Readoption of emergency regulations Status:&nbsp;Approved March 28, 2022 The Department of Cannabis Control (DCC) is proposing to readopt its emergency regulations that consolidate the commercial cannabis regulations. This readoption would allow the emergency regulations to remain in place while DCC completes the regular rulemaking process, which began on Friday, March 4. View the rulemaking documents:</p>\n",
     "author": "Catherine Foss",
@@ -55,7 +55,7 @@
       "site_name": "Department of Cannabis Control",
       "site_description": "Learn about California cannabis laws and licenses",
       "site_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io",
-      "canonical_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/announcements/consolidated-cannabis-regulations-2/",
+      "canonical_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/about-us/announcements/consolidated-cannabis-regulations-2/",
       "page_title": "Consolidated cannabis regulations",
       "page_description": "Learn about California cannabis laws and licenses",
       "page_social_image_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
@@ -64,7 +64,7 @@
       "page_social_image_alt": "",
       "meta_title": "Consolidated cannabis regulations",
       "meta_description": "Learn about California cannabis laws and licenses",
-      "meta_canonical_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/announcements/consolidated-cannabis-regulations-2/",
+      "meta_canonical_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/about-us/announcements/consolidated-cannabis-regulations-2/",
       "open_graph_title": "Consolidated cannabis regulations",
       "open_graph_description": "Learn about California cannabis laws and licenses",
       "twitter_title": "Consolidated cannabis regulations",
@@ -79,13 +79,13 @@
         "term_taxonomy_id": 14,
         "taxonomy": "category",
         "description": "",
-        "parent": 0,
+        "parent": 878,
         "filter": "raw",
         "cat_ID": 14,
         "category_description": "",
         "cat_name": "Announcements",
         "category_nicename": "announcements",
-        "category_parent": 0
+        "category_parent": 878
       }
     ],
     "headless_tags": [],
@@ -99,6 +99,6 @@
       "custom_post_date": "",
       "custom_post_location": ""
     },
-    "wordpress_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/announcements/consolidated-cannabis-regulations-2/"
+    "wordpress_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/about-us/announcements/consolidated-cannabis-regulations-2/"
   }
 }

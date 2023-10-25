@@ -23,7 +23,7 @@
     "slug": "notice-of-opportunity-for-public-comment-and-public-hearing",
     "status": "publish",
     "type": "post",
-    "link": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/announcements/notice-of-opportunity-for-public-comment-and-public-hearing/",
+    "link": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/about-us/announcements/notice-of-opportunity-for-public-comment-and-public-hearing/",
     "title": "State Water Board: Public Hearing, Responses to Comments, and Final Draft of Proposed Updates to Cannabis Policy",
     "excerpt": "<p>The State Water Resources Control Board (State Water Board) is holding a Board Meeting on February 5, 2019. </p>\n",
     "author": "Department of Cannabis Control",
@@ -61,7 +61,7 @@
       "site_name": "Department of Cannabis Control",
       "site_description": "Learn about California cannabis laws and licenses",
       "site_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io",
-      "canonical_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/announcements/notice-of-opportunity-for-public-comment-and-public-hearing/",
+      "canonical_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/about-us/announcements/notice-of-opportunity-for-public-comment-and-public-hearing/",
       "page_title": "State Water Board: Public Hearing, Responses to Comments, and Final Draft of Proposed Updates to Cannabis Policy",
       "page_description": "The State Water Resources Control Board (State Water Board) is holding a Board Meeting on February 5, 2019. ",
       "page_social_image_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
@@ -70,7 +70,7 @@
       "page_social_image_alt": "",
       "meta_title": "State Water Board: Public Hearing, Responses to Comments, and Final Draft of Proposed Updates to Cannabis Policy",
       "meta_description": "The State Water Resources Control Board (State Water Board) is holding a Board Meeting on February 5, 2019. ",
-      "meta_canonical_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/announcements/notice-of-opportunity-for-public-comment-and-public-hearing/",
+      "meta_canonical_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/about-us/announcements/notice-of-opportunity-for-public-comment-and-public-hearing/",
       "open_graph_title": "State Water Board: Public Hearing, Responses to Comments, and Final Draft of Proposed Updates to Cannabis Policy",
       "open_graph_description": "The State Water Resources Control Board (State Water Board) is holding a Board Meeting on February 5, 2019. ",
       "twitter_title": "State Water Board: Public Hearing, Responses to Comments, and Final Draft of Proposed Updates to Cannabis Policy",
@@ -85,13 +85,13 @@
         "term_taxonomy_id": 14,
         "taxonomy": "category",
         "description": "",
-        "parent": 0,
+        "parent": 878,
         "filter": "raw",
         "cat_ID": 14,
         "category_description": "",
         "cat_name": "Announcements",
         "category_nicename": "announcements",
-        "category_parent": 0
+        "category_parent": 878
       }
     ],
     "headless_tags": [
@@ -161,6 +161,6 @@
       "custom_post_date": "",
       "custom_post_location": ""
     },
-    "wordpress_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/announcements/notice-of-opportunity-for-public-comment-and-public-hearing/"
+    "wordpress_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/about-us/announcements/notice-of-opportunity-for-public-comment-and-public-hearing/"
   }
 }

@@ -23,7 +23,7 @@
     "slug": "california-announces-20m-cannabis-research-grant-recipients",
     "status": "publish",
     "type": "post",
-    "link": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/announcements/california-announces-20m-cannabis-research-grant-recipients/",
+    "link": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/about-us/announcements/california-announces-20m-cannabis-research-grant-recipients/",
     "title": "California announces $20M cannabis research grant recipients",
     "excerpt": "<p>Sixteen grant recipients will study medicinal use of cannabis, cannabis potency, health of the cannabis industry, monopolies and unfair competition, and California legacy genetics &amp; genetic sequencing CALIFORNIA &#8211; The California Department of Cannabis Control (DCC) awarded almost $20 million in research grants to 16 academic institutions. These studies will support scientific research on the [&hellip;]</p>\n",
     "author": "Mukhtar Mukhtar",
@@ -55,7 +55,7 @@
       "site_name": "Department of Cannabis Control",
       "site_description": "Learn about California cannabis laws and licenses",
       "site_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io",
-      "canonical_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/announcements/california-announces-20m-cannabis-research-grant-recipients/",
+      "canonical_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/about-us/announcements/california-announces-20m-cannabis-research-grant-recipients/",
       "page_title": "California announces $20M cannabis research grant recipients",
       "page_description": "Learn about California cannabis laws and licenses",
       "page_social_image_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
@@ -64,7 +64,7 @@
       "page_social_image_alt": "",
       "meta_title": "California announces $20M cannabis research grant recipients",
       "meta_description": "The California Department of Cannabis Control (DCC) awarded almost $20 million in research grants to 16 academic institutions. These studies will support scientific research on the impacts of cannabis on the mental health of young people, novel cannabinoids like Delta&#x2d;8 and Delta&#x2d;10 THC, and a first&#x2d;of&#x2d;its kind study of California’s legacy cannabis genetics, intended to preserve the history, value, and diversity of the communities that steward them.",
-      "meta_canonical_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/announcements/california-announces-20m-cannabis-research-grant-recipients/",
+      "meta_canonical_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/about-us/announcements/california-announces-20m-cannabis-research-grant-recipients/",
       "open_graph_title": "California announces $20M cannabis research grant recipients",
       "open_graph_description": "Learn about California cannabis laws and licenses",
       "twitter_title": "California announces $20M cannabis research grant recipients",
@@ -79,13 +79,13 @@
         "term_taxonomy_id": 14,
         "taxonomy": "category",
         "description": "",
-        "parent": 0,
+        "parent": 878,
         "filter": "raw",
         "cat_ID": 14,
         "category_description": "",
         "cat_name": "Announcements",
         "category_nicename": "announcements",
-        "category_parent": 0
+        "category_parent": 878
       }
     ],
     "headless_tags": [],
@@ -99,6 +99,6 @@
       "custom_post_date": "",
       "custom_post_location": ""
     },
-    "wordpress_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/announcements/california-announces-20m-cannabis-research-grant-recipients/"
+    "wordpress_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/about-us/announcements/california-announces-20m-cannabis-research-grant-recipients/"
   }
 }

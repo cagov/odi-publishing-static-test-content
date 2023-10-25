@@ -23,7 +23,7 @@
     "slug": "cannabis-and-hemp-conference-held-in-fresno",
     "status": "publish",
     "type": "post",
-    "link": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/announcements/cannabis-and-hemp-conference-held-in-fresno/",
+    "link": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/about-us/announcements/cannabis-and-hemp-conference-held-in-fresno/",
     "title": "Cannabis and Hemp Conference Held in Fresno",
     "excerpt": "<p>Many of the people at the Cannabis and Hemp Conference held at Bitwise Industries came to learn more about the challenge of creating a statewide marijuana marketplace.</p>\n",
     "author": "Department of Cannabis Control",
@@ -58,7 +58,7 @@
       "site_name": "Department of Cannabis Control",
       "site_description": "Learn about California cannabis laws and licenses",
       "site_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io",
-      "canonical_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/announcements/cannabis-and-hemp-conference-held-in-fresno/",
+      "canonical_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/about-us/announcements/cannabis-and-hemp-conference-held-in-fresno/",
       "page_title": "Cannabis and Hemp Conference Held in Fresno",
       "page_description": "Many of the people at the Cannabis and Hemp Conference held at Bitwise Industries came to learn more about the challenge of creating a statewide marijuana marketplace.",
       "page_social_image_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/wp-content/uploads/2021/07/cropped-Cannabis_horizontal_social.png",
@@ -67,7 +67,7 @@
       "page_social_image_alt": "",
       "meta_title": "Cannabis and Hemp Conference Held in Fresno",
       "meta_description": "Many of the people at the Cannabis and Hemp Conference held at Bitwise Industries came to learn more about the challenge of creating a statewide marijuana marketplace.",
-      "meta_canonical_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/announcements/cannabis-and-hemp-conference-held-in-fresno/",
+      "meta_canonical_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/about-us/announcements/cannabis-and-hemp-conference-held-in-fresno/",
       "open_graph_title": "Cannabis and Hemp Conference Held in Fresno",
       "open_graph_description": "Many of the people at the Cannabis and Hemp Conference held at Bitwise Industries came to learn more about the challenge of creating a statewide marijuana marketplace.",
       "twitter_title": "Cannabis and Hemp Conference Held in Fresno",
@@ -82,13 +82,13 @@
         "term_taxonomy_id": 14,
         "taxonomy": "category",
         "description": "",
-        "parent": 0,
+        "parent": 878,
         "filter": "raw",
         "cat_ID": 14,
         "category_description": "",
         "cat_name": "Announcements",
         "category_nicename": "announcements",
-        "category_parent": 0
+        "category_parent": 878
       }
     ],
     "headless_tags": [
@@ -125,6 +125,6 @@
       "custom_post_date": "",
       "custom_post_location": ""
     },
-    "wordpress_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/announcements/cannabis-and-hemp-conference-held-in-fresno/"
+    "wordpress_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/about-us/announcements/cannabis-and-hemp-conference-held-in-fresno/"
   }
 }
