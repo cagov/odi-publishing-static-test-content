@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2023-05-25T16:52:59",
-    "updated_date": "2023-05-25T16:53:04",
+    "updated_date": "2023-10-25T18:21:10",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2023-05-25T09:52:59",
     "date_gmt": "2023-05-25T16:52:59",
     "guid": "https://editor-dev-cannabis-ca-gov.pantheonsite.io/?p=13041",
-    "modified": "2023-05-25T09:53:04",
-    "modified_gmt": "2023-05-25T16:53:04",
+    "modified": "2023-10-25T11:21:10",
+    "modified_gmt": "2023-10-25T18:21:10",
     "slug": "how-to-make-a-premises-diagram",
     "status": "publish",
     "type": "post",
@@ -39,6 +39,7 @@
     },
     "categories": [
       "Applicants",
+      "Application Resources",
       "How to apply"
     ],
     "tags": [],
@@ -87,6 +88,22 @@
         "cat_name": "Applicants",
         "category_nicename": "applicants",
         "category_parent": 821
+      },
+      {
+        "term_id": 858,
+        "name": "Application Resources",
+        "slug": "application-resources",
+        "term_group": 0,
+        "term_taxonomy_id": 858,
+        "taxonomy": "category",
+        "description": "",
+        "parent": 0,
+        "filter": "raw",
+        "cat_ID": 858,
+        "category_description": "",
+        "cat_name": "Application Resources",
+        "category_nicename": "application-resources",
+        "category_parent": 0
       },
       {
         "term_id": 859,
