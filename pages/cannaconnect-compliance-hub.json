@@ -79,13 +79,13 @@
         "term_taxonomy_id": 812,
         "taxonomy": "category",
         "description": "",
-        "parent": 0,
+        "parent": 869,
         "filter": "raw",
         "cat_ID": 812,
         "category_description": "",
         "cat_name": "CannaConnect",
         "category_nicename": "cannaconnect",
-        "category_parent": 0
+        "category_parent": 869
       }
     ],
     "headless_tags": [],
